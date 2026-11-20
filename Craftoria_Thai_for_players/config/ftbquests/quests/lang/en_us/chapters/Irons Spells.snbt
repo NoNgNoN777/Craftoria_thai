@@ -1,0 +1,58 @@
+{
+	quest.06294216A755E2F2.quest_desc: ["Blaze Rod ใช้คราฟต์ Fire Scroll"]
+	quest.0696635896D223CA.quest_desc: ["Graybeard Staff ทำอย่างนั้นจริง ๆ คือให้ Greybeard แก่คุณ... ล้อเล่น ไม้เท้านี้ช่วยฟื้นมานาและเพิ่มพลัง Scroll ของคุณ เป็นหนึ่งในไม้เท้าที่คราฟต์ง่ายที่สุด"]
+	quest.0BDF41399223A10A.quest_desc: ["ใช้ Scroll Forge กับ Ender Pearl คราฟต์ Ender Scrolls"]
+	quest.0C37E9D8A7823264.quest_desc: ["Artificer's Cane ช่วยเรื่องการเดินสำหรับผู้สูงวัยทุกท่าน ล้อเล่น ไม้เท้านี้ลดคูลดาวน์และเวลาร่าย และเพิ่ม Spell Power ของคุณ แพงกว่า Graybeard Staff อยู่หน่อย แต่คุ้มสำหรับการร่ายเวทใหญ่ (ควรแยกไม้เท้าเหล่านี้เป็นหมวดของตัวเอง)"]
+	quest.0D8988AF02D890EA.quest_subtitle: "ค้นหาสมรภูมิโบราณ"
+	quest.0D8988AF02D890EA.title: "The Walking Dead"
+	quest.0ED5CB1120D1BD6E.quest_desc: ["Scrolls พบได้ระหว่างสำรวจ กระจายอยู่ทั่วโลก แต่ถ้าไม่ระวังแล้วเลือกใช้ Scroll จะใช้ได้เพียงครั้งเดียว"]
+	quest.0ED5CB1120D1BD6E.title: "Scroll"
+	quest.2085CB41244C2783.quest_desc: ["เมื่ออยู่ใน Nether คุณต้องสู้ฝ่าไปหา Hogs และเก็บ Hogskin"]
+	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - เมื่อสวมใส่ เครื่องรางนี้จะเพิ่มการฟื้นฟูมานา 15%"]
+	quest.2ACF8F5EFD3C4AF7.title: "รองเท้าบูท (Boots)"
+	quest.2F53567C34E86536.quest_desc: ["นี่คือ Spellbook พื้นฐานที่สุด เก็บ Spell ได้เพียงห้าอัน"]
+	quest.30ED8D5374012D92.quest_desc: ["Bottle o' Lightning ได้จากการคลิกขวาด้วยขวดใส่ creeper ที่ถูกชาร์จ"]
+	quest.33EEBDD0730C020E.quest_desc: ["ใช้ Scroll Forge และ Blood Vial เพื่อคราฟต์ Blood Scrolls"]
+	quest.37A5C2FCA8F75BE6.title: "ค้าขายกับสันตะปาปา (Trade with the pope)"
+	quest.37F1166AB7EF132E.quest_subtitle: "ของเหนียว ๆ นี่อะไร?"
+	quest.3AAE23B6BE07E5DC.quest_desc: ["ใช้ Scroll Forge และ Divine Pearl คราฟต์ Holy Scrolls ซึ่งเหมาะกับการรักษาและเอฟเฟกต์"]
+	quest.3B3FDF02E891DD39.quest_desc: ["Apprentice Spellbook เป็นหนังสือที่ดีกว่า ต้องเดินทางไป Nether"]
+	quest.3D4317C2B25D5680.quest_desc: ["&bScroll Forge&r ใช้ &6คราฟต์&r scroll ด้วย &bPaper&r และ &bInk&r", "", "คุณสร้าง &bspell&r ได้หลายประเภทด้วยไอเทมที่ต่างกัน ", "", "ไอเทมที่ต่างกันเหล่านี้เรียกว่า &bFocuses&r ", "", "&bFocus&r แต่ละอันใช้กับ scroll ชนิดเฉพาะ ", "", "โปรดรู้ว่า ยิ่ง &6ระดับ&r ของ &bInk&r ที่คุณเลือกสูง scroll ที่หายากกว่าก็จะมีให้ใช้ และ scroll จะทรงพลังกว่า"]
+	quest.3E212B5DE277B73A.quest_subtitle: "อู๊ดๆ"
+	quest.3E8C6BD8557C6F08.quest_desc: ["หลังจากใช้ Manuscript ปลดล็อก Eldritch Scrolls แล้ว คุณใช้ Echo Shards ใน Scrolls forge เพื่อคราฟต์ Eldritch Spell ได้ Scrolls เหล่านี้คราฟต์ได้ด้วย Legendary Ink เท่านั้น", "", "Abyssal Shroud - เคยอยากหลบการโจมตีไหม Creeper ระเบิดแล้วคุณพูดได้ว่า \"ฮ่า พลาดแล้ว\" สเปลนี้เปลี่ยนคุณเป็น enderman วาร์ปหนีเมื่อถูกโจมตี แทบจะอมตะตลอดเวลาที่สเปลยังคงอยู่", "", "Eldrich Blast - เมื่อเปิดใช้ คุณยิงพลังงานบริสุทธิ์ได้สูงสุด 7 นัด แต่ละนัดยิงไกลได้สูงสุด 30 บล็อก ระวังอย่าให้ระเบิดใส่หัวตัวเองล่ะ", "", "Planar Sight - อันนี้รู้สึกเหมือนโกง... คุณมองเห็นเอนทิตีทุกตัวในระยะเรนเดอร์ที่กำหนด ใช้ได้ทั้งเอนทิตีที่ล่องหนและไม่ล่องหน และทำให้พวกมันเรืองแสงทะลุกำแพง", "", "Skulk Tentacles - สเปลที่น่าขนลุกมาก ปล่อยป่า Skulk Tentacles ขึ้นจากพื้น เหมาะกับการแกล้งเพื่อนที่เพิ่งเล่นเกมใหม่ หรือกวาดล้างม็อบเป็นกลุ่ม และสร้างความเสียหายได้พอสมควร", "", "Sonic Boom - กลายเป็น Warden แล้วปล่อยเสียงระเบิด ที่สร้างความเสียหายมหาศาลแก่เอนทิตีในระยะ 20-30 บล็อก (ขึ้นอยู่กับเลเวล)", "", "Telekinesis - เคยอยากโยนม็อบหรือเพื่อนให้หายไปไหม สเปลนี้ให้คุณยกเอนทิตีขึ้นมาแล้วเหวี่ยงไปมาจนกว่าสเปลจะหมด ระวังด้วย ถ้าทำให้พวกเขาพุ่งชนกำแพง จะได้รับความเสียหายจากแรงกระแทก"]
+	quest.40FF154148BBAFF2.quest_subtitle: "โอ้โห แวววาว"
+	quest.42AC14C7D41F0CAB.quest_desc: ["ใช้ Scroll Forge กับ Blaze Rod เพื่อคราฟต์ Fire Scrolls ซึ่งเผาศัตรูได้ดีมาก... และบางครั้งก็เผาเพื่อนด้วย... แค่อย่าร่าย fireball ใส่สัตว์เลี้ยงของพวกเขาโดยไม่ตั้งใจก็พอ"]
+	quest.43ACFDB5CD949C74.quest_desc: ["ใช้ Scroll Forge กับ Poisonous Potato เพื่อทำ Nature Scrolls ซึ่งเหมาะกับความเสียหายแบบพิษหรือตรึงศัตรูให้อยู่กับที่"]
+	quest.480F170F7028C337.quest_desc: ["ช่องสเปล Lesser "]
+	quest.4E7439769A073494.title: "Leggins"
+	quest.51542DCB5C8E5C3A.quest_desc: ["Spellbook ระดับสองที่เก็บสเปลได้เพียง 6 สเปล"]
+	quest.51A8026A0F8A83B1.quest_desc: ["พบ Emerald ได้ขณะขุด สำรวจ หรือค้าขายกับ villager และใช้คราฟต์ Evocation Scrolls"]
+	quest.5221657F939FE63B.quest_desc: ["ใช้ Scroll Forge กับ Bottle O' Lightning เพื่อคราฟต์ Lightning Scrolls"]
+	quest.56A515610D242E28.quest_desc: ["Ink มีหลายระดับความหายาก และคุณต้องใช้ Ink ระดับสูงกว่าสำหรับ scroll ระดับสูงกว่า"]
+	quest.56A515610D242E28.title: "Ink"
+	quest.573FAED7B35F6C86.quest_desc: ["สำหรับจอมเวทที่ช่ำชองกว่า Enchated Spellbook มีสิบช่อง"]
+	quest.5F2801445E518E49.quest_desc: ["Vials of Blood ได้มาจากการยืนอยู่ใน Alchemist Cauldron หรือยืนใน Cauldron ธรรมดาที่มีไฟอยู่ข้างใต้ เมื่อเลือดเต็มระดับหนึ่งแล้ว คุณคลิกขวาด้วยขวดเปล่าเพื่อเก็บเลือดได้"]
+	quest.5F8E418D6A0AD158.quest_desc: ["Divine Pearls คราฟต์จาก Gold Ingot หนึ่งชิ้นและ Amethyst Shard หนึ่งชิ้นใน Crafting Bench ใช้สร้าง Holy Scrolls"]
+	quest.67792A4DE6EDBC37.quest_desc: ["Eldritch Manuscript ทำจาก Knowlege Fragments แปดชิ้นและ Echo Shard หนึ่งชิ้น ทั้งสองอย่างหาได้จากการปล้น Ancient Cities เมื่อใช้ จะได้พลังของ Eldritch Scroll หนึ่งม้วนที่คุณเลือก คุณปลดล็อกเพิ่มได้ แต่ต้องใช้ Manuscript ใหม่ต่อหนึ่งม้วน"]
+	quest.682D1178AF51998C.quest_desc: ["คราฟต์ Rune ใดก็ได้ที่เข้ากับเกราะเวทหรือ upgrade orb ที่คุณต้องการมากที่สุด"]
+	quest.68493CE96FD68EBA.title: "Cryomancer"
+	quest.69400E62D67A21FC.quest_desc: ["ใช้ Scroll Forge และ Emerald สร้าง Evocation Scrolls"]
+	quest.6D092A4BC4A22314.quest_desc: ["Ancient Knowledge Fragments พบได้ยากในของจากชั้นหนังสือ พบบ่อยกว่าใน Ancient Cities หรือจากการแลกเปลี่ยนกับ Wandering Trader ใช้คราฟต์ Elditch Manuscript ซึ่งเป็นกุญแจปลดล็อกความรู้โบราณที่สาบสูญไปนานแสนนาน และปัจจุบันมีเพียง Wardens กับผู้กล้าไม่กี่คนที่ออกตามหาเวทสำนักเก่านี้เท่านั้นที่ใช้"]
+	quest.704C0B04EFF5024C.quest_desc: ["โต๊ะนี้ใช้รวบรวม &bScrolls &fที่คุณพบและคราฟต์ไว้เป็น &bSpellbook&f", "", "หากต้องการเอา &bScroll ออก &6คลิก &fที่เวทที่ต้องการ&6 เอาออก&f แล้ว &6คลิก&f &bScroll&f จาก Inscription ทาง&6ด้านขวา&f"]
+	quest.71A219DF9715D153.quest_desc: ["ใช้ Scroll Forge และ Frozen Bone เพื่อคราฟต์ Ice Scrolls"]
+	quest.72539873C7201A47.quest_desc: ["Poisonous Potatos ใช้คราฟต์ Nature Scrolls"]
+	quest.7422BD3C0F060AC5.quest_desc: ["นี่คือ spellbook ระดับสูงสุดที่จอมเวทผู้ช่ำชองจะหาได้"]
+	quest.7422BD3C0F060AC5.title: "Magelike Spellbooks"
+	quest.74D9B681E8EFE064.quest_desc: ["Ender Pearls ดรอปจาก endermen และใช้สร้าง Ender Scrolls"]
+	quest.77719A9FBDFE49A7.quest_desc: ["เมื่อคุณได้ Runestone เปล่ามา คุณคราฟต์ชนิดที่ผสานพลังเวทหลายประเภทได้ ใช้คราฟต์อัปเกรดสำหรับอุปกรณ์ของคุณ หรือแค่ทำอุปกรณ์ที่ดีขึ้นโดยทั่วไป"]
+	quest.7CF09238E123231F.quest_desc: ["&bRod o' Lightning&r ให้ &9Spell Cooldown Reduction&r &a+15%&r และ &eLightning Spell Power&r นอกจากนี้ยังให้พลัง scroll &a5%&r แก่ &bScrolls&r ที่ไม่ใช่สายฟ้า ", "", "ใช้ช่วยร่ายคาถาให้มีประสิทธิภาพขึ้น"]
+	quest.7EDF633DDB5DA2A1.quest_desc: ["Frozen Bones ดรอปจาก Strays และใช้คราฟต์ Ice Scrolls"]
+	task.0D974A2537B460E2.title: "อัปเกรดดดดดดดดดดด (Upgrades AAAAAAAAAAAAHHHHHHHHH)"
+	task.1ACF33BDD92D15DA.title: "สังหาร Pope (KILL the Pope)"
+	task.1B5D407F2729F56F.title: "กษัตริย์ที่ตายแล้ว (The DEAD King)"
+	task.1F5A29E07CD58234.title: "หมวก (Hats)"
+	task.4F7787C0557CF5CC.title: "Apo The Carist"
+	task.54E5D81FEE18AF83.title: "Pyromancer"
+	task.65B2D0E35B083E82.title: "ผู้แข็งแกร่งที่สุดอยู่รอด (Survival of the Fittest)"
+	task.7AB3BAEAA2E50F06.title: "Archevoker"
+}

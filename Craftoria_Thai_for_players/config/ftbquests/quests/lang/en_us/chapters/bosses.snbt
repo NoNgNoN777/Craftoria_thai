@@ -1,0 +1,53 @@
+{
+	quest.0012F8780D9172DE.quest_subtitle: "พบได้ด้วยการใช้ Eye of Abyss"
+	quest.0012F8780D9172DE.title: "&5Leviathan"
+	quest.19B550F54950E253.quest_subtitle: "พบในหอคอยหายากในไบโอมหนาว หาหอคอยได้โดยตามดาววิญญาณไป"
+	quest.19B550F54950E253.title: "&bNight Lich"
+	quest.1D2EF18DBF02F6EB.quest_desc: ["&6Dark Tower&r อยู่ในที่โล่งเล็ก ๆ กลาง &2Dark Forest&r ", "", "พื้นที่ตรงกลางมีใบไม้สีแดงอมส้มแบบฤดูใบไม้ร่วงและหญ้าซีดจาง ", "", "&6Dark Tower&r เป็นที่เกิดการทดลองลี้ลับมากมาย"]
+	quest.1D2EF18DBF02F6EB.quest_subtitle: "สิ่งมีชีวิตตนนี้ยึดครองยอด &6Dark Forest Tower&r และต้องถูกปราบเพื่อจบช่วง &2Dark Forest&r ของการผจญภัย"
+	quest.1D2EF18DBF02F6EB.title: "&8Ur&7-&fGhast"
+	quest.2209DC294580BF3D.quest_desc: ["มีทางเข้าตามธรรมชาติสี่ทาง ", "", "ภายในอาจพบฝูง &7Yetis&r ซึ่งมี &bAlpha Yeti&r ตัวใหญ่ยักษ์เป็นจ่าฝูง ", "", "เอาชนะ &bAlpha Yeti&r ในการต่อสู้ และเก็บขนนุ่มของมันมา คุณจะเข้าถึง &3Glacier&r ได้"]
+	quest.2209DC294580BF3D.quest_subtitle: "พบได้ใน &6Yeti Lair&r ในเนินเขาที่มีรูปร่างค่อนข้างเป็นสี่เหลี่ยม"
+	quest.2209DC294580BF3D.title: "&bAlpha Yeti"
+	quest.320C2F44DD138054.quest_desc: ["ต่างจากบอสอื่น สัตว์ตัวนี้ไม่ได้มีไว้ให้สังหาร ", "", "แต่ผู้เล่นต้องทำ &6Quest&r ของมันให้สำเร็จ โดยมอบ &bขนแกะ&r ให้ครบทุกสี", "", "ให้ขนแกะได้โดยทิ้ง &bขนแกะ&r ไว้ใต้ &cRam&r หรือใช้ &bขนแกะ&r กับมัน ", "", "ทุกครั้งที่ได้รับ &bขนแกะ&r หนึ่งบล็อก ตัวมันจะยืดยาวขึ้นและมีแถบขนแกะสีนั้นเพิ่มบนตัว ", "", "เมื่อเควสของมันสำเร็จ มันจะดรอป &6Trophy&r ซึ่งทำให้เควสนี้สำเร็จ"]
+	quest.320C2F44DD138054.quest_subtitle: "สัตว์บอสใจดีที่พบใน &6Quest Grove&r ซึ่งพบได้เฉพาะในไบโอม &dEnchanted Forest&r"
+	quest.320C2F44DD138054.title: "&3Questing Ram"
+	quest.413557ECF489FD2C.quest_subtitle: "พบในโครงสร้างหายากบนเกาะ End"
+	quest.413557ECF489FD2C.title: "&5Obsidilith"
+	quest.4A559B47D164D1BB.quest_subtitle: "พบได้ด้วยการใช้ Eye of Curse"
+	quest.4A559B47D164D1BB.title: "&bMale&edictus"
+	quest.4C357D8CF72B8F25.quest_subtitle: "พบในโครงสร้างหายากใน Nether "
+	quest.4C357D8CF72B8F25.title: "&4Nether Gauntlet"
+	quest.4CA99DC1D953E1FB.quest_subtitle: "พบได้ด้วยการใช้ Eye of Void"
+	quest.4CA99DC1D953E1FB.title: "&dEnder Guardian"
+	quest.5570CFF754032FDB.quest_desc: ["สิ่งมีชีวิตน้ำแข็งหลากหลายอาศัยอยู่ในหอคอย ขณะที่ &9Snow Queen&r รออยู่ในห้องที่ปกคลุมด้วยน้ำค้างแข็งใกล้ยอด ", "", "นางได้รับการปกป้องด้วยโล่ &bน้ำแข็ง&r และจะโจมตีด้วยกระแสการโจมตีน้ำแข็ง หรือพุ่งเข้าใส่นักผจญภัย ", "", "การเอาชนะ &9Snow Queen&r ในการต่อสู้จะทำให้ช่วง &bSnow Forest&r ของการผจญภัยสำเร็จ"]
+	quest.5570CFF754032FDB.quest_subtitle: "พบได้ในหอคอยหลากสีใน &3Glaciers&r"
+	quest.5570CFF754032FDB.title: "&9Snow Queen"
+	quest.56723AEFD93C17F1.quest_subtitle: "พบได้ด้วยการใช้ Eye of Desert"
+	quest.56723AEFD93C17F1.title: "&6Ancient Remnant"
+	quest.5DBFD3F917C4E49C.quest_subtitle: "พบได้โดยใช้ Eye of Mech"
+	quest.5DBFD3F917C4E49C.title: "&4Harbinger"
+	quest.630EF1A8715E2D90.quest_subtitle: "พบได้โดยใช้ Eye of Storm"
+	quest.630EF1A8715E2D90.title: "&eScylla"
+	quest.63EC4C04DD5C0CA6.quest_subtitle: "พบได้โดยใช้ Eye of Flame"
+	quest.63EC4C04DD5C0CA6.title: "&6Ignis"
+	quest.63F26CC561D0B80D.quest_desc: ["&6Tower&r ถูกปกป้องด้วยเวทที่ห้ามทุบบล็อกและห้ามทำร้ายศัตรู ", "", "ทางเดียวที่จะเข้าไปได้คือเอาชนะ &aNaga&r", "", "การสังหาร &eLich&r และได้ไม้เท้าเวทของเขามาหนึ่งอัน จะเปิดพื้นที่ให้สำรวจต่ออีกสามแห่ง: ", "", "* &aThe Swamp", "* &bThe Snow Forest", "* &2The Dark Forest"]
+	quest.63F26CC561D0B80D.quest_subtitle: "พบภายใน &6Lich Tower&r ของเขา กลุ่มอาคารขนาดใหญ่ที่มีหอคอยแตกแขนงหลายแห่งในป่า "
+	quest.63F26CC561D0B80D.title: "&eLich"
+	quest.6531DF5573672E9E.quest_desc: ["ไม่มีเขาวงกตหรือดันเจียนให้ฝ่าไป เพราะ &1Hydra&r ไม่ต้องการการป้องกันจากผู้บุกรุก", "", "ขอให้โชคดี! ", "", "หากคุณรอดมาได้ ให้สัมผัส &6Hydra's Fiery Blood&r แล้วช่วง &aSwamp&r ของการผจญภัยจะเสร็จสมบูรณ์"]
+	quest.6531DF5573672E9E.quest_subtitle: "พบใน Hollow Hill ที่ถูกดัดแปลงกลาง &6Fire Swamp&r"
+	quest.6531DF5573672E9E.title: "&1Hydra"
+	quest.67785FD77E880DDB.quest_subtitle: "พบในถ้ำหายากที่ก้นโลก ดอก Void lilies จะชี้ทางให้"
+	quest.67785FD77E880DDB.title: "&dVoid Blossom"
+	quest.692049F6F50CC017.quest_desc: ["ใต้ &2Dark Forest&r (และบางครั้งพื้นที่โดยรอบ) มี &6Strongholds of the Twilight Knights&r ที่ล่มสลายอยู่ ", "", "ชั้นล่างของ stronghold ถูกปิดตายสนิท และก่อนเข้าไป คุณต้องผ่าน &bพิธีเริ่มต้น&r เล็ก ๆ ", "", "คุณต้องหาห้องเฉพาะแห่งหนึ่งในซากด้านบนของ stronghold ", "", "ห้องนั้นมี &bTrophy Pedestal&r และหลุมตื้นที่ถูกกั้นด้วย &6Stronghold Shields&r", "", "การวางถ้วยรางวัลจากบอสตัวก่อนหน้าตัวใดตัวหนึ่งบน pedestal จะทำให้โล่หายไปและเข้าสู่ชั้นล่างได้", "", "เมื่อเข้ามาในส่วนหลักของ stronghold แล้ว ในที่สุดคุณต้องหา &aKnight Phantoms&r เพื่อไปต่อ ", "", "การส่ง phantom ไปพักผ่อนชั่วนิรันดร์ จะทำให้อุปกรณ์ประหลาดของ &8Dark Tower&r เชื่อฟังคุณ"]
+	quest.692049F6F50CC017.quest_subtitle: "พบในส่วนลึกของ stronghold"
+	quest.692049F6F50CC017.title: "&2Knight Phantom"
+	quest.72FF205D1C9A9178.quest_subtitle: "พบได้โดยใช้ Eye of Monstrous"
+	quest.72FF205D1C9A9178.title: "&cNetherite Monstrosity"
+	quest.7DA49A7F33A82D1C.quest_desc: ["ใน &6Courtyard&r มีสิ่งกีดขวางน้อยมาก และ &aNaga&r ก็ทำลายมันได้ง่ายพอกัน", "", "การสังหาร &aNaga&r และสัมผัสเกล็ดเวทมนตร์ของมันชิ้นหนึ่งจะทำให้คุณเข้าสู่พื้นที่ถัดไปได้"]
+	quest.7DA49A7F33A82D1C.quest_subtitle: "พบได้ในลานที่ประดับด้วยลวดลายงู"
+	quest.7DA49A7F33A82D1C.title: "&aNaga"
+	quest.7DB4E20D476B5786.quest_desc: ["การสังหาร &cMinoshroom&r และกิน &bMeef Stroganoff&r ของมันบ้างจะทำให้คุณเข้าสู่ &6Fire Swamp&r ได้โดยไม่ถูกไฟเผา"]
+	quest.7DB4E20D476B5786.quest_subtitle: "คุณอาจพบทางเข้าธรรมชาติผ่านหุบเหวหรือถ้ำ หรืออาจพบทางเข้าในเนินดินเล็ก ๆ"
+	quest.7DB4E20D476B5786.title: "&cMinoshroom"
+}

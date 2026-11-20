@@ -1,0 +1,177 @@
+{
+	quest.00AC0C951A5D79D9.quest_desc: ["Chalk สี&0ดำ&rเสถียรที่สุดในบรรดาทั้งหมด พลังของมันควบคุมแม้วิญญาณที่แข็งแกร่งที่สุดไว้ได้"]
+	quest.00AC0C951A5D79D9.quest_subtitle: "รากฐานที่สมบูรณ์แบบ"
+	quest.0145A878C472548C.quest_desc: ["วิญญาณตนนี้จะดูแลการ&6เพาะ&r&bต้นไม้&rให้คุณ แถมยังพยายามปลูกต้นใหม่ทดแทนด้วย!"]
+	quest.0145A878C472548C.quest_subtitle: "ได้ไม้หรือยัง?"
+	quest.0145A878C472548C.title: "พิธีกรรม: เรียก Foliot Lumberjack (Ritual: Summon Foliot Lumberjack)"
+	quest.01E8A006742F7A00.quest_desc: ["โดยปกติ พื้นที่เก็บของของ Actuator ไม่ได้ใหญ่ที่สุด", "", "แก้ปัญหานี้ได้ด้วย &bStabilizers&r ซึ่งจะ&6ทำให้&rการเชื่อมต่อของ Actuator กับมิติเก็บของ&6เสถียร&rยิ่งขึ้น ทำให้&6เก็บได้มากขึ้น&rเรื่อย ๆ"]
+	quest.01E8A006742F7A00.quest_subtitle: "ยังไม่พอ"
+	quest.061EC183CDCBB25B.quest_desc: ["วิญญาณตนนี้จะขุด &bแร่สุ่ม&r และเร็วกว่าเล็กน้อย"]
+	quest.061EC183CDCBB25B.quest_subtitle: "ขุดไป ขุดไป ขุดหลุม"
+	quest.07D88A0ABF82A39A.quest_desc: ["เก็บได้จาก&6สัตว์&f เมื่อใช้ &bKnife&f"]
+	quest.07D88A0ABF82A39A.quest_subtitle: "วัสดุทำเทียนชั้นเยี่ยม"
+	quest.0C91DF887A33A8E6.quest_desc: ["จำได้ไหมที่ผมบอกว่าวิญญาณขุดแร่ให้คุณได้&r", "", "อุปกรณ์นี้เป็นประตูสู่อีกมิติหนึ่ง ซึ่งมีแต่วิญญาณของคุณเท่านั้นที่เข้าได้ &6ป้อน&r &bminer spirit&r แล้วมันจะนำ &bแร่&r และ&bบล็อกอื่น&rกลับมาเก็บไว้ในช่องเก็บของ", "", "บล็อกนี้&6ปิดการทำงาน&rได้ด้วย &bredstone&r และ&bความทนทาน&rของตะเกียงวัด&6ได้&rด้วย &bcomparator&r ต่อวงจรง่าย ๆ ก็ป้องกันไม่ให้ตะเกียงของนักขุดพังก่อนสายเกินไป"]
+	quest.0C91DF887A33A8E6.quest_subtitle: "ไม่ใช่ขุดในเวอยด์ แต่เป็นขุดในมิติกระเป๋า"
+	quest.0FE6DFF73BE7AA10.quest_desc: ["ต้องใช้ &aLime&r Chalk เพื่อเรียกวิญญาณที่สูงกว่า Foliot เป็นเครื่องรับรองว่าคุณเชี่ยวชาญพื้นฐานของ occultism แล้ว"]
+	quest.0FE6DFF73BE7AA10.quest_subtitle: "ความรู้"
+	quest.134098BE2769F85A.quest_desc: ["หาก&boccult familiar&r&6ตาย&r มันจะดรอปเศษชิ้นนี้", "", "ถ้าต้องการ คุณใช้มัน&6ชุบชีวิต&rมันได้"]
+	quest.15325B16AFE33D5C.quest_desc: ["คุณต้องใช้ &bTallow&r เพื่อทำเทียนของนักอาคม &6การฆ่าสัตว์ตัวใหญ่&rด้วย &bknife&r ใด ๆ จะเก็บได้บ้าง"]
+	quest.15325B16AFE33D5C.quest_subtitle: "เครื่องมือประจำอาชีพ"
+	quest.15325B16AFE33D5C.title: "มีด (Knives)"
+	quest.168AB4DADB1CA2D9.quest_desc: ["&bChalk&r ทุกชนิดคราฟต์ออกมา&6ไม่บริสุทธิ์&r และ&6ชำระ&rให้ใช้ได้ใน &5Spiritfire&r", "", "White Chalk เป็นชอล์กรากฐานที่ง่ายที่สุด และไม่มีคุณสมบัติพิเศษในตัวเอง"]
+	quest.168AB4DADB1CA2D9.quest_subtitle: "รากฐานแรก"
+	quest.1A8D5373290BC1A6.quest_desc: ["ด้วยความช่วยเหลือของวิญญาณ คุณสร้างทางเชื่อมไปยังอีกมิติหนึ่งเพื่อ&6เก็บ&r&bไอเทม&rทั้งหมดที่สะสมไว้ได้ คอลเลกชันของคุณน่าทึ่งจริง ๆ", "", "คุณต้องใช้ &bStorage Actuator&r เพื่อทำสิ่งนี้ คิดว่ามันเป็นหีบใบใหญ่มาก"]
+	quest.1A8D5373290BC1A6.quest_subtitle: "ที่เก็บของเวทมนตร์"
+	quest.1E6ADDD42C99274D.quest_desc: ["ท้ายที่สุด marid นักขุดชั้นเซียนก็ไม่ใช่ที่เก่งที่สุด... สิ่งมีชีวิตนี้ จะขุด&bทรัพยากรได้มากกว่า marid miner เกือบสิบเท่า&r"]
+	quest.1E6ADDD42C99274D.quest_subtitle: "ความมั่งคั่งเหล่านี้เป็นของข้า"
+	quest.1F828E56F64FFD15.quest_desc: ["&5Spiritfire&r เป็นเปลวไฟชนิดพิเศษที่&6แปลง&rวัตถุบางอย่างให้เป็นอย่างอื่นได้", "", "คุณสร้างได้โดย&6โยน&r &bDemon's Dream fruit&r ลงพื้น แล้ว&6จุดไฟ&r", "", "คุณ&6โยน&r &bAndesite&r ใส่เพื่อได้ &bOtherstone&r และโยน &bOak Saplings&r เพื่อได้ &bOtherworld Saplings&r"]
+	quest.1F828E56F64FFD15.quest_subtitle: "ไฟสีม่วง"
+	quest.1F828E56F64FFD15.title: "Spiritfire"
+	quest.206C9BCE1D67C3B8.quest_desc: ["การทำความสะอาด &bChalk&r ด้วยมืออาจเป็นงานน่าเบื่อ โชคดีที่มีวิธีแก้แล้ว ใช้ &bBrush&r"]
+	quest.206C9BCE1D67C3B8.quest_subtitle: "ไม่มีสบู่หรือไง"
+	quest.209744C68891F1DA.quest_desc: ["Bat ช่วยให้คุณ&6มองเห็น&rใน&bความมืด&r"]
+	quest.209744C68891F1DA.quest_subtitle: "ระบุตำแหน่งด้วยเสียงสะท้อน"
+	quest.219AFCECD9D006A2.quest_desc: ["Guardian &6ป้องกัน&r &bความตาย&r ของคุณ โดยแลกกับแขนขาหนึ่งข้างของมัน"]
+	quest.219AFCECD9D006A2.quest_subtitle: "ไม่ตาย"
+	quest.29DE74B144E0A85F.quest_desc: ["ชอล์ก &6สีส้ม&r เหมาะสำหรับเรียก Afrit แม้จะควบคุมพวกมันไม่ได้"]
+	quest.29DE74B144E0A85F.quest_subtitle: "เปรี้ยวจี๊ด"
+	quest.29EB6FA48EDBE556.quest_desc: ["ชอล์ก &7สีเทาอ่อน&r เป็นชอล์กรากฐานที่ดีกว่าสีขาว ช่วยให้ pentacle ที่วาดด้วยชอล์กนี้เสถียรขึ้น"]
+	quest.29EB6FA48EDBE556.quest_subtitle: "รากฐานที่สอง"
+	quest.2A1319D8CFE3653B.quest_desc: ["ตามค่าเริ่มต้น พื้นที่เก็บของของ Actuator ไม่ได้ใหญ่ที่สุด", "", "คุณแก้ปัญหานี้ได้โดยใช้ &bStabilizers&r ซึ่งจะ &6ทำให้เสถียร&r การเชื่อมต่อของ Actuator กับมิติเก็บของยิ่งขึ้น ทำให้ &6เก็บได้มาก&r ขึ้นเรื่อย ๆ"]
+	quest.2A1319D8CFE3653B.quest_subtitle: "ใส่บ้านทั้งหลังได้เลย..."
+	quest.2D5A0399B7FFA5DB.quest_desc: ["Cthulhu ทำให้คุณ &6หายใจ&r &bใต้น้ำ&r ได้"]
+	quest.2D5A0399B7FFA5DB.quest_subtitle: "รับเลี้ยงสยองขวัญจากต่างมิติวันนี้"
+	quest.320F924B4D0D5EE6.quest_desc: ["Beaver เพิ่ม &6ความเร็ว&r ในการเก็บเกี่ยว &bไม้&r", "", "มันยังพยายาม &6โค่น&r &bต้นไม้&r ด้วย"]
+	quest.320F924B4D0D5EE6.quest_subtitle: "ถ้ากระรอกดินขว้างไม้ได้ มันจะขว้างได้เท่าไหร่?"
+	quest.32677D1F144A1184.quest_desc: ["Demonic Partners ถูกผูกมัดให้รับใช้และเป็นเพื่อนคุณ มีสองรูปแบบ ทำไมไม่เรียกทั้งสองล่ะ?"]
+	quest.32677D1F144A1184.quest_subtitle: "..."
+	quest.32677D1F144A1184.title: "เรียก Demonic Partners (Summon Demonic Partners)"
+	quest.359A7C4C3C5E734F.quest_desc: ["Headless Ratman ขโมยหัวของม็อบที่ถูกฆ่าใกล้ ๆ จากนั้นจะให้ &6โบนัสความเสียหาย&r ต่อม็อบชนิดนั้นแก่คุณ"]
+	quest.359A7C4C3C5E734F.quest_subtitle: "นำหน้าไปก้าวหนึ่ง"
+	quest.38E1A4E0A032E377.quest_desc: ["&bStable Wormholes&r ทำหน้าที่เป็นจุดเข้าถึง &bStorage Actuator&r ที่วางได้ ส่งไอเทมเข้าออกผ่านท่อได้ แต่แนะนำให้ใช้ transporter spirit เมื่อดึงของออก เพื่อลดปัญหาแลค", "", "&bStorage Accessor&r เป็นอุปกรณ์ง่าย ๆ ที่ให้คุณ &6เชื่อมต่อกับที่เก็บของ&r จากระยะไกล ไม่มีขีดจำกัดระยะหรือมิติ แต่ actuator ต้องถูก chunk load ไว้"]
+	quest.38E1A4E0A032E377.quest_subtitle: "ถ่ายโอนจากระยะไกล"
+	quest.38E1A4E0A032E377.title: "Storage Access"
+	quest.3A5A59C7AEA670C7.quest_desc: ["&bAviar's Circle&r เป็น pentacle แรกที่คุณจะเตรียม ใช้ &6เรียก Foliot&r ดู &bDictionary of Spirits&r เพื่อดูวิธีวาง"]
+	quest.3A5A59C7AEA670C7.quest_subtitle: "พิธีกรรมแรก"
+	quest.3A5A59C7AEA670C7.title: "Aviar's Circle"
+	quest.4184B4182CFEF694.quest_desc: ["เครื่องมือนี้ &6ปรับจูน&r (ด้วยการกดย่อ + คลิกขวา) ให้ตรงกับบล็อกบางชนิด เพื่อหาคู่ของมันใน Other Place บล็อกเหล่านี้ &6ต้องถูกเก็บเกี่ยวขณะอยู่ภายใต้ Third Eye&r บล็อกที่ค้นหาได้มีดังนี้:", "", "- &bAndesite&r ค้นหา &bOtherstone&r", "- &bOak Log&r ค้นหา &bOtherworld Wood&r", "- &bNetherrack&r ค้นหา &bIesnium Ore&r"]
+	quest.4184B4182CFEF694.quest_subtitle: "จับสัญญาณได้แล้ว"
+	quest.4303A1A434C07540.quest_desc: ["วิญญาณ Janitor &6เก็บ&r ไอเทมและ &6เก็บใส่&r &bคอนเทนเนอร์&r ได้", "", "มีประโยชน์เป็นพิเศษสำหรับรวบรวมผลผลิตของวิญญาณตนอื่น"]
+	quest.4303A1A434C07540.quest_subtitle: "เรียบร้อยสะอาดตา"
+	quest.4303A1A434C07540.title: "Ritual: Summon Foliot Janitor"
+	quest.448D7A215A175817.quest_desc: ["&bOccultism&r คือศาสตร์ที่ว่าด้วยการ &6อัญเชิญวิญญาณ&r มาทำงานให้คุณ", "", "คุณจะ &6สร้างและปรับปรุง&r &britual pentacle&r หลายแบบ ผ่านสิ่งเหล่านี้ คุณจะ &6อัญเชิญและสั่งการ&r และบางครั้ง &6ต่อสู้&r กับ &bวิญญาณ&r หลากหลายชนิด", "", "วิญญาณ &6ขนส่ง&r &bไอเทม&r ให้คุณ &6ผลิตและแปรรูป&r &bแร่&r ให้บัฟและปกป้องคุณ และอื่น ๆ", "", "ขอแนะนำอย่างยิ่ง&r ให้อ่าน &bDictionary of Spirits&r เพราะให้คู่มือที่ละเอียดกว่าที่ผมเขียนได้มาก โดยเฉพาะเรื่อง &bChalks&r มากมาย", "", "พร้อมเป็นนักไสยศาสตร์หรือยัง"]
+	quest.448D7A215A175817.quest_subtitle: "พิธีกรรมและวิญญาณ"
+	quest.44B09234621BDBA6.quest_desc: ["&bpickaxe&r &6พิเศษ&r เล่มนี้ แม้จะ &6เปราะมาก&r แต่ช่วยให้ &6เก็บเกี่ยว&r วัสดุจาก Otherworld เช่น &bIesnium&r ได้มีประสิทธิภาพขึ้น"]
+	quest.44B09234621BDBA6.quest_subtitle: "Pickaxe ในฝันของปีศาจ"
+	quest.470BC1F9873D4852.quest_desc: ["Ring นี้ &6เก็บ&r &boccult familiar&r ไว้ข้างในได้ ให้คุณได้รับประโยชน์บางส่วนของมันโดยไม่ต้องให้อยู่ข้างกาย"]
+	quest.470BC1F9873D4852.quest_subtitle: "พรากผู้อัญเชิญจากสิ่งที่อัญเชิญไม่ได้"
+	quest.49E73DF03C8D28C7.quest_desc: ["ชอล์ก &4Red&r ดึงดูดและผูกมัด Afrit ให้ทำตามคำสั่งคุณ"]
+	quest.49E73DF03C8D28C7.quest_subtitle: "ควบคุม Afrit"
+	quest.4A0E862883FE42BB.quest_desc: ["อัญมณีนี้ &6เก็บ&r &bม็อบ&r ส่วนใหญ่ไว้ข้างในได้ เพื่อขนย้ายสะดวก"]
+	quest.4A0E862883FE42BB.quest_subtitle: "จับให้ครบทุกตัว"
+	quest.4E026831A66E0A42.quest_desc: ["ชอล์ก &1Blue&r ใช้อัญเชิญและผูกมัด Marid"]
+	quest.4E026831A66E0A42.quest_subtitle: "เจ็ดมหาสมุทร"
+	quest.4EF9C36CED1EDDC4.quest_desc: ["&bFeathers&r, &bBooks&r และ &bBlack Dye&r &6แปลงสภาพ&r ใน &5Spiritfire&r ได้ ให้ได้รุ่นที่รับการทำงานกับวิญญาณได้ดีขึ้น"]
+	quest.4EF9C36CED1EDDC4.quest_subtitle: "พิธีของนักเขียนผู้ถูกต้อง"
+	quest.4EF9C36CED1EDDC4.title: "Occult Writing Materials"
+	quest.4F0F24F222AA434A.quest_desc: ["ชอล์ก &eYellow&r ทรงพลังกว่า White ธรรมดาเล็กน้อย ใช้หลัก ๆ กับพิธีกรรม Possession"]
+	quest.4F0F24F222AA434A.quest_subtitle: "การเข้าสิง"
+	quest.510EAAAA3E08FCD5.quest_desc: ["วิญญาณนักขุดตนนี้ไม่เป็นรองใคร ขุด &bแร่ส่วนใหญ่&r ได้ และบางครั้งจะให้ไอเทม &6พิเศษ&r ด้วย...."]
+	quest.510EAAAA3E08FCD5.quest_subtitle: "ฝีมือระดับปรมาจารย์ (ขุด)"
+	quest.5358F626FAFBEDD3.quest_desc: ["Chimera จะ &6เติบโต&r เมื่อ &6ได้รับอาหาร&r ทำให้แข็งแกร่งขึ้น และเมื่อโตพอ คุณ &6ขี่&r มันได้"]
+	quest.5358F626FAFBEDD3.quest_subtitle: "พาหนะรบ"
+	quest.53A66CA8EFE820D1.quest_desc: ["Greedy Familiars &6เก็บ&r &bไอเทม&r ให้คุณ เมื่อใส่ใน Familiar Ring จะเพิ่มระยะเก็บไอเทมของคุณ"]
+	quest.53A66CA8EFE820D1.quest_subtitle: "เพื่อกองสมบัติ"
+	quest.58F3BCF5BFBCF371.quest_desc: ["โดยค่าเริ่มต้น พื้นที่เก็บของของ Actuator ไม่ได้ใหญ่ที่สุด", "", "คุณแก้ปัญหาได้ด้วย &bStabilizers&r ซึ่งจะ &6ทำให้เสถียร&r ขึ้นอีกต่อการเชื่อมของ Actuator กับมิติเก็บของ ทำให้ &6เก็บได้มากขึ้น&r เรื่อย ๆ"]
+	quest.58F3BCF5BFBCF371.quest_subtitle: "ฉันอยากได้เพิ่ม"
+	quest.5BBB0BDD45F6FFC0.quest_desc: ["Devil ให้ &bความต้านทานไฟ&r"]
+	quest.5BBB0BDD45F6FFC0.quest_subtitle: "นรกที่ควบคุมได้"
+	quest.5BDEC0D157A43D9E.quest_desc: ["ชอล์ก &5สีม่วง&r พบได้ทั่วไปในพิธีกรรมที่ผูกวิญญาณเข้ากับวัตถุ"]
+	quest.5BDEC0D157A43D9E.quest_subtitle: "การหลอมรวม (Infusion)"
+	quest.5C56A0938613CBC0.quest_desc: ["โลหะนี้ &6พบได้&r ใน &bNether&r โดยพรางตัวเป็น Netherrack", "", "การ &6มองเห็น&r ผ่าน &bThird Eye&r จะเผยรูปแท้จริงของมัน คุณอาจต้องนำ &bDivination Rod&r ไปด้วย"]
+	quest.5C56A0938613CBC0.quest_subtitle: "เรียกว่าอะไรดี?"
+	quest.5FB18A0E7827D203.quest_desc: ["Transporter spirits อย่างที่คาดไว้ สามารถ &6ส่งไอเทม&r ระหว่างช่องเก็บของได้ รวมถึง Dimensional Storage และ &bวิญญาณตนอื่น&r"]
+	quest.5FB18A0E7827D203.quest_subtitle: "ฉันหยิบของขึ้น แล้วก็วางลง"
+	quest.5FB18A0E7827D203.title: "พิธีกรรม: เรียก Foliot Transporter (Ritual: Summon Foliot Transporter)"
+	quest.62B0913266F48F45.quest_desc: ["Fairy รักษาและ &6สนับสนุน&r familiar ตัวอื่น ขณะดูดพลังชีวิตของศัตรู"]
+	quest.62B0913266F48F45.quest_subtitle: "หมอ! หมอ!"
+	quest.64D625C86F3AB75C.quest_desc: ["Beholder ทำให้มอนสเตอร์ใกล้เคียง &bเรืองแสง&r และ &6ยิง&r เลเซอร์ใส่ &bศัตรู&r ของคุณ"]
+	quest.64D625C86F3AB75C.quest_subtitle: "ข้าจะยิงเลเซอร์แล้วนะ"
+	quest.656CBEFEE317E2E7.quest_desc: ["โดยค่าเริ่มต้น พื้นที่เก็บของของ Actuator ไม่ได้ใหญ่ที่สุด", "", "คุณแก้ปัญหานี้ได้ด้วย &bStabilizers&r ซึ่งจะ &6ทำให้เสถียร&r ยิ่งขึ้นต่อการเชื่อมโยงของ Actuator กับมิติเก็บของ ทำให้ &6เก็บได้มาก&r ขึ้นเรื่อย ๆ"]
+	quest.656CBEFEE317E2E7.quest_subtitle: "นักไสยเวทต้องการพื้นที่มากแค่ไหนกัน?"
+	quest.67ACD099BDB606FA.quest_desc: ["เมื่อสวม &bGoggles&r นี้ คุณจะมองเห็นเหมือนมี &bThird Eye&r", "", "แต่ถ้าไม่มีเครื่องมือเฉพาะทาง คุณก็ยังเก็บเกี่ยวบล็อกไม่ได้...."]
+	quest.67ACD099BDB606FA.quest_subtitle: "ไม่ใช่โลกนี้"
+	quest.687A9332533A26E8.quest_desc: ["Deer &6เสริม&r ความสามารถใน &bการกระโดด&r ของคุณ"]
+	quest.687A9332533A26E8.quest_subtitle: "สูงเสียดฟ้า"
+	quest.698594BEA9750A4E.quest_desc: ["ชอล์ก&8สีเทา&r ทำให้ pentacle เสถียรยิ่งกว่ารุ่นก่อนหน้า"]
+	quest.698594BEA9750A4E.quest_subtitle: "รากฐานที่สาม"
+	quest.69C0D033A9EE9EA7.quest_desc: ["Mummy &6สู้&r กับ &bศัตรู&r ของคุณด้วยการต่อสู้ระยะประชิด"]
+	quest.69C0D033A9EE9EA7.quest_subtitle: "จากผืนทราย"
+	quest.6B61D20396D57CB8.quest_desc: ["เมื่อ &6โยน&r &bDiamond&r ลงใน &5Spiritfire&r มันจะกลายเป็น Spirit Attuned Gem คุณอาจต้องใช้หลายชิ้น"]
+	quest.6B61D20396D57CB8.quest_subtitle: "วิญญาณนับพันในทุกเหลี่ยม"
+	quest.6EDBFB47B2F8E6BA.quest_desc: ["วิญญาณที่ควบคุมได้ทรงพลังที่สุดในบรรดาทั้งหมด &bMarid&r มอบประโยชน์มากมายแก่ผู้เรียกวิญญาณระดับปรมาจารย์"]
+	quest.6EDBFB47B2F8E6BA.quest_subtitle: "ระดับปรมาจารย์"
+	quest.6F9513334361D44E.quest_desc: ["&6การกิน&r ผลไม้นี้จะเปิด &bThird Eye&r ของคุณ ทำให้มองเห็นสิ่งที่ปกติมองไม่เห็น"]
+	quest.6F9513334361D44E.quest_subtitle: "สารหลอนประสาท"
+	quest.72E69FF9753D3CEA.quest_desc: ["Otherstone trader จะทำให้การหา &bOtherstone&r สะดวกขึ้นมาก และมีประสิทธิภาพขึ้นด้วย"]
+	quest.72E69FF9753D3CEA.quest_subtitle: "สุดยอดไปเลย"
+	quest.72E69FF9753D3CEA.title: "พิธีกรรม: เรียก Otherstone Trader (Ritual: Summon Otherstone Trader)"
+	quest.741485F43A560FF3.quest_desc: ["มันคือ &bParrot&r", "", "คุณคาดหวังอย่างอื่นหรือ?"]
+	quest.741485F43A560FF3.quest_subtitle: "*จิ๊บ จิ๊บ*"
+	quest.7723EF8CE359646F.quest_desc: ["วิญญาณนี้จะนำ &bแร่สุ่ม&r กลับมา รวมถึง &bdeepslate ores&r"]
+	quest.7723EF8CE359646F.quest_subtitle: "คิดว่ามิติเหมืองเหมือน overworld หรือเปล่า?"
+	quest.7790ABA120E4EBA9.quest_desc: ["เมื่อคุณเชี่ยวชาญพื้นฐานแล้ว คุณก็ก้าวไปทำงานกับ &bDjinn&r วิญญาณระดับกลางได้"]
+	quest.7790ABA120E4EBA9.quest_subtitle: "ผ่านการฝึกฝน"
+	quest.786E95EB4ED8C14E.quest_desc: ["วิญญาณคนขุดที่เรียบง่ายที่สุด จะนำ &bบล็อกสุ่ม&r กลับมา ซึ่งบางส่วนอาจเป็นแร่"]
+	quest.786E95EB4ED8C14E.quest_subtitle: "ยก ฮึบ"
+	quest.7A5466B9F5C79793.quest_desc: ["&bFoliot&r เป็นวิญญาณชนิดแรกที่คุณจะได้ร่วมงานด้วย และอันตรายน้อยที่สุด"]
+	quest.7A5466B9F5C79793.quest_subtitle: "เรียนรู้"
+	quest.7A7F75393420DB4C.quest_desc: ["การเก็บเกี่ยว &bOtherwood saplings&r ค่อนข้างยุ่งยาก เพราะมันไม่เสถียร คุณจะมองเห็นและเก็บได้ต่อเมื่ออยู่ภายใต้ Third Eye เท่านั้น", "", "วิญญาณพ่อค้าตนนี้แก้ปัญหาเล็ก ๆ นั้น โดย &6แลกเปลี่ยน&r &bunstable saplings&r ของคุณกับต้นกล้าที่ไม่ต้องใช้ &bThird Eye&r ในการโต้ตอบ"]
+	quest.7A7F75393420DB4C.quest_subtitle: "สวนต้นไม้แห่งไสยศาสตร์"
+	quest.7A7F75393420DB4C.title: "พิธี: เรียก Otherworld Sapling Trader (Ritual: Summon Otherworld Sapling Trader)"
+	quest.7CB7BF24437115A4.quest_desc: ["วิญญาณ Crusher... &6บด&r สิ่งของ", "", "การใช้งานหลักคือบด &bOre&r ซึ่งจะ &6ได้เป็นสองเท่า&r (หรือมากกว่า ขึ้นกับระดับของวิญญาณ)", "", "อย่างไรก็ตาม Crusher ยังมีสูตรพิเศษ &6เฉพาะตัว&r อีกหลายสูตร ซึ่งจำเป็นต่อการได้ &bChalks&r ที่ต้องใช้ติดต่อวิญญาณที่แข็งแกร่งกว่า"]
+	quest.7CB7BF24437115A4.quest_subtitle: "ฉันตกหลุมรัก (I have a crush)"
+	quest.7CB7BF24437115A4.title: "พิธี: เรียก Foliot Crusher (Ritual: Summon Foliot Crusher)"
+	quest.7D36F35D54BD7812.quest_desc: ["บางครั้งคุณพบ &bDemon's Dream seeds&r ได้จากการทุบหญ้าสั้น", "", "เมื่อโตแล้ว &6เก็บเกี่ยว&r ได้ &bDemon's Dream fruit&r ซึ่งมีประโยชน์มากมายในเรื่องไสยศาสตร์"]
+	quest.7D36F35D54BD7812.quest_subtitle: "การเรียกปีศาจเริ่มจากฟาร์ม"
+	quest.7FA5112E27A0D70C.quest_desc: ["Pickaxe เล่มนี้อาจมีประโยชน์กับการสร้าง &bminer spirits&r มากกว่าสำหรับตัวคุณ แต่ก็ดีกว่ารุ่นก่อนที่เปราะบางมาก"]
+	quest.7FA5112E27A0D70C.quest_subtitle: "Pick แห่งวิญญาณ"
+	quest.7FBC6EFE948A0CD2.quest_desc: ["Dragon &6เสริม&r &bการได้รับประสบการณ์&r ของคุณ"]
+	quest.7FBC6EFE948A0CD2.quest_subtitle: "ตนนี้กักตุนความรู้ ไม่ใช่ทอง"
+	quest.7FD2368444636E93.quest_desc: ["Blacksmith &6อัปเกรด&r &boccult familiars&r ตัวอื่นได้", "", "และยัง &6ซ่อม&r &bอุปกรณ์&r ของคุณขณะที่คุณขุดหินด้วย"]
+	quest.7FD2368444636E93.quest_subtitle: "เสริมพลัง"
+	task.0020C1E77C424CB0.title: "ดู Spiritfire"
+	task.11CC52C63FF1FDE8.title: "เรียก Beaver Familiar"
+	task.12C4C946FBE466AD.title: "เรียก Devil Familiar"
+	task.141B9E891675C4BB.title: "เรียก Chimera Familiar"
+	task.1531CE8CE061AFC3.title: "#handcrafted:chests ใดก็ได้"
+	task.1A36A5D48C75BE0D.title: "#minecraft:candles ใดก็ได้"
+	task.2103677DA5F292DE.title: "เรียก Dragon Familiar"
+	task.22E777BE43621489.title: "#handcrafted:chests ใดก็ได้"
+	task.2836DAFB8BAF8D7B.title: "เรียก Headless Ratman Familiar"
+	task.296A456AF1F00270.title: "เรียก Otherstone Trader"
+	task.2DCC056348E9BB4B.title: "เรียก Demonic Wife"
+	task.318C7D190267976F.title: "เรียก Blacksmith Familiar"
+	task.336881A8652FA9A0.title: "เรียก Foliot Crusher (ไม่มี advancement ขออภัย!)"
+	task.3716986BD12061AA.title: "#c:raw_materials/gold ใดก็ได้"
+	task.37DECFA02129E0B8.title: "เรียก Deer Familiar"
+	task.3C8E0C3D705AB65F.title: "#c:raw_materials/iron ใดก็ได้"
+	task.3ED23CC07C23FD76.title: "&bยินดีต้อนรับสู่ Occultism"
+	task.4137D2B088325C60.title: "เรียก Foliot Transporter"
+	task.42634C57B87C09DB.title: "เรียก Fairy Familiar"
+	task.429785464C6CD059.title: "#minecraft:axes ใดก็ได้"
+	task.443D8F4CD01CC0C9.title: "เรียก Parrot \"Familiar\""
+	task.4CE3EEAAF41AE050.title: "เรียก Foliot Janitor"
+	task.4D63FA888F0497B5.title: "เรียก Cthulhu Familiar"
+	task.52C834FDFA57A474.title: "เรียก Beholder Familiar"
+	task.5327B3CEDA60D4BE.title: "#c:raw_materials/silver ใดก็ได้"
+	task.58AC1E8BBD7EAB5B.title: "เรียก Mummy Familiar"
+	task.5D5634634E3879E5.title: "เรียก Bat Familiar"
+	task.61ADF1E6345BC7E1.title: "#c:raw_materials/copper ใดก็ได้"
+	task.6544A3FD1B532809.title: "เรียก Demonic Husband"
+	task.65A43DD683FB39E4.title: "เรียก Foliot Lumberjack"
+	task.6C6C366D034AF5C7.title: "เรียก Otherworld Sapling Trader"
+	task.73DFBACC98E080BC.title: "มีดใดก็ได้"
+	task.74C6D98426025A18.title: "เรียก Guardian Familiar"
+	task.7E36340AFD8F91C6.title: "เรียก Greedy Familiar"
+}

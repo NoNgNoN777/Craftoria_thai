@@ -1,0 +1,78 @@
+{
+	quest.1610E88D5231E670.quest_desc: ["&bThermal Evaporation Controller&r เป็นหัวใจของ &eThermal Evaporation Plant&r ช่วยให้คุณทำให้&9ของเหลว&rเข้มข้นขึ้นโดยระเหยน้ำในของเหลวนั้น", "", "ป้อน&9ของเหลว&rที่เหมาะสมเข้าโรงงานและให้&eความร้อน&rเพื่อเพิ่มความเข้มข้น ยิ่งน้ำถูกระเหยออกไป ก็ยิ่งได้ของเหลวที่เข้มข้นขึ้น", "", "ผลิตภัณฑ์ที่ได้ขึ้นอยู่กับสิ่งที่คุณใส่ ดู &bEMI&r เพื่อดูว่าโรงงานของคุณผลิตอะไรได้", "", "บางสูตรต้องระเหยหลายขั้นตอน อย่าแปลกใจถ้าหอแรกของคุณยังไม่พอ"]
+	quest.1610E88D5231E670.quest_subtitle: "ทำให้ของเหลวเข้มข้นด้วยการระเหย"
+	quest.1610E88D5231E670.title: "Thermal Evaporation Controller"
+	quest.1A885E0BA312B916.quest_desc: ["&bResistive Heater&r แปลง &eFE&r เป็น &cความร้อน&r ให้วิธีที่เชื่อถือได้ในการจ่ายความร้อนให้ &eThermal Evaporation Plant&r ของคุณ", "", "เชื่อมกับ &cThermal Evaporation Valve&r ของโรงงาน เพื่อส่ง&cความร้อน&rที่สร้างได้เข้าหอโดยตรง", "", "ใช้เมื่อต้องการแหล่งความร้อนที่ควบคุมได้ เพื่อเพิ่มอุณหภูมิและปรับปรุงกระบวนการระเหย"]
+	quest.1A885E0BA312B916.quest_subtitle: "เปลี่ยน FE เป็นความร้อน"
+	quest.1A885E0BA312B916.title: "Resistive Heater"
+	quest.1DE9A85C2E5348D1.quest_desc: ["&bFusion Reactor Controller&r เป็นศูนย์ควบคุมของ &dFusion Reactor&r ของคุณ จัดการการทำงานของเครื่องปฏิกรณ์และควบคุมปฏิกิริยา", "", "เมื่อประกอบเครื่องปฏิกรณ์เสร็จ ต้องมี&9เชื้อเพลิง&rและ&bสารหล่อเย็น&rป้อนอย่างสม่ำเสมอเพื่อคงปฏิกิริยา", "", "เติมเชื้อเพลิงและทำให้เย็นอย่างเหมาะสม แล้ว Controller จะจัดการส่วนที่เหลือ เปลี่ยนปฏิกิริยาฟิวชันอันทรงพลังให้เป็นแหล่ง &eFE&r ที่พึ่งพาได้", "", "แต่คอยดูอินพุตด้วย พลังฟิวชันน่าทึ่ง แต่ไม่ใจดีนัก"]
+	quest.1DE9A85C2E5348D1.quest_subtitle: "ควบคุมหัวใจของพลังฟิวชัน"
+	quest.1DE9A85C2E5348D1.title: "Fusion Reactor Controller"
+	quest.22A2121A25A010AB.quest_desc: ["&bInduction Cells&r เป็นส่วนประกอบเก็บพลังงานหลักของ &dInduction Matrix&r", "", "เซลล์แต่ละก้อนเพิ่มความจุพลังงานให้ matrix ทำให้คุณสร้างคลังพลังงานส่วนกลางขนาดมหึมาได้", "", "เซลล์ระดับสูงกว่าจุพลังงานได้มากขึ้นอย่างมาก ทำให้ matrix ของคุณเก็บ &eFE&r ได้มหาศาลยิ่งขึ้น", "", "ใช้ร่วมกับ &bInduction Providers&r เพื่อเพิ่มอัตราการถ่ายโอนพลังงานเข้าและออกจาก matrix"]
+	quest.22A2121A25A010AB.quest_subtitle: "ขยายที่เก็บพลังงานของคุณ"
+	quest.22A2121A25A010AB.title: "Induction Cells"
+	quest.2675A4EA019B383F.quest_desc: ["เครื่องปฏิกรณ์ของคุณผลิต &9ไอน้ำ&r ได้มหาศาล แต่การผลิตไอน้ำจำนวนมากก็ไร้ประโยชน์ หากนำไปใช้งานไม่ได้", "", "&bIndustrial Turbine&r แปลง &9ไอน้ำ&r เป็น &eFE&r โดยหมุนโรเตอร์ภายในเพื่อผลิตพลังงาน", "", "สร้างชิ้นส่วนกังหันตรงกลาง แล้วล้อมด้วยโครงสร้างมัลติบล็อกที่จำเป็น เชื่อมกังหันเข้ากับช่องส่งไอน้ำของเครื่องปฏิกรณ์ แล้วดูพลังงานไหลเข้ามา", "", "กังหันที่ใหญ่กว่าประมวลผล &9ไอน้ำ&r ได้มากกว่าและผลิต &eFE&r ได้มากกว่า จึงเป็นส่วนสำคัญของระบบผลิตพลังงานจริงจัง"]
+	quest.2675A4EA019B383F.quest_subtitle: "เปลี่ยนไอน้ำเป็นพลังงาน"
+	quest.2675A4EA019B383F.title: "ถึงเวลากังหัน (Turbine Time)"
+	quest.272E31F15A39517B.quest_desc: ["&bFusion Reactor Frame&r เป็นรากฐานของระบบพลังงานทรงพลังที่สุดของ Mekanism", "", "สร้างโครงสร้างมัลติบล็อกจาก &bFusion Reactor Frames&r เพื่อกักเก็บ &dFusion Reactor&r และปฏิกิริยาอันทรงพลังมหาศาลของมัน", "", "เฟรมเป็นผนังของเครื่องปฏิกรณ์ ทำงานร่วมกับส่วนประกอบอื่นที่จำเป็นเพื่อสร้างระบบฟิวชันที่ใช้งานได้", "", "เมื่อประกอบเสร็จ คุณจะควบคุม &dFusion Power&r ในระดับที่เหนือกว่าเครื่องกำเนิดไฟฟ้าทั่วไปมาก"]
+	quest.272E31F15A39517B.quest_subtitle: "สร้างหัวใจของพลังงานฟิวชัน"
+	quest.272E31F15A39517B.title: "Fusion Reactor Frame"
+	quest.2821236A1E8FEF73.quest_desc: ["&bFusion Reactor Port&r เป็นช่องทางเสริมความแข็งแกร่งเข้าสู่ใจกลางของ &bFusion Reactor&r", "", "หากไม่มีอะไร &6เชื่อมต่อ&r อยู่ จะแข็งแกร่งเท่ากับเฟรม แต่เมื่อมีสิ่งที่ &6เชื่อมต่อ&r อยู่ จะเป็นช่องทางป้องกันแบบ &a1 ทาง&r เข้าหรือออกจากแกนกลาง"]
+	quest.2821236A1E8FEF73.title: "Fusion Reactor Port"
+	quest.2ADDD30536A7FF68.quest_desc: ["&bReactor Glass&r ใช้เป็นช่องมองของ &dFusion Reactor&r ให้คุณเห็นปฏิกิริยาที่เกิดขึ้นภายใน", "", "ต่างจากกระจกทั่วไป เพราะสร้างมาทนสภาวะสุดขั้วของปฏิกิริยาฟิวชัน", "", "ใส่ไว้ที่ผนังเครื่องปฏิกรณ์เพื่อมองเห็น &dFusion Power&r อันงดงามได้ชัดเจน", "", "แต่อย่ายืนใกล้เกินไป หากมีอะไรผิดพลาด"]
+	quest.2ADDD30536A7FF68.quest_subtitle: "มองเห็นพลังภายใน"
+	quest.2B3B96DDFE5D3ACA.quest_desc: ["ด้วย &bBoiler Casings&r คุณสร้าง &eThermoelectric Boiler&r เพื่อเปลี่ยน &cความร้อน&r ภายนอกเป็น &9ไอน้ำ&r ได้", "", "หม้อไอน้ำนี้มีประโยชน์เป็นพิเศษเมื่อคุณมีความร้อนส่วนเกินที่ไม่เช่นนั้นจะสูญเปล่า เป็นอีกทางหนึ่งในการผลิตไอน้ำให้ &bIndustrial Turbine&r ของคุณ", "", "ยังใช้ &dSuperheated Liquid Sodium&r ที่ &cFission Reactor&r ผลิตได้ด้วย ทำให้เปลี่ยนความร้อนของเครื่องปฏิกรณ์เป็น &9ไอน้ำ&r ที่ใช้ประโยชน์ได้มากขึ้นอีก", "", "ใช้คู่กับ &bIndustrial Turbine&r เพื่อเปลี่ยนไอน้ำนั้นเป็น &eFE&r และสร้างระบบเปลี่ยนความร้อนเป็นพลังงานที่สมบูรณ์"]
+	quest.2B3B96DDFE5D3ACA.quest_subtitle: "เปลี่ยนความร้อนเป็นไอน้ำ"
+	quest.2B3B96DDFE5D3ACA.title: "Boiler Casing"
+	quest.3689AAE9D0DB96FB.quest_desc: ["&bThermal Evaporation Valve&r คือส่วนเชื่อมระหว่าง &eThermal Evaporation Plant&r ของคุณกับโลกภายนอก", "", "ใช้วาล์ว &9ป้อนเข้า&r และ &9ดึงของเหลวออก&r จากหอ คุณต้องมีวาล์วแยกสำหรับทางเข้าและทางออกของระบบ", "", "วาล์วยังส่ง &cความร้อน&r เข้าหอได้เมื่อเชื่อมกับเครือข่าย &bThermodynamic Conductor&r เป็นอีกวิธีให้ความร้อนแก่โรงระเหยของคุณ", "", "วางวาล์วอย่างระมัดระวัง หอที่เชื่อมต่อดีจะจัดการ &9ของเหลว&r และ &cความร้อน&r ได้ง่ายขึ้นมาก"]
+	quest.3689AAE9D0DB96FB.quest_subtitle: "เชื่อมต่อหอระเหยของคุณ"
+	quest.3689AAE9D0DB96FB.title: "Thermal Evaporation Valve"
+	quest.37A89C0012C86E9A.quest_desc: ["ควบคุมลมด้วย &bLarge Wind Generator&r", "", "ผลิตได้ระหว่าง &a90,000 FE/t&r ถึง &a150,000 FE/t&r ขึ้นอยู่กับความสูง โดยไม่ใช้เชื้อเพลิง", "", "สร้างให้สูงเหนือพื้นดินเพื่อรับลมที่แรงขึ้นและเพิ่มผลผลิต &eFE&r ให้สูงสุด"]
+	quest.37A89C0012C86E9A.quest_subtitle: "ควบคุมพลังแห่งลม MK2"
+	quest.3C6E442CEB73191F.quest_desc: ["&bGas-Burning Generator&r ใช้ &cก๊าซติดไฟ&r ได้หลากหลายเพื่อผลิต &eไฟฟ้า&r ", "", "ก๊าซอย่าง &7Hydrogen&r และ &dEthene&r ให้ &eพลังงาน&r ปริมาณมากได้ดีในช่วงแรก ", "", "ดู &dEMI&r ของคุณเพื่อดูว่า &7ก๊าซ&r ชนิดใด &cติดไฟ&r จริง ๆ และผลิต &6พลังงาน&r ได้เท่าไร"]
+	quest.3C6E442CEB73191F.quest_subtitle: "เผาก๊าซเพื่อพลังงานมหาศาล"
+	quest.3C6E442CEB73191F.title: "Gas-Burning Generator"
+	quest.3D5B74D9663AAB5A.quest_desc: ["&bHeat Generator&r เป็นแหล่งพลังงานง่าย ๆ ที่อาศัย &cแหล่งความร้อน&r รอบตัวมัน ", "", "&bGenerator&r รับ &cความร้อน&r ได้จาก &a7&r ตำแหน่ง โดย &a6&r ตำแหน่งคือด้านต่าง ๆ ของมัน อีกตำแหน่งคือตัวเครื่องเองซึ่งอาจ &4จมอยู่ในลาวา&r ได้ มัน &6ผลิต&r พลังงานไม่มาก แต่สำหรับช่วงต้นของการเดินทางก็เหลือเฟือ!", "", "ไม่เพียง &bบล็อก&r และ &7ของเหลว&r ที่ปล่อย &cความร้อน&r จะผลิตพลังงานได้ แต่ความร้อนจาก &bThermodynamic Conductors&r ก็ใช้ได้เช่นกัน"]
+	quest.3D5B74D9663AAB5A.quest_subtitle: "เปลี่ยนความร้อนเป็นพลังงาน!"
+	quest.3D5B74D9663AAB5A.title: "Heat Generator"
+	quest.400274581B9BD5FC.quest_desc: ["&bLaser Focus Matrix&r คือระบบจุดระเบิดของ &dFusion Reactor&r ของคุณ", "", "รวมลำแสงจาก &cLaser&r ทรงพลังเข้าสู่แกนเครื่องปฏิกรณ์โดยตรง ให้พลังงานที่จำเป็นเพื่อเริ่มปฏิกิริยาฟิวชัน", "", "เมื่อเครื่องปฏิกรณ์พร้อม ส่งพัลส์ &cLaser&r เข้าสู่ matrix แล้วชมปฏิกิริยาที่ก่อตัวขึ้น", "", "แต่ต้องแน่ใจว่าเครื่องปฏิกรณ์เตรียมพร้อมดีแล้วก่อนลั่นไก"]
+	quest.400274581B9BD5FC.quest_subtitle: "จุดปฏิกิริยาฟิวชัน"
+	quest.436C9C6FF59C4FD5.quest_desc: ["&bInduction Providers&r กำหนดว่าพลังงานไหลเข้าและออกจาก &dInduction Matrix&r ได้เร็วเพียงใด", "", "provider แต่ละตัวเพิ่มความสามารถในการถ่ายโอนให้ matrix ทำให้ชาร์จและคายประจุ &eFE&r ได้เร็วขึ้น", "", "provider ระดับสูงขึ้นมีอัตราถ่ายโอนมากกว่าอย่างมหาศาล ให้ matrix ของคุณตามทันเครื่องกำเนิดและเครื่องจักรที่ทรงพลังขึ้นเรื่อย ๆ", "", "ปรับสมดุล &bInduction Cells&r และ &bInduction Providers&r เพื่อสร้างระบบเก็บพลังงาน ที่มีทั้งความจุมหาศาลและทรูพุตสูง"]
+	quest.436C9C6FF59C4FD5.quest_subtitle: "ส่งพลังงานในระดับมหึมา"
+	quest.436C9C6FF59C4FD5.title: "Induction Providers"
+	quest.4EA0C90A02A43131.quest_desc: ["&bPressurized Reaction Chamber&r คือเครื่องจักรอเนกประสงค์ที่รวม &fของแข็ง&r, &9ของเหลว&r และ &eGases&r เพื่อสร้างวัสดุใหม่", "", "สายการแปรรูปขั้นสูงของ Mekanism จำนวนมากพึ่งพา PRC จึงเป็นก้าวสำคัญสู่ระบบอัตโนมัติที่ซับซ้อนขึ้น", "", "ใส่อินพุตที่ต้องการ แล้วปล่อยให้ห้องจัดการปฏิกิริยา ดู &6EMI&r ของคุณเพื่อค้นหาสูตรที่มีและสิ่งที่แต่ละสูตรต้องใช้", "", "ตั้งแต่ &2Bio Fuel&r และ &eHydrogen&r ไปจนถึงวัสดุขั้นสูง คุณจะใช้เครื่องนี้บ่อยมากเมื่อโรงงานขยายใหญ่ขึ้น"]
+	quest.4EA0C90A02A43131.quest_subtitle: "รวมสสารภายใต้แรงดัน"
+	quest.4EA0C90A02A43131.title: "Pressurized Reaction Chamber"
+	quest.4FBA0ECAC8AEBCD8.quest_desc: ["&bFission Fuel Assembly&r บรรจุ &dFissile Fuel&r ที่จ่ายพลังให้ &cNuclear Reactor&r ของคุณ", "", "สร้าง assembly หลายอันในแกนเครื่องปฏิกรณ์ โดยวาง &eControl Rod Assemblies&r ไว้เหนือพวกมันโดยตรงเพื่อควบคุม &cปฏิกิริยาลูกโซ่&r", "", "ยิ่งเพิ่ม fuel assembly มาก ศักยภาพการผลิตของเครื่องปฏิกรณ์ก็ยิ่งสูง - แต่ก็ต้องจัดการ &cความร้อน&r มากขึ้นด้วย", "", "เมื่อประกอบทุกอย่างเสร็จ ให้ส่ง &9coolant&r ผ่านเครื่องปฏิกรณ์อย่างสม่ำเสมอ เพื่อให้ทำงานได้อย่างปลอดภัย", "", "จับตาเครื่องปฏิกรณ์ให้ดี ต่างจากเครื่องกำเนิดไฟฟ้าส่วนใหญ่ เครื่องปฏิกรณ์ฟิชชันอาจมีผลลัพธ์ที่ &cระเบิดรุนแรง&r เมื่อเกิดข้อผิดพลาด"]
+	quest.4FBA0ECAC8AEBCD8.quest_subtitle: "ควบคุมอะตอม"
+	quest.4FBA0ECAC8AEBCD8.title: "Nuclear Fission"
+	quest.50D1398BBF8DBBB2.quest_desc: ["&bElectrolytic Separator&r ใช้ &eFE&r แยก &9ของเหลว&r บางชนิดเป็นองค์ประกอบธาตุผ่าน &6electrolysis&r", "", "ป้อนของเหลวที่เหมาะสม แล้วมันจะแยกเป็น &dGases&r ที่มีประโยชน์สำหรับสายการผลิตของคุณ", "", "เครื่องนี้จำเป็นต่อการผลิตสารเคมีหลักหลายชนิด รวมถึง &bHydrogen&r และ &eOxygen&r", "", "ดู &6EMI&r ของคุณเพื่อค้นหาว่าของเหลวใดแยกได้ และแต่ละกระบวนการผลิตอะไร"]
+	quest.50D1398BBF8DBBB2.quest_subtitle: "แยกของเหลวด้วยไฟฟ้า"
+	quest.50D1398BBF8DBBB2.title: "Electrolytic Separator"
+	quest.52AD3D58B644AA30.quest_desc: ["&bWind Generator&r ผลิต &eพลังงาน&r ด้วย &7ลม&r! ", "", "เป็นแบบ \"&aวางแล้วเล่น&r\" หมายความว่าไม่ต้องให้มนุษย์ดูแล"]
+	quest.52AD3D58B644AA30.quest_subtitle: "ควบคุมพลังแห่งสายลม"
+	quest.52AD3D58B644AA30.title: "Wind Generator"
+	quest.5AB4D1D72EFD4428.quest_desc: ["&bInduction Port&r คือส่วนเชื่อมต่อระหว่างโรงงานของคุณกับ &dInduction Matrix&r", "", "ใช้ &einput&r และ &eoutput&r &eFE&r เพื่อให้ matrix ชาร์จและจ่ายพลังงานให้เครื่องจักรและเครือข่ายพลังงานที่เชื่อมต่ออยู่", "", "ใช้หลายพอร์ตเพื่อรองรับการเชื่อมต่อพลังงานต่างกันได้ ทำให้คุณควบคุมการทำงานของ &dInduction Matrix&r กับระบบไฟส่วนที่เหลือ ได้มากขึ้น"]
+	quest.5AB4D1D72EFD4428.quest_subtitle: "เชื่อมต่อที่เก็บพลังงานของคุณ"
+	quest.5AB4D1D72EFD4428.title: "Induction Port"
+	quest.60AEE273431548B6.quest_desc: ["&bPressure Disperser&r ช่วยควบคุมแรงดันภายใน &eThermoelectric Boiler&r และ &bIndustrial Turbine&r ของคุณ", "", "วางไว้ภายในโครงสร้าง multiblock เพื่อให้เกิด &6การระบายแรงดัน&r แบบควบคุมได้เมื่อแรงดันสะสมสูงเกินไป", "", "การจัดการแรงดันที่เหมาะสมช่วยให้ multiblock ของคุณทำงานได้อย่างปลอดภัย และป้องกันสถานการณ์แรงดันเกินที่อันตราย", "", "ตรวจให้แน่ใจว่า boiler และ turbine ของคุณมีการจัดการแรงดันเพียงพอ ก่อนใช้งานหนัก"]
+	quest.60AEE273431548B6.quest_subtitle: "ควบคุมแรงดันให้อยู่หมัด"
+	quest.60AEE273431548B6.title: "Pressure Disperser"
+	quest.6137C9FB49DB4A9C.quest_desc: ["แปรรูปวัสดุอินทรีย์เป็น &2Bio Fuel&r เชื้อเพลิงอเนกประสงค์สำหรับโรงงานของคุณ เผาโดยตรงใน &eBio Generator&r เพื่อผลิตไฟฟ้า หรือใช้ร่วมกับ &bHydrogen&r ใน &ePressurized Reaction Chamber&r เพื่อผลิต &dEthylene&r"]
+	quest.6137C9FB49DB4A9C.quest_subtitle: "เปลี่ยนสารอินทรีย์เป็นพลังงาน"
+	quest.7610F9A545A15194.quest_desc: ["&bSolar Generator&r ใช้ &6ดวงอาทิตย์&r ผลิต &eพลังงาน&r ", "", "แน่นอนว่าเมื่อ &6ดวงอาทิตย์&r ตกดิน จะไม่ผลิต &eพลังงาน&r "]
+	quest.7610F9A545A15194.quest_subtitle: "ใช้ประโยชน์จากแสงแดด"
+	quest.7610F9A545A15194.title: "Solar Generator"
+	quest.7921D6460E480F82.quest_desc: ["&bBoiler Valve&r เชื่อม &eThermoelectric Boiler&r ของคุณเข้ากับส่วนอื่นของโรงงาน", "", "ใช้ &cป้อน&r &cHeat&r และ &9Water&r เข้าสู่ boiler", "", "วาล์วยัง &aดึง&r &7Steam&r ที่ boiler ผลิตออกมาได้ ให้คุณส่งตรงไปยัง &bIndustrial Turbine&r หรือเก็บไว้ใช้ภายหลัง", "", "ใช้วาล์วหลายตัวเพื่อให้ทางเข้าและทางออกไหลได้อย่างมีประสิทธิภาพ"]
+	quest.7921D6460E480F82.quest_subtitle: "เชื่อมต่อความร้อน น้ำ และไอน้ำ"
+	quest.7921D6460E480F82.title: "Boiler Valve"
+	quest.7BEA5B1D1B410E82.quest.desc: ["&3Advanced Solar Generator&r เป็นรุ่นอัปเกรดของ &3Solar Generator&r ขนาดเล็ก และให้ &apower&r มากกว่ามาก วางไว้ที่มุมบนของ &3Thermal Evaporation Tower&r โดยให้ด้านพลังงานออกสีเขียว &aenergy output&r หันไปทาง &3Thermal Evaporation Block&r เพื่อ &6เพิ่ม&r &cความร้อน&r ของหอในตอนกลางวัน"]
+	quest.7BEA5B1D1B410E82.quest_desc: ["&bAdvanced Solar Generator&r เป็นรุ่นอัปเกรดของ &3Solar Generator&r ขนาดเล็ก และให้ &apower&r มากกว่ามาก ", "", "วางไว้ที่มุมบนของ &bThermal Evaporation Tower&r โดยให้ด้าน &aenergy output&r สีเขียวหันไปทาง &bThermal Evaporation Block&r เพื่อ &6เพิ่ม&r &cความร้อน&r ของหอในตอนกลางวัน"]
+	quest.7BEA5B1D1B410E82.quest_subtitle: "พลังงานจากดวงอาทิตย์มากขึ้น"
+	quest.7BEA5B1D1B410E82.title: "Advanced Solar Generator"
+	quest.7FC6AE9DB7C1DA52.quest_desc: ["&bBio-Generator&r ใช้ &2biofuel&r ผลิต &epower&r ", "", "คุณทำ &2biofuel&r ได้โดย &6บด&r &borganic based material&r เกือบทุกชนิด"]
+	quest.7FC6AE9DB7C1DA52.quest_subtitle: "เปลี่ยนขยะเป็นพลังงาน"
+	quest.7FC6AE9DB7C1DA52.title: "Bio-Generator"
+	task.22915CF7043550CD.title: "Induction Cells"
+	task.644BA76D2324EF21.title: "Induction Providers"
+}

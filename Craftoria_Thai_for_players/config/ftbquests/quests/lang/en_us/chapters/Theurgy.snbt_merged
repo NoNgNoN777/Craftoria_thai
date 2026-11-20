@@ -1,0 +1,71 @@
+{
+	quest.02D3AFC713077502.quest_desc: ["ทำให้กระบวนการหมัก&6มีประสิทธิภาพ&rขึ้น &aคุณอาจอยากทำให้มันอัตโนมัติ&r"]
+	quest.077658D04D0D4AB3.quest_desc: ["&bSal Ammoniac Tank&r ต้อง&6วางไว้ด้านล่าง&r &bSal Ammoniac Accumulator&r อุปกรณ์สองชิ้นนี้ทำงานร่วมกันสร้าง &dตัวทำละลาย Sal Ammoniac&r จาก &9Water&r", "", "ถ้าต้องการตัวทำละลาย&aเร็วขึ้น&r ให้&6ป้อน&r &bผลึก Sal Ammoniac&r ให้ Accumulator เพื่อเร่งกระบวนการอย่างมาก"]
+	quest.077658D04D0D4AB3.quest_subtitle: "มีพิษหรือเปล่านะ"
+	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
+	quest.0D1AFCAD90FAA4F9.quest_desc: ["Rod นี้ถูกปรับให้ค้นหาวัสดุระดับ &aCommon&r ไว้ล่วงหน้า"]
+	quest.0E30CFA6C5B58BEA.quest_desc: ["&bVat&r นี้ช่วยให้คุณแปลง &bAlchemical Niter&r จากระดับหนึ่งเป็นอีกระดับหนึ่ง"]
+	quest.0E30CFA6C5B58BEA.quest_subtitle: "อัปเกรดเหรอ"
+	quest.19F7B6A670D4A707.quest_desc: ["ได้จาก &bDistiller&r นี่คือ &bMercury&r ในรูปแบบดิบที่สุด"]
+	quest.19F7B6A670D4A707.quest_subtitle: "Mercury ดิบ"
+	quest.19F7B6A670D4A707.title: "Crystallized Mercury"
+	quest.1CD1F5A08AE6E557.quest_desc: ["ได้จาก&3แร่&rที่พบทั่วไปรอบ ๆ&6ระดับน้ำทะเล&r &bSal Ammoniac&r เป็นผลึกที่เปี่ยมด้วยคุณสมบัติที่เป็นประโยชน์", "", "คุณควรมีไว้ในปริมาณที่พอสมควร"]
+	quest.1CD1F5A08AE6E557.quest_subtitle: "ระยิบระยับในห้วงลึก"
+	quest.1EBE2B9A6CCE5A69.quest_desc: ["&3Divining Rods&r ช่วยให้นักเล่นแร่แปรธาตุ&6ค้นหา&rบล็อกมีค่าจากระยะไกล", "", "&6ย่อ+ใช้&r Rod กับบล็อกเพื่อ&6ปรับจูน&rกับบล็อกนั้น เมื่อ&6ชาร์จ&r Rod จะส่งอนุภาคไปยังบล็อกเป้าหมายที่ใกล้ที่สุดที่พบ - &cจะใช้ความทนทาน&r &6ใช้&rตามปกติเพื่อ \"ping\" ตำแหน่งนั้นอีกครั้ง อัญมณีจะม่วงขึ้นเมื่อคุณเข้าใกล้บล็อก", "", "Glass Rod ซึ่งถูกที่สุด หาได้เฉพาะบล็อก &8Abundant&r และ &aCommon&r"]
+	quest.1EBE2B9A6CCE5A69.quest_subtitle: "หาทางของฉัน"
+	quest.1FF9FB01DBE735FC.quest_desc: ["ธรรมชาติของ &bSulfur&r &6เปลี่ยนแปลง&rได้ นี่คือพื้นฐานของการแปรธาตุ", "", "&bVat&r นี้ เมื่อได้วัตถุดิบที่ถูกต้อง สามารถ&6แปลง&r Sulfur ให้เป็นสถานะที่ปรับรูปได้มากกว่า คือ &bAlchemical Niter&r"]
+	quest.1FF9FB01DBE735FC.quest_subtitle: "แลกเปลี่ยนเท่าเทียมหรือเปล่า"
+	quest.22822DD2E10F65EA.quest_desc: ["อุปกรณ์นี้เมื่อ &6วาง&r บน &bMercury Catalyst&r จะจ่ายพลังงานให้ &bReformation Array&r ได้"]
+	quest.248175A1E0825C2F.quest_desc: ["Rod นี้ค้นหาวัสดุ &dPrecious&r ได้"]
+	quest.2B2D3B338662F02C.quest_desc: ["ทองคำบริสุทธิ์เป็นพิเศษชนิดนี้ใช้ &6เปลี่ยน&r &aระดับ&r ของ &bSulfur&r"]
+	quest.2F7A213261682E1B.quest_desc: ["&bLiquefaction Cauldron&r &6แช่&r ทรัพยากรใน &dsolvent&r เพื่อผลิต &bSulfur&r จากทรัพยากรเหล่านั้น ปฏิกิริยานี้ต้องใช้ &6ความร้อน&r", "", "โปรดทราบว่าทรัพยากรบางอย่าง เช่น แร่ &aให้ sulfur มากกว่าหนึ่งชิ้น&r"]
+	quest.30FB66E92909D4B9.quest_subtitle: "Niter ทุกชนิด"
+	quest.30FB66E92909D4B9.title: "&bAlchemical Niter"
+	quest.367A013744D689E4.quest_desc: ["เครื่องนี้ให้ &6ความร้อน&r &6กลั่น&r สสารให้เป็น &bAlchemical Mercury&r", "", "ในตอนนี้ คุณต้องวาง &bPyromantic Brazier&r ไว้ใต้ Distiller และ &6เติมเชื้อเพลิง&r แบบที่ใช้กับเตาหลอมเพื่อให้ความร้อน &aเชื้อเพลิงใช้ได้นานเป็นสองเท่าของใน Furnace&r"]
+	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury?"
+	quest.376DD70A2C14F9A9.quest_desc: ["ทรัพยากร &aCommon&r หายากกว่าคู่ &8Abundant&r เล็กน้อย แต่ยังหาได้ค่อนข้างง่าย"]
+	quest.376DD70A2C14F9A9.title: "Common Sulfurs"
+	quest.392EC503FD52E32A.quest_desc: ["มี &bSulfur&r หลายชนิด แบ่งตาม &6ระดับ&r มากมาย"]
+	quest.392EC503FD52E32A.title: "Sulfurs"
+	quest.3B117FA99DD7558F.quest_desc: ["คุณอาจอยากทำให้การผลิตสิ่งนี้ &6เป็นอัตโนมัติ&r"]
+	quest.3B117FA99DD7558F.title: "Solvent"
+	quest.3DC47060EEAB8975.quest_desc: ["&bReformation Array&r คือชุดเครื่องจักรที่ &6ผลิตได้ไม่จำกัด&r สำหรับ &bSulfur&r ชนิดที่กำหนด โดยใช้ &bSulfur&r ชนิดอื่นที่มี &aระดับ&r และ &aประเภท&r ตามที่กำหนด"]
+	quest.3DC47060EEAB8975.quest_subtitle: "ผลงานชิ้นเอก"
+	quest.3DC47060EEAB8975.title: "Reformation Array"
+	quest.45013F74F5B4A93E.quest_desc: ["Rod นี้หาวัสดุ &9หายาก&r ได้"]
+	quest.4E6BB4279E8E793A.quest_desc: ["ทรัพยากร &8Abundant&r มักพบได้ทุกที่ในปริมาณมาก"]
+	quest.4E6BB4279E8E793A.title: "Abundant Sulfurs"
+	quest.4E8963E1C18ADBAB.quest_desc: ["&bIncubator&r คือ multiblock ขนาดเล็กที่ใช้ประกอบหลักการของสสารกลับเป็นวัตถุ", "", "ประกอบด้วย &bvessel&r แต่ละชนิดอย่างละหนึ่งวางที่ด้านข้าง - &bSalt&r, &bSulfur&r และ &bMercury&r - ตัว &bIncubator&r เอง และแหล่ง &6ความร้อน&r ในกรณีนี้คือ &bPyromantic Brazier&r ที่อยู่ด้านล่าง"]
+	quest.4E8963E1C18ADBAB.quest_subtitle: "คำเตือน: ไม่ได้ไว้ฟักไข่"
+	quest.4F2C4595C25E23E1.quest_desc: ["Rod นี้ถูกปรับจูนไว้ล่วงหน้าเพื่อหาวัสดุ &9หายาก&r"]
+	quest.508E110FF82365E3.quest_desc: ["&bInserters&r และ &bExtractors&r &6ย้ายไอเทม&r เข้าและออกจากคอนเทนเนอร์ใน &6Mercurial Logistics network&r ตามลำดับ"]
+	quest.508E110FF82365E3.title: "Mercurial Item Manipulation"
+	quest.5143D5FD55C819CA.quest_desc: ["ต่างจาก Glass Divination Rod &3Pre-Attuned Rod&r นี้ &6ปรับจูนไว้แล้ว&r กับชนิดบล็อกที่ระบุโดย &bSulfur&r ที่ใช้ทำ", "", "นอกนั้นทำงานเหมือน Glass Divination Rod ทุกประการ อันนี้ถูกปรับจูนให้หาวัสดุ &8Abundant&r"]
+	quest.5143D5FD55C819CA.quest_subtitle: "จับเป้าหมายได้แล้ว"
+	quest.51E386BC7692D06C.quest_desc: ["เพื่อ &6สร้าง&r &6Mercurial Logistics network&r ต้องใช้ &bWires&r เหล่านี้ &6เชื่อม&r ระหว่างอินพุตและเอาต์พุต &bConnection Nodes&r ให้สายหลายเส้นมาบรรจบที่จุดเดียวได้หากจำเป็น"]
+	quest.51E386BC7692D06C.title: "Mercurial Connections"
+	quest.53DEE3EF1297B630.quest_desc: ["&bEmitter&r นี้ใช้ &dMercury Flux&r สร้าง &6ความร้อน&r ที่ใช้แทน &bPyromantic Brazier&r ได้"]
+	quest.53DEE3EF1297B630.quest_subtitle: "แหล่งความร้อนใหม่"
+	quest.55391FF509DA53A5.quest_desc: ["ศาสตร์การเล่นแร่แปรธาตุของ &3Theurgy&r ช่วยเพิ่มผลผลิตแร่ แปลงวัสดุหนึ่งเป็นอีกอย่าง และสร้างทรัพยากรหลากหลายได้ไม่จำกัด", "", "&bหนังสือ&r เล่มนี้ The Hermetica จะเป็นผู้นำทางของคุณ ควบคู่กับสิ่งที่ข้าจะสอน"]
+	quest.55391FF509DA53A5.quest_subtitle: "หนทางที่ง่ายที่สุดสู่การเล่นแร่แปรธาตุ"
+	quest.55391FF509DA53A5.title: "&dWelcome to Theurgy"
+	quest.58E5ADE9A50BDF29.quest_desc: ["Rod นี้ถูกปรับจูนไว้ล่วงหน้าเพื่อหา &bBudding Amethyst&r &bAmethyst&r ใช้ในการเล่นแร่แปรธาตุค่อนข้างมาก และ &6จำเป็น&r สำหรับ Divining Rods ที่ดีกว่า"]
+	quest.5B9BFD4F72E79F5B.quest_desc: ["ทรัพยากร &dPrecious&r คือสิ่งที่หายากที่สุดในบรรดาทั้งหมด และมักมีมูลค่าสูงเป็นพิเศษ"]
+	quest.5B9BFD4F72E79F5B.title: "Precious Sulfurs"
+	quest.5C98D9127F4CEB74.quest_desc: ["มี &bSalt&r อยู่หลายชนิด แต่ละชนิดใช้สร้าง &6ทรัพยากรที่ต่างกัน&r ในท้ายที่สุด", "", "Salt บางชนิดสามารถ &6เผา&r อีกครั้งเพื่อให้กลายเป็นชนิดอื่นได้"]
+	quest.5C98D9127F4CEB74.quest_subtitle: "ไม่ใช่เกลือแบบที่ใช้บนโต๊ะอาหาร"
+	quest.5C98D9127F4CEB74.title: "เกลืออัลเคมี (Alchemical Salts)"
+	quest.5D584858B61E534B.quest_desc: ["&bCatalyst &fนี้ค่อย ๆ เปลี่ยน &bMercury &fเป็น &dMercury Flux&r แหล่ง &6พลังงาน&r สำหรับอุปกรณ์อัลเคมี"]
+	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
+	quest.6DA3C5DEE0F6438D.quest_desc: ["Rod นี้ปรับจูนไว้ล่วงหน้าเพื่อหาวัสดุ &dPrecious&r"]
+	quest.6DA3C5DEE0F6438D.quest_subtitle: "ผู้ตามหาเพชร"
+	quest.79A693466BF51105.quest_desc: ["Rod นี้ค้นหาวัสดุ &dPrecious&r ได้ และทนทานกว่ามาก"]
+	quest.79A693466BF51105.quest_subtitle: "ฉันมองเห็นทุกอย่าง"
+	quest.7A6C1605F32F695F.quest_desc: ["เตาอบนี้ช่วยให้ &6เผาให้เป็นผง&r วัสดุหลายชนิดเป็น &bAlchemical Salt&r ได้", "", "ตอนนี้ คุณต้องวาง &bPyromantic Brazier&r ไว้ใต้ Oven และเติม &6เชื้อเพลิง&r ให้เป็นแหล่งความร้อน โดยใช้เชื้อเพลิงของเตาหลอม &aเชื้อเพลิงไหม้นานเป็นสองเท่าของใน Furnace&r"]
+	quest.7A6C1605F32F695F.quest_subtitle: "แค่เตาอบธรรมดาเหรอ?"
+	quest.7C38A9BA01CA3772.quest_desc: ["ทรัพยากร &9Rare&r ต้องใช้ความพยายามมากกว่าในการหาหรือสร้าง และบางชนิดไม่พบในธรรมชาติ"]
+	quest.7C38A9BA01CA3772.title: "Rare Sulfurs"
+	quest.7DD81584380EE8F7.quest_desc: ["&bwand&r นี้ใช้เชื่อมต่อกับ &6Mercurial Logistics&r"]
+	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
+	task.601F7C69458E7589.title: "ยินดีต้อนรับสู่ Theurgy"
+}

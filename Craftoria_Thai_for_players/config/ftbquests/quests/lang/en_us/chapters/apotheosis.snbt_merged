@@ -1,0 +1,90 @@
+{
+	quest.01D3ED8EDE07740B.quest_desc: ["&6Pinnacle&r คือ World Tier สูงสุด", "", "สวมชุด Affix Gear ระดับ &5Epic&r ให้ครบชุด:", "", "&5Epic Helmet", "&5Epic Chestplate", "&5Epic Leggings", "&5Epic Boots", "&5Epic Weapon", "", "จากนั้นปราบ &cEnder Dragon&r", "", "ทำทั้งสองเงื่อนไขให้สำเร็จเพื่อขึ้นสู่ &6Pinnacle&r"]
+	quest.01D3ED8EDE07740B.quest_subtitle: "World Tier สุดท้ายรอคุณอยู่"
+	quest.01D3ED8EDE07740B.title: "&zPinnacle"
+	quest.07428CAC35BEA69B.quest_desc: ["&5Reforging Table&r เป็นวิธีที่ทรงพลังกว่าในการปรับรูปแบบ Affix Gear ของคุณ", "", "ใส่ Affix Item ลงไปเพื่อเปลี่ยน Affix ปัจจุบันเป็นชุดใหม่", "", "การ Reforge ใช้ &6Rarity Materials&r และทรัพยากรสำหรับ Reforge", "", "ใช้เมื่อระดับความหายากและศักยภาพของไอเทมน่าเก็บไว้ แต่ Affix ไม่ถูกใจ"]
+	quest.07428CAC35BEA69B.quest_subtitle: "ของดีก็ยังมี Affix ห่วยได้"
+	quest.07428CAC35BEA69B.title: "&dReforge เกียร์ของคุณ (Reforge Your Gear)"
+	quest.10BD26FC074B3066.quest_desc: ["วิวัฒนาการขั้นสุดยอดของ &bEnchantment Library&r", "", "&zLibrary of Alexandria&r ขยายความสามารถในการเก็บ Enchantment ของคุณอย่างมาก ทำให้สร้างและดูแลคอลเลกชันหนังสือเอ็นชานต์ทรงพลังได้ง่ายขึ้น", "", "เก็บความรู้ด้าน Enchantment ที่สะสมไว้ที่นี่ และเรียกกลับมาเมื่อต้องการ แทนการเก็บหนังสือเอ็นชานต์เป็นกอง ๆ ในคลัง", "", "นี่คือขั้นสุดท้ายในการสร้างห้องสมุด Enchantment โดยเฉพาะ", "", "เคล็ดลับ: ใช้ร่วมกับ &eTome of Extraction&r เพื่อย้าย Enchantment ทรงพลังจากอุปกรณ์เดิมเข้าคอลเลกชันของคุณอย่างปลอดภัย"]
+	quest.10BD26FC074B3066.quest_subtitle: "เชี่ยวชาญศาสตร์แห่ง Enchanting"
+	quest.14DDF01D6F7D46A7.quest_desc: ["&bThe Enchanting Table of the Raven&r ให้ปรับค่าสถิติหลักของการ Enchant ได้โดยตรง ", "", "ใช้เมื่อต้องการ&eควบคุมอย่างแม่นยำ&rต่อการตั้งค่า Enchanting ของคุณ"]
+	quest.14DDF01D6F7D46A7.quest_subtitle: "ควบคุมค่าสถิติเอง"
+	quest.14DDF01D6F7D46A7.title: "อีกาล่วงรู้ (The Raven Knows)"
+	quest.162DAA9CC7C05079.quest_desc: ["ไม่ใช่ Affix Item ทุกชิ้นที่มาพร้อม Affix ที่คุณต้องการ", "", "&5Simple Reforging Table&r ช่วยให้ Reforge อุปกรณ์และแทนที่ Affix ปัจจุบันด้วยชุดใหม่", "", "เป็นวิธีง่าย ๆ ในการยกระดับเกียร์ที่น่าสนใจ โดยไม่ต้องมีชุดสำหรับ Reforge เต็มรูปแบบ", "", "คราฟต์ &5Simple Reforging Table&r แล้วลองเสี่ยงโชค"]
+	quest.162DAA9CC7C05079.quest_subtitle: "บางครั้งโชคนิดหน่อยก็พอ"
+	quest.162DAA9CC7C05079.title: "Reforging แบบง่าย (Simple Reforging)"
+	quest.1CD3AD0FB5604882.quest_desc: ["คราฟต์ &bApothic Enchanting Table&r แล้วเริ่มใช้ &2Eterna&r, &4Quanta&r และ &5Arcana&r เพื่อผลัก Enchanting เกินขีดจำกัดของ vanilla โดยความก้าวหน้าไปถึงเลเวล 100"]
+	quest.1CD3AD0FB5604882.quest_subtitle: "เริ่มการยกเครื่อง"
+	quest.1CD3AD0FB5604882.title: "ความลับของ Enchanting (The Secrets of Enchanting)"
+	quest.1D9FEC69371DC538.quest_desc: ["เจอ Affix Gear ที่สมบูรณ์แบบ แต่มี &bSockets&r ไม่พอใช่ไหม", "", "&bSigil of Socketing&r เพิ่ม Socket อีกช่องให้ Affix Gear ที่เข้ากันได้", "", "ใช้เพื่อเปิดที่ว่างสำหรับอัญมณีอีกเม็ด"]
+	quest.1D9FEC69371DC538.quest_subtitle: "เกียร์ที่ใช่ สมควรมี Socket เพิ่ม"
+	quest.1D9FEC69371DC538.title: "พื้นที่เพิ่ม (More Room)"
+	quest.21474801C1472EF7.quest_desc: ["&bTome of Scrapping&r ช่วยให้คุณถอดเอนชานต์ออกจากไอเทมและเก็บคืนมาเป็นหนังสือเอนชานต์", "", "กระบวนการนี้มีการสูญเสีย คือได้คืนเพียงครึ่งหนึ่งของเอนชานต์ในไอเทม และไอเทมเดิมจะถูกทำลาย", "", "หากต้องการสกัดครบทั้งหมดโดยไม่ทำลายไอเทม ให้ใช้ Tome of Extraction แทน", "", "เคล็ดลับ: ใช้ &bTome of Superior Scrapping&r หากต้องการเก็บเอนชานต์คืนทั้งหมด และไม่เสียดายที่ต้องสละไอเทม"]
+	quest.21474801C1472EF7.quest_subtitle: "กู้เอนชานต์คืน"
+	quest.282C623AA0870088.quest_desc: ["&bGem Cutting Table&r ช่วยให้คุณปรับปรุง Gems ของคุณ", "", "ใช้ &bGem Dust&r และ &6Rarity Materials&r เพื่อเพิ่มพลังให้ Gem", "", "คราฟต์ &bGem Cutting Table&r แล้วเริ่มเจียระไน Gems ของคุณ"]
+	quest.282C623AA0870088.quest_subtitle: "Gems ที่ดีกว่าต้องใช้เครื่องมือที่ดีกว่า"
+	quest.282C623AA0870088.title: "เจียระไนให้ได้ขนาด (Cut to Size)"
+	quest.2936EE38CEAB4337.quest_desc: ["&bWeapon&r และ &bBow Tomes&r เน้นเอนชานต์ด้านการต่อสู้ และช่วยจัดระเบียบคอลเลกชันเอนชานต์เฉพาะทางของคุณ"]
+	quest.2936EE38CEAB4337.quest_subtitle: "เป้าหมายคือเอนชานต์การต่อสู้"
+	quest.2936EE38CEAB4337.title: "Tomes of Combat"
+	quest.2943A8844EAD8107.quest_desc: ["อุปกรณ์ทุกชิ้นไม่ได้เท่ากัน", "", "อาวุธและเกราะบางชิ้นอาจมี", "&dAffixes&r อันทรงพลังติดอยู่", "", "Affixes เหล่านี้ให้ได้ทุกอย่าง ตั้งแต่", "ความเสียหายและความทนทานที่เพิ่มขึ้น ไปจนถึง", "ความสามารถใหม่ทั้งหมด", "", "ค้นหา &dAffix Gear&r ชิ้นแรกของคุณ และ", "เริ่มต้นการเดินทางสู่ Apotheosis"]
+	quest.2943A8844EAD8107.quest_subtitle: "อุปกรณ์ของคุณมีอะไรมากกว่าที่ตาเห็น"
+	quest.2943A8844EAD8107.title: "&5พลังใหม่ (A New Power)"
+	quest.382C37A47810F0CF.quest_desc: ["Affix Gear มีห้าระดับความหายาก:", "", "&7Common&r — อุปกรณ์พื้นฐานที่มีค่าสถานะพิเศษน้อย", "&aUncommon&r — Affixes มากขึ้น และมี Gem Socket เป็นบางครั้ง", "&9Rare&r — Affixes หลายอัน และมี Socket บ่อยขึ้น", "&5Epic&r — Affixes เอฟเฟกต์ทรงพลัง และ Gem Socket หลายช่อง", "&6Mythic&r — Affixes สูงสุดและค่าสถานะแรงที่สุด", "", "หากต้องการไปถึง &6Frontier&r ให้สวมใส่ Affix Gear ระดับ &7Common&r ครบชุด:", "", "&7Common Helmet", "&7Common Chestplate", "&7Common Leggings", "&7Common Boots", "&7Common Weapon", "", "ใช้ &fCtrl + T&r เพื่อจัดการ World Tier ของคุณ"]
+	quest.382C37A47810F0CF.quest_subtitle: "ไปให้ถึง World Tier: Frontier"
+	quest.382C37A47810F0CF.title: "&aFrontier (The Frontier)"
+	quest.38E5EBCA2079EF22.quest_desc: ["&6Ascent&r ต้องการอุปกรณ์ที่แกร่งกว่าและคู่ต่อสู้ที่แกร่งกว่า", "", "สวมใส่ Affix Gear ระดับ &aUncommon&r ครบชุด:", "", "&aUncommon Helmet", "&aUncommon Chestplate", "&aUncommon Leggings", "&aUncommon Boots", "&aUncommon Weapon", "", "จากนั้นเอาชนะ &cApothic Invader&r", "", "ทำทั้งสองเงื่อนไขให้สำเร็จเพื่อไปถึง &6Ascent&r"]
+	quest.38E5EBCA2079EF22.quest_subtitle: "Frontier เป็นเพียงจุดเริ่มต้น"
+	quest.38E5EBCA2079EF22.title: "&6Ascent (The Ascent)"
+	quest.3A41A00BEF324EF3.quest_desc: ["Shelves เป็นรากฐานของการตั้ง Apothic Enchanting แต่ละ shelf ให้ &2Eterna&f, &4Quanta&f และ &5Arcana&f ในสัดส่วนต่างกัน ทำให้คุณปรับแต่ง Enchanting Table ได้", "", "มีตำแหน่งชั้นหนังสือที่ใช้ได้ &e32&r ตำแหน่งรอบ &bApothic Enchanting Table&f ", "", "Shelves ต้องมี &7บล็อกอากาศ&r ระหว่าง shelf กับโต๊ะ จึงจะให้ค่าสถานะ", "", "&2Eterna&r กำหนดระดับเอนชานต์ที่มีและความแรงของเอนชานต์ของคุณ", "", "&4Quanta&f เปลี่ยนกลุ่มเอนชานต์ เพิ่มความหลากหลายของเอนชานต์ที่มี แต่ Quanta มากเกินไปก็ทำให้เอนชานต์ที่อ่อนกว่าออกง่ายขึ้นได้เช่นกัน", "", "&5Arcana&r มีผลต่อความหายากและคุณภาพของเอนชานต์ที่คุณได้", "", "แต่ละ shelf มี &2เพดาน Eterna&f ของตัวเอง เมื่อถึงขีดจำกัดนั้น Eterna ที่เพิ่มจาก shelf นั้นจะถูกละเลย", "", "&aเคล็ดลับ:&r ลองผสม shelf หลายแบบเพื่อหาสมดุลที่ลงตัวของ Eterna, Quanta และ Arcana สำหรับการตั้งเอนชานต์ของคุณ"]
+	quest.3A41A00BEF324EF3.quest_subtitle: "สร้างชุดเอนชานต์ของคุณ"
+	quest.3A41A00BEF324EF3.title: "ชั้นหนังสือ (Bookshelves)"
+	quest.3C5915D24087ED3D.quest_desc: ["&6Summit&r ต้องการอุปกรณ์ที่ดียิ่งกว่า", "", "สวมใส่ Affix Gear ระดับ &9Rare&r ครบชุด:", "", "&9Rare Helmet", "&9Rare Chestplate", "&9Rare Leggings", "&9Rare Boots", "&9Rare Weapon", "", "จากนั้นเอาชนะ &cWither&r", "", "ทำทั้งสองเงื่อนไขให้สำเร็จเพื่อไปถึง &6Summit&r"]
+	quest.3C5915D24087ED3D.quest_subtitle: "มีเพียงผู้แกร่งที่สุดที่ถึงยอด"
+	quest.3C5915D24087ED3D.title: "&4Summit (The Summit)"
+	quest.3F72C49DDD72A5AD.quest_desc: ["&5Augmenting Table&r ช่วยให้คุณปรับปรุง Affix ทีละอัน", "", "ใช้ &5Sigils of Enhancement&r เพื่ออัปเกรด Affix หรือสุ่มใหม่", "", "ต่างจาก reforging ตรงที่คุณจัดการ Affix ที่ต้องการได้โดยไม่ต้องเปลี่ยนทั้งชุด", "", "ใช้ augmentation ปรับแต่งอุปกรณ์ชิ้นเด่นของคุณให้สมบูรณ์แบบ"]
+	quest.3F72C49DDD72A5AD.quest_subtitle: "Affix ดีก็กลายเป็นยอดเยี่ยมได้"
+	quest.3F72C49DDD72A5AD.title: "ทำ Affix ให้สมบูรณ์แบบ (Perfect the Affix)"
+	quest.41986354B4227FFE.quest_desc: ["Affix Gear บางชิ้นมาพร้อม &bSockets&r ว่าง", "", "หากต้องการใส่ Gem ให้ใช้ &fSmithing Table&r", "", "วาง &dAffix Gear&r ในช่องซ้าย และ &bApothic Gem&r ในช่องขวา", "", "หากไอเทมมี socket ว่าง Gem จะถูกใส่ลงในอุปกรณ์ และโบนัสของมันจะมีผลทันที", "", "เลือก Gem ให้ดี - เอฟเฟกต์ของมันสร้างความแตกต่างต่อบิลด์ของคุณได้มาก"]
+	quest.41986354B4227FFE.quest_subtitle: "Gem ของคุณต้องมีที่อยู่"
+	quest.51E14807C39F4111.quest_desc: ["&bThe Improved Tome of Scrapping&r คือรุ่นอัปเกรด ที่กู้คืนเอนชานต์ได้มีประสิทธิภาพขึ้น เมื่อแยกชิ้นส่วนอุปกรณ์ที่เอนชานต์"]
+	quest.51E14807C39F4111.quest_subtitle: "กู้คืนได้มากขึ้น"
+	quest.51E14807C39F4111.title: "Superior Scrapping"
+	quest.546445899EA26829.quest_desc: ["Apothic Gem มี &bความบริสุทธิ์&r หลายระดับ", "", "&7Cracked&r", "&aChipped&r", "&9Flawed&r", "&5Normal&r", "&6Flawless&r", "&zPerfect&r", "", "&bGem Cutting Table&r เพิ่มความบริสุทธิ์ของ Gem ได้", "", "สร้าง &bFlawless Gem&r เพื่อดัน Gem ของคุณไปถึงความบริสุทธิ์ระดับปกติสูงสุด"]
+	quest.546445899EA26829.quest_subtitle: "ความบริสุทธิ์ของ Gem สำคัญไม่แพ้ความหายาก"
+	quest.546445899EA26829.title: "&6Flawless"
+	quest.557B8123056FBF8C.quest_desc: ["&bThe Enchantment Library&r เป็นวิธีสะดวกในการเก็บและจัดการเอนชานต์", "", "ใส่สมุดเอนชานต์ลงใน &bLibrary&r แล้วดึงกลับมาใช้เมื่อต้องการ ช่วยให้คุณสะสมเอนชานต์ที่มีประโยชน์ได้ โดยไม่ต้องให้ที่เก็บของเต็มไปด้วยสมุดนับไม่ถ้วน", "", "&bThe Library&r มีประโยชน์เป็นพิเศษสำหรับเก็บเอนชานต์ &6ล้ำค่า&r หรือ &dหายาก&r จนกว่าจะมีอุปกรณ์ชิ้นที่สมบูรณ์แบบไว้ใส่", "", "เคล็ดลับ: จับคู่ &bLibrary&r กับ &eTome of Extraction&r เพื่อถ่ายโอนเอนชานต์จากอุปกรณ์ที่มีอยู่ ลงสมุดเพื่อเก็บอย่างปลอดภัย"]
+	quest.557B8123056FBF8C.quest_subtitle: "เก็บเอนชานต์ของคุณ"
+	quest.5C8DA6A4F83731BC.quest_desc: ["เครื่องมือขั้นสุดยอดสำหรับกู้เอนชันต์", "", "ใช้ &bTome of Extraction&r กับไอเทมที่มีเอนชันต์ใน &9Anvil&r เพื่อย้ายเอนชันต์ทั้งหมดไปยัง &eEnchanted Book&r", "", "ต่างจาก &bTome of Scrapping&r ตรงที่ไอเทมเดิมจะไม่หายไป", "", "&bTome of Scrapping&r: ดึงเอนชันต์ครึ่งหนึ่งและทำลายไอเทม", "&bTome of Superior Scrapping&r: ดึงเอนชันต์ทั้งหมดแต่ทำลายไอเทม", "&bTome of Extraction&r: ดึงเอนชันต์ทั้งหมดและเก็บไอเทมไว้", "", "เหมาะสำหรับย้ายเอนชันต์ล้ำค่าไปยังอุปกรณ์ที่ดีกว่าโดยไม่สูญเสียไอเทมเดิม"]
+	quest.5C8DA6A4F83731BC.quest_subtitle: "ดึงเอนชันต์โดยไม่ต้องเสียสละ"
+	quest.62CF33223F7108D6.quest_desc: ["ไม่ใช่ทุก Affix Item ที่คุ้มจะเก็บไว้", "", "&5Salvaging Table&r ช่วยให้คุณแยก Affix Gear ที่ไม่ต้องการเป็น &6Rarity Materials&r", "", "วัสดุเหล่านี้ใช้ปรับปรุงอุปกรณ์และก้าวหน้าใน Apotheosis ได้", "", "คราฟต์ &5Salvaging Table&r แล้วนำของที่ปล้นมาแต่ไม่ต้องการไปใช้ประโยชน์"]
+	quest.62CF33223F7108D6.quest_subtitle: "อุปกรณ์ที่ไม่ต้องการก็ยังมีประโยชน์"
+	quest.62CF33223F7108D6.title: "การแยกชิ้นส่วน (Salvaging)"
+	quest.64F025DAA4A9D40C.quest_desc: ["Apotheosis Gems ทั้งหมดบดให้เป็น", "&bGem Dust&r ได้", "", "วิธีหนึ่งคือบดด้วย", "&fAnvil&r ในโลก", "", "เมื่อคุณบด Gems ด้วย", "&fAnvil&r ไปได้สองสามชิ้นแล้ว คุณจะสร้างและใช้", "&5Salvaging Table&r แทนได้"]
+	quest.64F025DAA4A9D40C.quest_subtitle: "ไม่ใช่ทุก Gem ที่ต้องคงสภาพสมบูรณ์"
+	quest.752C5D1FE766F040.quest_desc: ["&bFlawless Gems&r สองชิ้นที่ชนิดและความหายากเดียวกัน รวมกันที่ &bGem Cutting Table&r เพื่อสร้าง &6Perfect Gem&r ได้", "", "Perfect Gems แทนระดับ Purity สูงสุดเท่าที่เป็นไปได้", "", "สร้างสักชิ้นแล้วนำ Gems ของคุณไปสู่ขีดสุด"]
+	quest.752C5D1FE766F040.quest_subtitle: "ไม่มีที่ว่างให้พัฒนาต่ออีกแล้ว"
+	quest.752C5D1FE766F040.title: "&zสมบูรณ์แบบ (Perfect)"
+	quest.7A699D1A92A84C51.quest_desc: ["&8Pickaxes&r, &3Fishing&r และ &9Other Tomes&r ครอบคลุมหมวดไอเทมเฉพาะทาง ", "", "&9The Other Tome&r จัดการ enchantment ที่ไม่เข้าหมวดอื่น"]
+	quest.7A699D1A92A84C51.quest_subtitle: "หมวดเฉพาะทาง"
+	quest.7A699D1A92A84C51.title: "Tomes of Utility"
+	quest.7C11028E6B1F402B.quest_desc: ["&bArmor Tomes&r จำกัด enchantment ที่เก็บไว้ให้อยู่ในหมวดเกราะที่เกี่ยวข้อง ทำให้พัฒนาชุดเกราะแบบเจาะจงง่ายขึ้นมาก"]
+	quest.7C11028E6B1F402B.quest_subtitle: "เจาะจง enchantment ของเกราะ"
+	quest.7C11028E6B1F402B.title: "Tomes of Armor"
+	quest.7F3584DB86B09C4D.quest_desc: ["ชุดเอนชานต์ของคุณไม่ได้จำกัดอยู่แค่ &bShelves&f", "", "บล็อกบางชนิดให้โบนัสเพิ่มเติมเมื่อวางรอบ &bApothic Enchanting Table&f", "", "&6Candles&f เพิ่ม &2Eterna&f ของชุดเอนชานต์ ช่วยให้ถึงเลเวลเอนชานต์ที่สูงขึ้น", "", "&6Mob Heads และ Skulls&f ให้โบนัสต่างกันตามชนิดที่ใช้ บางชนิดเพิ่ม &4Quanta&f, &2Arcana&f หรือค่าเอนชานต์อื่น ๆ ได้", "", "ผลเหล่านี้ทำงานร่วมกับ shelves ช่วยให้ปรับแต่งชุดเอนชานต์ได้ละเอียดโดยไม่ต้องเสียช่อง shelf ที่มีค่า", "", "&aเคล็ดลับ:&r ลองใช้ candles และ mob heads ที่แตกต่างกันเพื่อรีดค่าสถานะเพิ่มจากชุดเอนชานต์&f"]
+	quest.7F3584DB86B09C4D.quest_subtitle: "เสริมชุดเอนชานต์ของคุณ"
+	quest.7F3584DB86B09C4D.title: "Enchanting Catalysts"
+	task.0D4D94F0997C1769.title: "ถึง World Tier: Ascent"
+	task.1605ACA907712B09.title: "Skulls and Candles"
+	task.24A76A503F53AA7B.title: "Bookshelves"
+	task.498AC4BAB884D0A6.title: "ถึง World Tier: Summit"
+	task.4C7021388543ED23.title: "รับไอเทม Affix ชนิดใดก็ได้"
+	task.4E146480AAEB65FB.title: "ถึง World Tier: Pinnacle"
+	task.57F02AA9BFBA7624.title: "Enchanting Tables"
+	task.597ECA1E95F8C178.title: "Tomes of Armor"
+	task.5B40B4748A49BE45.title: "วัสดุหายาก (Rare Materials)"
+	task.62E5D383DDDA0BBE.title: "เติมช่อง Socket (Fill the Socket)"
+	task.68AA0F8A3FADC35E.title: "Perfect Gems"
+	task.6BDAFFD29A7695BF.title: "รับไอเทม Rare Affix"
+	task.780048015B8387EE.title: "Flawless Gems"
+}

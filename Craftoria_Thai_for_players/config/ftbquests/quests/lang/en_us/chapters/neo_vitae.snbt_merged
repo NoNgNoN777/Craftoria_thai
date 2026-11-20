@@ -1,0 +1,125 @@
+{
+	quest.03107F356240B036.quest_desc: ["สร้าง &bDominus Orb of Vitae&r และขยาย &bAnima&r ของคุณให้ถึงระดับที่น่าเกรงขามอย่างแท้จริง"]
+	quest.03107F356240B036.quest_subtitle: "บัญชาโลหิต บัญชาพลัง"
+	quest.03107F356240B036.title: "Dominus"
+	quest.03A2DAC1A090CC65.quest_desc: ["ใช้ &bHellfire Forge&r สร้างผลงานชิ้นแรกที่เสริมด้วย &bSpiritus&r"]
+	quest.03A2DAC1A090CC65.quest_subtitle: "มีพลังที่แม้โลหิตก็อธิบายไม่ได้"
+	quest.03A2DAC1A090CC65.title: "บางสิ่งเหนือโลหิต (Something Beyond Blood)"
+	quest.0935BFDC4F0B4C6C.quest_desc: ["ถึงเวลาขยาย Ara Vitae ของคุณ", "", "เพิ่มวงที่สองของ &d16 Runes&f ต่ำกว่าและไกลออกไปกว่าวงแรกหนึ่งระดับ", "", "ตำแหน่งใหม่ให้พื้นที่สำหรับ &dSpecialized Runes&f มากขึ้น ปรับแต่งแท่นบูชาได้ละเอียดขึ้น", "", "สร้างเสาทั้งสี่ให้เสร็จ แล้วครอบด้วย &dBlood Stained Glass&f", "", "ตอนนี้แท่นบูชาของคุณมี &d24 Runes&f"]
+	quest.0935BFDC4F0B4C6C.quest_subtitle: "แท่นบูชาเติบโต"
+	quest.0935BFDC4F0B4C6C.title: "วงที่สอง (The Second Circle)"
+	quest.0B7267B31A1CCECA.quest_desc: ["ใช้ &bRitual Diviner&r เพื่อเรียนรู้รูปแบบพิธีกรรมและเปิดใช้ &bMaster Ritual Stone&r อันแรกของคุณ", "", "ประกอบ &2Ritual of Overgrowth&r เพื่อเร่งการเติบโตของธรรมชาติรอบตัวคุณ", "", "ประกอบ &eRitual of Harvest&r เพื่อเปลี่ยนผลผลิตของธรรมชาติให้เป็นทรัพยากรที่พึ่งพาได้", "", "ประกอบ &6Ritual of Fallen Trees&r เพื่อเก็บเกี่ยวต้นไม้ใกล้เคียงโดยอัตโนมัติ"]
+	quest.0B7267B31A1CCECA.quest_subtitle: "วาดวงกลม เอ่ยคำร่าย จ่ายค่าตอบแทน"
+	quest.0B7267B31A1CCECA.title: "พิธีกรรมแรกของคุณ (Your First Ritual)"
+	quest.0BB01161ABEFCC8A.quest_desc: ["ใช้ &bHellfire Forge&r สร้าง &bSentient Weapon&r อันแรกของคุณ แล้วป้อนวิญญาณของศัตรูให้มัน"]
+	quest.0BB01161ABEFCC8A.quest_subtitle: "ให้อาวุธของคุณมีความหิวเป็นของตัวเอง"
+	quest.0BB01161ABEFCC8A.title: "Sentient Weapons"
+	quest.0DD2816485683CE6.quest_desc: ["สร้าง &bSentient Armour&r ครบชุด แล้วเริ่มป้อนวิญญาณของศัตรูให้มัน"]
+	quest.0DD2816485683CE6.quest_subtitle: "เกราะไม่ได้รับใช้คุณอีกต่อไป แต่สู้เคียงข้างคุณ"
+	quest.0DD2816485683CE6.title: "Sentient Armour"
+	quest.0FC1A7168D389575.quest_desc: ["Ara Vitae ของคุณเติบโตต่อไป", "", "เพิ่มวงที่สี่ของ &d48 Runes&f ต่ำลงและไกลออกไปอีกหนึ่งระดับ", "", "ใช้ &dSpecialized Runes&f ปรับแท่นบูชาให้ตรงความต้องการ หรือใช้แบบ &5Reinforced&f เพื่อผลที่แรงกว่าเดิม", "", "สร้างเสาทั้งสี่ให้เสร็จด้วย &4Hellforged Blocks&f", "", "ตอนนี้แท่นบูชาของคุณมี &d100 Runes&f"]
+	quest.0FC1A7168D389575.quest_subtitle: "สู่ห้วงลึก"
+	quest.0FC1A7168D389575.title: "วงที่สี่ (The Fourth Circle)"
+	quest.108E216EC6911B77.quest_desc: ["อัปเกรด &bAra Vitae&r ของคุณและสร้าง &bDiscipulus Orb of Vitae&r เพื่อขยาย &bAnima&r ของคุณอย่างมาก"]
+	quest.108E216EC6911B77.quest_subtitle: "การเลื่อนขั้นครั้งแรกของคุณเริ่มต้นแล้ว"
+	quest.108E216EC6911B77.title: "The Discipulus"
+	quest.26C7705667EB55E8.quest_desc: ["Ara Vitae ต้องการมากกว่าเลือดแล้ว", "", "เพิ่มวงแหวน &d28 Runes&f อีกวง ต่ำลงหนึ่งระดับและอยู่ไกลออกไป", "", "ตำแหน่ง rune เพิ่มขึ้น ทำให้คุณควบคุมแท่นบูชาได้มากขึ้นอีก", "", "วาง &cBloodstone Bricks&f ที่มุมทั้งสี่เพื่อปิดวงให้สมบูรณ์", "", "ตอนนี้แท่นบูชาของคุณมี &d52 Runes&f"]
+	quest.26C7705667EB55E8.quest_subtitle: "เหนือกว่าเลือด"
+	quest.26C7705667EB55E8.title: "วงที่สาม (The Third Circle)"
+	quest.3376D278202F2B4C.quest_desc: ["ผูก &bNovicius Orb of Vitae&r เข้ากับตัวคุณ และสร้างเครือข่าย &bAnima&r แรกของคุณ", "", "เรียนรู้การส่ง &bEssentia Vitae&r ระหว่าง blood altar กับส่วนประกอบที่เชื่อมต่อ เพื่อวางรากฐานของทุกสิ่งที่จะตามมา"]
+	quest.3376D278202F2B4C.quest_subtitle: "พลังของคุณต้องไหลเวียนก่อนจึงจะเติบโตได้"
+	quest.3376D278202F2B4C.title: "เครือข่ายเลือด (The Blood Network)"
+	quest.35D797292DAB5C89.quest_desc: ["รับ &bScriptura Vitae&r และเริ่มผลิต &4Essentia Vitae&r"]
+	quest.35D797292DAB5C89.quest_subtitle: "เรียนรู้การเปลี่ยนชีวิตเป็นพลังงาน"
+	quest.35D797292DAB5C89.title: "เลือดคือพลัง (Blood Is Power)"
+	quest.384E0A6178B5AA5B.quest_desc: ["คราฟต์ &bReinforced Rune&r แรกของคุณ และปลดล็อกการดัดแปลงที่แรงขึ้นให้ &bAra Vitae&r ของคุณ"]
+	quest.384E0A6178B5AA5B.quest_subtitle: "rune เก่าไม่เพียงพออีกต่อไป"
+	quest.384E0A6178B5AA5B.title: "Reinforced Runes"
+	quest.3A3B3EACB9321FF3.quest_desc: ["สร้าง &bHellfire Forge&r และปลดล็อกวิธีใหม่ในการเปลี่ยน &bVitae&r เป็นพลัง", "", "ใช้ &bHellfire Forge&r เพื่อเริ่มสร้างอุปกรณ์และวัสดุที่ล้ำหน้ากว่า"]
+	quest.3A3B3EACB9321FF3.quest_subtitle: "บางสิ่งตีขึ้นได้เฉพาะในไฟนรก"
+	quest.3A3B3EACB9321FF3.title: "The Hellfire Forge"
+	quest.3B7D0C01193B6FB3.quest_desc: ["คราฟต์ &bRunes&r ชุดแรกของคุณ และเริ่มปรับความเร็ว ความจุ และประสิทธิภาพของ &bAra Vitae&r"]
+	quest.3B7D0C01193B6FB3.quest_subtitle: "กำหนดการไหลของ vitae ตามใจคุณ"
+	quest.3B7D0C01193B6FB3.title: "Runes"
+	quest.418CB5EC1FE8CB1A.quest_desc: ["ใช้ &bAra Vitae&r สร้าง &bNovicius Orb of Vitae&r ลูกแรกของคุณ"]
+	quest.418CB5EC1FE8CB1A.quest_subtitle: "เลือดคือราคาที่ต้องจ่าย พลังคือรางวัล"
+	quest.418CB5EC1FE8CB1A.title: "The First Sacrifice"
+	quest.42C757350BE9280A.quest_desc: ["พิชิต &bDaemonium&r ชนิดต่าง ๆ ที่อาศัยอยู่ในอาณาจักรปีศาจ และเก็บของดรอปเฉพาะตัวของพวกมัน"]
+	quest.42C757350BE9280A.quest_subtitle: "ถ้านรกอยากสู้ ก็สู้ให้มันดู"
+	quest.42C757350BE9280A.title: "นักล่าปีศาจ (Demon Hunter)"
+	quest.42D39031CFD335C9.quest_desc: ["ประกอบพิธี &bRitual of Fallen Trees&r เพื่อเก็บเกี่ยวต้นไม้ใกล้เคียงโดยอัตโนมัติ"]
+	quest.42D39031CFD335C9.quest_subtitle: "แม้ป่าก็ถูกเก็บเกี่ยวด้วยกำลังได้"
+	quest.49BDD5CCF648A04D.quest_desc: ["ยกระดับ &bAra Vitae&r ของคุณ แล้วสร้าง &bVeneficus Orb of Vitae&r ขยาย &bAnima&r ของคุณสู่ระดับใหม่", "", "โครงสร้าง &6Tier 3&r ใช้ Bloodstone/Bloodstone Bricks และต้องใช้ Tau Fruit จากพิธี &4Breaching the Edge of Demon Realm&r"]
+	quest.49BDD5CCF648A04D.quest_subtitle: "พลังของคุณเติบโตเกินภาชนะแรกแล้ว"
+	quest.49BDD5CCF648A04D.title: "Veneficus"
+	quest.4CFB8A6C9DF9988A.quest_desc: ["สร้าง &bSigil of Teleposition&r แล้วเริ่มควบคุมตำแหน่งของคุณผ่าน &bVitae&r"]
+	quest.4CFB8A6C9DF9988A.quest_subtitle: "ระยะทางเป็นแค่ความไม่สะดวก"
+	quest.4DE8993F6A7F096B.quest_desc: ["รับ &bLex Vitae&r แล้วใช้หนึ่งในสิ่งสร้างที่ทรงพลังที่สุดของ Neo Vitae", "", "เชี่ยวชาญทั้งการขุดและการต่อสู้ของ &bLex Vitae&r และพิสูจน์ว่าคุณใช้พลังเต็มรูปแบบของมันได้", "", "โหมด:", "", "* โหมดขุด (Mining Mode)", "* โหมดความเสียหาย (Damage Mode)"]
+	quest.4DE8993F6A7F096B.quest_subtitle: "จุดสูงสุดของเลือด วิญญาณ และความทุกข์ทรมาน"
+	quest.4DE8993F6A7F096B.title: "The Lex Vitae"
+	quest.4F144C6D995FED7E.quest_desc: ["สร้าง &bMagus Orb of Vitae&r แล้วขยาย &bAnima&r ของคุณเพื่อรองรับสิ่งสร้างที่ทรงพลังขึ้นเรื่อย ๆ"]
+	quest.4F144C6D995FED7E.quest_subtitle: "เวทมนตร์ยอมโค้งให้ผู้ยอมจ่ายราคา"
+	quest.4F144C6D995FED7E.title: "Magus"
+	quest.52CA774E9F825514.quest_desc: ["ประกอบพิธี &bRitual of Harvest&r แล้วเปลี่ยนของประทานจากธรรมชาติให้เป็นทรัพยากรที่พึ่งพาได้"]
+	quest.52CA774E9F825514.quest_subtitle: "อย่าให้อะไรเสียเปล่า"
+	quest.52CA774E9F825514.title: "&6Ritual of Harvest"
+	quest.53C28D1A140CA4A6.quest_desc: ["ค้นพบแง่มุม &bSpiritus&r ทั้งห้า และเรียนรู้การควบคุมคุณสมบัติที่แตกต่างกัน"]
+	quest.53C28D1A140CA4A6.quest_subtitle: "ห้าวิญญาณ ห้าพลัง หนึ่งเส้นทาง"
+	quest.53C28D1A140CA4A6.title: "ห้าแง่มุม (The Five Aspects)"
+	quest.5946631C59C788DC.quest_desc: ["สร้าง &bSigil of Holding&r แล้วเรียนรู้วิธีพก &bSigils&r หลายอันพร้อมกัน"]
+	quest.5946631C59C788DC.quest_subtitle: "พกพลังของคุณไปได้ทุกที่"
+	quest.5A52426AC47A1FE3.quest_desc: ["Ara Vitae มาถึงรูปแบบสุดท้ายแล้ว", "", "ทุกครั้งที่ครบหนึ่งวงกลม ตำแหน่งรูนจะเปิดเพิ่ม ทำให้คุณปรับแต่งแท่นบูชาได้เฉพาะทางมากขึ้นด้วย &dSpecialized Runes&f และรูปแบบ &5Reinforced&f ของมัน", "", "สร้างวงกลมสุดท้ายให้ครบ แล้วนำ Ara Vitae ของคุณไปสู่ศักยภาพ &5Transcendent&f", "", "ไม่มีวงกลมใดสูงไปกว่านี้อีกแล้ว", "", "สิ่งที่รออยู่ข้างหน้า คุณต้องค้นพบเอง"]
+	quest.5A52426AC47A1FE3.quest_subtitle: "เหนือขีดจำกัดของมนุษย์"
+	quest.5A52426AC47A1FE3.title: "วงกลมที่หก (The Sixth Circle)"
+	quest.5E978B85065D1E32.quest_desc: ["คราฟต์เครื่องมือที่จำเป็นสำหรับทำพิธีกรรม และเริ่มบงการโลกผ่าน &bVitae&r"]
+	quest.5E978B85065D1E32.quest_subtitle: "เลือดเพียงอย่างเดียวไม่เพียงพออีกต่อไป"
+	quest.5E978B85065D1E32.title: "ผู้ประกอบพิธี (The Ritualist)"
+	quest.5EC47502FEDE944B.quest_desc: ["สร้าง &bDivinus Orb of Vitae&r แล้วไปให้ถึงขีดจำกัดสูงสุดของเครือข่าย &bAnima&r ของคุณ"]
+	quest.5EC47502FEDE944B.quest_subtitle: "แทบไม่มีอะไรเหลือเหนือกว่าคุณอีกแล้ว"
+	quest.5EC47502FEDE944B.title: "Divinus"
+	quest.61AAFF003014ABBC.quest_desc: ["คราฟต์ &bTabula Vitae&r เพื่อปลดล็อกความสามารถในการสร้าง &bSigils&r อันทรงพลัง &bflasks&r และไอเทมมีประโยชน์อื่น ๆ"]
+	quest.61AAFF003014ABBC.quest_subtitle: "ความรู้ทำให้เลือดมีจุดหมาย"
+	quest.695071B9E6FB490A.quest_desc: ["ประกอบ &bRitual of Overgrowth&r เพื่อเร่งการเติบโตของธรรมชาติรอบตัวคุณ"]
+	quest.695071B9E6FB490A.quest_subtitle: "บังคับธรรมชาติให้เชื่อฟัง"
+	quest.6AD3F5CE39D98B03.quest_desc: ["ก้าวผ่าน &bHighway to Hell&r แล้วเข้าสู่อาณาจักรปีศาจอันไร้สิ้นสุดเป็นครั้งแรก"]
+	quest.6AD3F5CE39D98B03.quest_subtitle: "ยินดีต้อนรับสู่ที่ที่คนตายไม่ได้พักผ่อน"
+	quest.6AD3F5CE39D98B03.title: "เข้าสู่อาณาจักรปีศาจ (Enter the Demon Realm)"
+	quest.6C86EFABDB60BE68.quest_desc: ["สร้าง &bSigil of the Blood Lamp&r แล้วส่องสว่างให้โลกด้วย &bAnima&r ของคุณ"]
+	quest.6C86EFABDB60BE68.quest_subtitle: "แม้ความมืดยังต้องคล้อยตามเจตจำนงของคุณ"
+	quest.6F92D6C797F9C931.quest_desc: ["สร้าง &bCrystallarium&r แล้วใช้ &bSpiritus Aura&r เพื่อสร้างพลังจิตวิญญาณเข้มข้น"]
+	quest.6F92D6C797F9C931.quest_subtitle: "สิ่งที่เคยไร้รูป บัดนี้จับต้องได้"
+	quest.6F92D6C797F9C931.title: "แก่นแท้ผลึก (Crystallized Essence)"
+	quest.73FC0402BA6033FA.quest_desc: ["สร้าง &bSigil of Phantom Bridge&r แล้วเรียนรู้วิธีข้ามช่องว่างที่ไม่น่าจะข้ามได้"]
+	quest.73FC0402BA6033FA.quest_subtitle: "ข้ามสิ่งที่เป็นไปไม่ได้"
+	quest.7997AD44CC428BDC.quest_desc: ["สร้าง &bVas Maleficum&r แล้วเริ่มผลิต &bSpiritus Aura&r ที่ต้องใช้สำหรับการสร้างสรรค์ขั้นสูงขึ้น"]
+	quest.7997AD44CC428BDC.quest_subtitle: "ให้รูปร่างแก่วิญญาณที่ล้อมรอบคุณ"
+	quest.7997AD44CC428BDC.title: "The Vas Maleficum"
+	quest.7A0A29CC4F524CEE.quest_desc: ["Ara Vitae ขยายออกไปได้ไกลกว่าจุดเริ่มต้นอันต่ำต้อย", "", "สร้างวงแรกด้วย &d8 Runes&f ต่ำกว่าแท่นบูชาหนึ่งชั้น", "", "ทิศหลักทั้งสี่เติมด้วย &dSpecialized Runes&f ได้ ส่วนตำแหน่งทแยงยังไม่ทำงานในตอนนี้", "", "เลือก rune ให้ดี เพราะแต่ละอันเปลี่ยนการทำงานของแท่นบูชาของคุณได้"]
+	quest.7A0A29CC4F524CEE.quest_subtitle: "จุดเริ่มต้นของสิ่งที่ยิ่งใหญ่กว่า"
+	quest.7A0A29CC4F524CEE.title: "วงแรก (The First Circle)"
+	quest.7C8727CEB9850F24.quest_desc: ["รับ &bAra Vitae&r แล้วเริ่มเดินทางสู่ศาสตร์ต้องห้าม"]
+	quest.7C8727CEB9850F24.quest_subtitle: "พลังยิ่งใหญ่ทุกอย่างเริ่มจากการเสียสละครั้งเดียว"
+	quest.7C8727CEB9850F24.title: "&4พลังประหลาด (A Strange Power)"
+	quest.7D740352BE81EBAD.quest_desc: ["สำรวจแดนปีศาจ แล้วรับ &bDemonite&r ชิ้นแรกจากส่วนลึกที่เสื่อมทราม"]
+	quest.7D740352BE81EBAD.quest_subtitle: "ดึงพลังจากผู้ที่ไม่ควรมีชีวิตอยู่"
+	quest.7D740352BE81EBAD.title: "Blood of the Damned"
+	quest.7E88E36EDE4C0BF0.quest_desc: ["เหลือการขยายครั้งสุดท้าย", "", "เพิ่มวงที่กว้างที่สุดด้วย &d72 Runes&f ต่ำกว่าและอยู่ไกลออกไปกว่าวงก่อนหน้าหนึ่งชั้น", "", "ด้วยตำแหน่ง rune จำนวนมากเช่นนี้ คุณปรับแท่นบูชาให้เชี่ยวชาญเฉพาะทางได้เต็มที่ด้วย rune ชนิด &dSpeed&f, &bCapacity&f, &eCharging&f, &cSacrifice&f และ rune เฉพาะทางอื่น ๆ", "", "สวมยอดเสาทั้งสี่ด้วย &5Crystal Clusters&f หรือ &5Crystal Cluster Bricks&f", "", "ตอนนี้ Ara Vitae ของคุณมี &d172 Runes&f และถึงระดับการก่อสร้างสูงสุดแล้ว"]
+	quest.7E88E36EDE4C0BF0.quest_subtitle: "การไต่ขึ้นครั้งสุดท้าย"
+	quest.7E88E36EDE4C0BF0.title: "วงที่ห้า (The Fifth Circle)"
+	quest.7F5D66A96BCE339D.quest_desc: ["เปิดใช้ &bRitual of Sentient Evolution&r และดัน &bSentient Armour&r ของคุณให้เกินขีดจำกัดเดิม"]
+	quest.7F5D66A96BCE339D.quest_subtitle: "สิ่งที่คุณสร้างได้เรียนรู้ที่จะวิวัฒน์"
+	quest.7FAF52B083F86C57.quest_desc: ["ทำพิธี &bHighway to Hell&r แล้วฉีกเส้นทางสู่แดนปีศาจ"]
+	quest.7FAF52B083F86C57.quest_subtitle: "มีทางไปนรกอยู่ แค่ต้องเปิดมัน"
+	quest.7FAF52B083F86C57.title: "เปิดประตู (Open the Gateway)"
+	task.38084EDBEB9647AD.title: "Sentient Evolution"
+	task.43CE51B3EC9945C1.title: "&aRitual of Fallen Trees"
+	task.46DBAE66F97438E6.title: "Runes"
+	task.480E9CFA1CEE6479.title: "Spiritus Gems"
+	task.51B280AD931A2CF4.title: "Demonite"
+	task.537A156153014C88.title: "&2Ritual of Overgrowth"
+	task.66A70863F595A874.title: "Ritual of Harvest"
+	task.72F89F43852EBF65.title: "Crystal Clusters"
+	task.74EA288EED7CCE71.title: "Reinforced Runes"
+	task.753B3D09A302E973.title: "Raw Spiritus Crystals"
+	task.7617B5CAABCD437A.title: "Bloodstones"
+}

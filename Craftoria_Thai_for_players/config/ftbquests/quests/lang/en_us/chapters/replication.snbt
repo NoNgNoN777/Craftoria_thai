@@ -1,0 +1,19 @@
+{
+	quest.1CD404EA948FF868.quest_desc: ["ด้วย&bเครื่อง&rนี้ คุณจะ&6แปลง&rไอเทมใดก็ได้ที่มีค่า Matter ให้เป็น &dMatter", "", "คุณจะสังเกตเห็นเมื่อ&6ชี้&rไอเทมบางอย่าง จะมี &9Matter Values&r เพิ่มเข้ามา", "", "ดูค่าที่แน่นอนได้โดยกดปุ่ม &6Shift&r ค้างขณะชี้ไอเทมนั้น"]
+	quest.1CD404EA948FF868.quest_subtitle: "แปลงไอเทมเป็น &dMatter"
+	quest.24A9E9A5E3B7B041.quest_desc: ["&aIdentification Chamber&r จะ &6สแกน&r ไอเทมเพื่อรู้ค่า matter แล้วเก็บลงใน &cchips&r ", "", "&cChips&r เหล่านั้นเก็บไว้ใน &bChip Storage&r ได้ และจะพร้อมใช้งานในเครือข่าย"]
+	quest.24A9E9A5E3B7B041.quest_subtitle: "ขอดูพาสปอร์ตหน่อย!"
+	quest.28EB489B44A05070.quest_desc: ["&aReplicators&r จะใช้ &dMatter&r ที่เก็บในถังเพื่อจำลองไอเทมขึ้นมาจากศูนย์ แล้วส่งกลับไปที่ &bterminal&r"]
+	quest.28EB489B44A05070.quest_subtitle: "ใช้ matter ที่เก็บไว้สร้างไอเทม"
+	quest.44ABC5C2552BF034.quest_subtitle: "ที่เก็บของมีผลกับ &aDisintegrator"
+	quest.4513758183EFECE7.quest_desc: ["&aReplication&r คือม็อดสายเทคที่ให้คุณ &6จำลอง&r ทรัพยากรประเภทใกล้เคียงกัน ", "", "คุณแปลง &edirt&r เป็น &8stone&r ได้ แต่แปลง &edirt&r เป็น &bdiamond&r ไม่ได้"]
+	quest.4513758183EFECE7.quest_subtitle: "เปลี่ยน &dMatter&r เป็นเกือบทุกอย่าง"
+	quest.4513758183EFECE7.title: "&aReplication!"
+	quest.47A87F0901355498.quest_subtitle: "ใช้เก็บ &cChips"
+	quest.6392FB264D1B2E52.quest_subtitle: "ใช้ภายใน &aIdentification Chamber"
+	quest.6B5431B3A107C9D5.quest_desc: ["เมื่อคุณสแกนไอเทมและเก็บค่าลงใน &cchips&r แล้ว คุณใช้ &aReplication Terminal&r เพื่อ &6ขอไอเทม&r ได้ ", "", "เมื่อสร้างคำขอแล้ว &aReplicators&r จะใช้ &dMatter&r ที่เก็บในถังเพื่อจำลองไอเทมขึ้นจากศูนย์ และส่งกลับไปยัง &aterminal&r", "", "{@pagebreak}", "", "&dMatter&aOpedia&r คือรายการค้นหาได้ ที่ให้คุณ &6ค้นหา&r ไอเทมที่มี &dMatter Value&r เฉพาะ ", "", "คุณเข้าถึงได้โดยใช้ปุ่มทางด้าน &9ซ้าย&r ของ &bSearch Bar&r ในหน้าจอ &aReplication Terminal&r หรือคลิกที่การแสดงผล matter ทางด้าน &9ขวา&r ของ terminal ก็ได้", "", "ในช่องค้นหาของ &dMatter&aOpedia&r คุณใช้ได้ดังนี้:", "", "*&r &aearth>10&r จะแสดงไอเทมทั้งหมดที่มี earth มากกว่า 10", "", "*&r &4nether=20&r จะแสดงไอเทมทั้งหมดที่มี nether เท่ากับ 20 พอดี", "", "*&r &dquantum<6&r จะแสดงไอเทมทั้งหมดที่มี quantum น้อยกว่า 6", "", "*&r &2!earth&r จะแสดงไอเทมทั้งหมดที่ไม่มี earth", "", "*&r &7*metallic&r จะแสดงไอเทมทั้งหมดที่มีเฉพาะ metallic"]
+	quest.6B5431B3A107C9D5.quest_subtitle: "ส่วนติดต่อของทุกการทำงาน"
+	quest.6B5431B3A107C9D5.title: "Replication Terminal"
+	quest.7FCA9352AF05C235.quest_desc: ["ท่อเหล่านี้ &6ทำให้อัตโนมัติ&r บางกระบวนการ:", "", "ส่ง &6Power&r: ", "- ทำงานเหมือน &bPower Pipe&r อื่น ๆ", "", "ส่ง &dMatter&r: ", "- จาก &bDisintegrator&r ไปยัง &bMatter Tanks&r ", "", "- จาก &dMatter Tanks&r ไปยัง &bmachines&r อื่นที่ต้องการ"]
+	quest.7FCA9352AF05C235.quest_subtitle: "ท่อ Matter ช่วยให้เชื่อมต่อเครื่อง &aReplication&r ได้"
+}

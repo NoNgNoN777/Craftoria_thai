@@ -1,0 +1,21 @@
+{
+	quest.0ABC6D5601DCD95F.quest_desc: ["ได้จาก &6Treasure Chests&r หรือ &3Goals&r ที่ทำสำเร็จจากการตกปลา"]
+	quest.0ABC6D5601DCD95F.quest_subtitle: "ช่วยคุณด้วยอัปเกรดที่ให้ประโยชน์หลากหลาย"
+	quest.0ABC6D5601DCD95F.title: "Hooks and Bobbers"
+	quest.287A6A75537FF79C.quest_subtitle: "&6&kCatch all the fishes."
+	quest.29AD1060C129C86F.quest_subtitle: "จับปลาให้ครบ &a100&r ตัว ปลาในตำนานที่ไม่ซ้ำกัน &d2&r ชนิด ปลาทองคำที่ไม่ซ้ำกัน &62&r ชนิด"
+	quest.2C42A6E79A5242F0.quest_subtitle: "ใช้สำหรับปลาเฉพาะไบโอม"
+	quest.2C42A6E79A5242F0.title: "เหยื่อตกปลา (Baits)"
+	quest.30A0D33361D77D7E.quest_subtitle: "จับปลาที่ไม่ซ้ำกันให้ได้ &535&r ชนิด"
+	quest.3295D859B01FA315.quest_desc: ["&bหนังสือ&r เล่มนี้คือ &3บันทึกการสะสม&r ทุกอย่างเกี่ยวกับการตกปลา ตั้งแต่ &5ปลาหายาก&r ไปจนถึง &6ถ้วยรางวัลแวววาว&r"]
+	quest.3295D859B01FA315.quest_subtitle: "เรื่องเล่าของชาวประมง"
+	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
+	quest.3F3C9A6F590496AD.quest_desc: ["เปิด &6GUI&r เพื่อเพิ่ม hook, bobber และเหยื่อชนิดต่าง ๆ ด้วยการ &3กดย่อ&r + &3คลิกขวา&r"]
+	quest.3F3C9A6F590496AD.quest_subtitle: "จับให้ครบทุกตัวได้ไหม"
+	quest.4A25E60DD359F959.quest_subtitle: "Catch &d134&r unique fishes."
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "จับปลาธรรมดา &a25&r ตัว"
+	quest.5D0F6404B76F480E.quest_subtitle: "เครื่องมือสะดวกที่แสดงปลาในบริเวณรอบตัวคุณ"
+	quest.621168DCC2A3B3F3.quest_subtitle: "Catch &d75&r unique fishes."
+	task.691E6AA922761E29.title: "Hooks"
+	task.7376AAE3B45AD4B9.title: "Bobbers"
+}

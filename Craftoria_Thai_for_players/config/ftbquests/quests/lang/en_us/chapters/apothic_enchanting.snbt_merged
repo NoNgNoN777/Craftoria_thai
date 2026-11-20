@@ -1,0 +1,38 @@
+{
+	quest.10BD26FC074B3066.quest_desc: ["วิวัฒนาการขั้นสุดยอดของ &bEnchantment Library&r", "", "&zLibrary of Alexandria&r ขยายความสามารถในการเก็บ Enchantment ของคุณอย่างมาก ทำให้สร้างและดูแลคอลเลกชันหนังสือเอ็นชานต์ทรงพลังได้ง่ายขึ้น", "", "เก็บความรู้ด้าน Enchantment ที่สะสมไว้ที่นี่ และเรียกกลับมาเมื่อต้องการ แทนการเก็บหนังสือเอ็นชานต์เป็นกอง ๆ ในคลัง", "", "นี่คือขั้นสุดท้ายในการสร้างห้องสมุด Enchantment โดยเฉพาะ", "", "เคล็ดลับ: ใช้ร่วมกับ &eTome of Extraction&r เพื่อย้าย Enchantment ทรงพลังจากอุปกรณ์เดิมเข้าคอลเลกชันของคุณอย่างปลอดภัย"]
+	quest.10BD26FC074B3066.quest_subtitle: "เชี่ยวชาญศาสตร์แห่ง Enchanting"
+	quest.14DDF01D6F7D46A7.quest_desc: ["&bThe Enchanting Table of the Raven&r ให้ปรับค่าสถิติหลักของการ Enchant ได้โดยตรง ", "", "ใช้เมื่อต้องการ&eควบคุมอย่างแม่นยำ&rต่อการตั้งค่า Enchanting ของคุณ"]
+	quest.14DDF01D6F7D46A7.quest_subtitle: "ควบคุมค่าสถิติเอง"
+	quest.14DDF01D6F7D46A7.title: "อีกาล่วงรู้ (The Raven Knows)"
+	quest.1CD3AD0FB5604882.quest_desc: ["คราฟต์ &bApothic Enchanting Table&r แล้วเริ่มใช้ &2Eterna&r, &4Quanta&r และ &5Arcana&r เพื่อผลัก Enchanting เกินขีดจำกัดของ vanilla โดยความก้าวหน้าไปถึงเลเวล 100"]
+	quest.1CD3AD0FB5604882.quest_subtitle: "เริ่มการยกเครื่อง"
+	quest.1CD3AD0FB5604882.title: "ความลับของ Enchanting (The Secrets of Enchanting)"
+	quest.21474801C1472EF7.quest_desc: ["&bTome of Scrapping&r ช่วยให้คุณถอดเอนชานต์ออกจากไอเทมและเก็บคืนมาเป็นหนังสือเอนชานต์", "", "กระบวนการนี้มีการสูญเสีย คือได้คืนเพียงครึ่งหนึ่งของเอนชานต์ในไอเทม และไอเทมเดิมจะถูกทำลาย", "", "หากต้องการสกัดครบทั้งหมดโดยไม่ทำลายไอเทม ให้ใช้ Tome of Extraction แทน", "", "เคล็ดลับ: ใช้ &bTome of Superior Scrapping&r หากต้องการเก็บเอนชานต์คืนทั้งหมด และไม่เสียดายที่ต้องสละไอเทม"]
+	quest.21474801C1472EF7.quest_subtitle: "กู้เอนชานต์คืน"
+	quest.2936EE38CEAB4337.quest_desc: ["&bWeapon&r และ &bBow Tomes&r เน้นเอนชานต์ด้านการต่อสู้ และช่วยจัดระเบียบคอลเลกชันเอนชานต์เฉพาะทางของคุณ"]
+	quest.2936EE38CEAB4337.quest_subtitle: "เป้าหมายคือเอนชานต์การต่อสู้"
+	quest.2936EE38CEAB4337.title: "Tomes of Combat"
+	quest.3A41A00BEF324EF3.quest_desc: ["Shelves เป็นรากฐานของการตั้ง Apothic Enchanting แต่ละ shelf ให้ &2Eterna&f, &4Quanta&f และ &5Arcana&f ในสัดส่วนต่างกัน ทำให้คุณปรับแต่ง Enchanting Table ได้", "", "มีตำแหน่งชั้นหนังสือที่ใช้ได้ &e32&r ตำแหน่งรอบ &bApothic Enchanting Table&f ", "", "Shelves ต้องมี &7บล็อกอากาศ&r ระหว่าง shelf กับโต๊ะ จึงจะให้ค่าสถานะ", "", "&2Eterna&r กำหนดระดับเอนชานต์ที่มีและความแรงของเอนชานต์ของคุณ", "", "&4Quanta&f เปลี่ยนกลุ่มเอนชานต์ เพิ่มความหลากหลายของเอนชานต์ที่มี แต่ Quanta มากเกินไปก็ทำให้เอนชานต์ที่อ่อนกว่าออกง่ายขึ้นได้เช่นกัน", "", "&5Arcana&r มีผลต่อความหายากและคุณภาพของเอนชานต์ที่คุณได้", "", "แต่ละ shelf มี &2เพดาน Eterna&f ของตัวเอง เมื่อถึงขีดจำกัดนั้น Eterna ที่เพิ่มจาก shelf นั้นจะถูกละเลย", "", "&aเคล็ดลับ:&r ลองผสม shelf หลายแบบเพื่อหาสมดุลที่ลงตัวของ Eterna, Quanta และ Arcana สำหรับการตั้งเอนชานต์ของคุณ"]
+	quest.3A41A00BEF324EF3.quest_subtitle: "สร้างชุดเอนชานต์ของคุณ"
+	quest.3A41A00BEF324EF3.title: "ชั้นหนังสือ (Bookshelves)"
+	quest.51E14807C39F4111.quest_desc: ["&bThe Improved Tome of Scrapping&r คือรุ่นอัปเกรด ที่กู้คืนเอนชานต์ได้มีประสิทธิภาพขึ้น เมื่อแยกชิ้นส่วนอุปกรณ์ที่เอนชานต์"]
+	quest.51E14807C39F4111.quest_subtitle: "กู้คืนได้มากขึ้น"
+	quest.51E14807C39F4111.title: "Superior Scrapping"
+	quest.557B8123056FBF8C.quest_desc: ["&bThe Enchantment Library&r เป็นวิธีสะดวกในการเก็บและจัดการเอนชานต์", "", "ใส่สมุดเอนชานต์ลงใน &bLibrary&r แล้วดึงกลับมาใช้เมื่อต้องการ ช่วยให้คุณสะสมเอนชานต์ที่มีประโยชน์ได้ โดยไม่ต้องให้ที่เก็บของเต็มไปด้วยสมุดนับไม่ถ้วน", "", "&bThe Library&r มีประโยชน์เป็นพิเศษสำหรับเก็บเอนชานต์ &6ล้ำค่า&r หรือ &dหายาก&r จนกว่าจะมีอุปกรณ์ชิ้นที่สมบูรณ์แบบไว้ใส่", "", "เคล็ดลับ: จับคู่ &bLibrary&r กับ &eTome of Extraction&r เพื่อถ่ายโอนเอนชานต์จากอุปกรณ์ที่มีอยู่ ลงสมุดเพื่อเก็บอย่างปลอดภัย"]
+	quest.557B8123056FBF8C.quest_subtitle: "เก็บเอนชานต์ของคุณ"
+	quest.5C8DA6A4F83731BC.quest_desc: ["เครื่องมือขั้นสุดยอดสำหรับกู้เอนชันต์", "", "ใช้ &bTome of Extraction&r กับไอเทมที่มีเอนชันต์ใน &9Anvil&r เพื่อย้ายเอนชันต์ทั้งหมดไปยัง &eEnchanted Book&r", "", "ต่างจาก &bTome of Scrapping&r ตรงที่ไอเทมเดิมจะไม่หายไป", "", "&bTome of Scrapping&r: ดึงเอนชันต์ครึ่งหนึ่งและทำลายไอเทม", "&bTome of Superior Scrapping&r: ดึงเอนชันต์ทั้งหมดแต่ทำลายไอเทม", "&bTome of Extraction&r: ดึงเอนชันต์ทั้งหมดและเก็บไอเทมไว้", "", "เหมาะสำหรับย้ายเอนชันต์ล้ำค่าไปยังอุปกรณ์ที่ดีกว่าโดยไม่สูญเสียไอเทมเดิม"]
+	quest.5C8DA6A4F83731BC.quest_subtitle: "ดึงเอนชันต์โดยไม่ต้องเสียสละ"
+	quest.7A699D1A92A84C51.quest_desc: ["&8Pickaxes&r, &3Fishing&r และ &9Other Tomes&r ครอบคลุมหมวดไอเทมเฉพาะทาง ", "", "&9The Other Tome&r จัดการ enchantment ที่ไม่เข้าหมวดอื่น"]
+	quest.7A699D1A92A84C51.quest_subtitle: "หมวดเฉพาะทาง"
+	quest.7A699D1A92A84C51.title: "Tomes of Utility"
+	quest.7C11028E6B1F402B.quest_desc: ["&bArmor Tomes&r จำกัด enchantment ที่เก็บไว้ให้อยู่ในหมวดเกราะที่เกี่ยวข้อง ทำให้พัฒนาชุดเกราะแบบเจาะจงง่ายขึ้นมาก"]
+	quest.7C11028E6B1F402B.quest_subtitle: "เจาะจง enchantment ของเกราะ"
+	quest.7C11028E6B1F402B.title: "Tomes of Armor"
+	quest.7F3584DB86B09C4D.quest_desc: ["ชุดเอนชานต์ของคุณไม่ได้จำกัดอยู่แค่ &bShelves&f", "", "บล็อกบางชนิดให้โบนัสเพิ่มเติมเมื่อวางรอบ &bApothic Enchanting Table&f", "", "&6Candles&f เพิ่ม &2Eterna&f ของชุดเอนชานต์ ช่วยให้ถึงเลเวลเอนชานต์ที่สูงขึ้น", "", "&6Mob Heads และ Skulls&f ให้โบนัสต่างกันตามชนิดที่ใช้ บางชนิดเพิ่ม &4Quanta&f, &2Arcana&f หรือค่าเอนชานต์อื่น ๆ ได้", "", "ผลเหล่านี้ทำงานร่วมกับ shelves ช่วยให้ปรับแต่งชุดเอนชานต์ได้ละเอียดโดยไม่ต้องเสียช่อง shelf ที่มีค่า", "", "&aเคล็ดลับ:&r ลองใช้ candles และ mob heads ที่แตกต่างกันเพื่อรีดค่าสถานะเพิ่มจากชุดเอนชานต์&f"]
+	quest.7F3584DB86B09C4D.quest_subtitle: "เสริมชุดเอนชานต์ของคุณ"
+	quest.7F3584DB86B09C4D.title: "Enchanting Catalysts"
+	task.1605ACA907712B09.title: "Skulls and Candles"
+	task.24A76A503F53AA7B.title: "Bookshelves"
+	task.57F02AA9BFBA7624.title: "Enchanting Tables"
+	task.597ECA1E95F8C178.title: "Tomes of Armor"
+}

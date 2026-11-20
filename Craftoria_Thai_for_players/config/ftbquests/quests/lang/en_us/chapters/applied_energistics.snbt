@@ -1,0 +1,187 @@
+{
+	quest.000F7897FF9ED7DC.quest_desc: ["มี &a4 ระยะ&f ของการเติบโต เหมือน &bCertus Quartz Clusters&f ใน&aสามระยะแรก&fจะได้ &bEntro Dust&f แต่ใน&aระยะที่สี่&fจะได้ &bEntroized Crystals&f"]
+	quest.00237AB9C48C8A9B.quest_desc: ["&bMatter Condencer &fช่วยให้คุณ&6ทำ &bMatter Balls&f สำหรับ &bPaint Gun&f และ&6ทำ&b Singularities &fโดยแลกกับ&aไอเทมเอนทิตี&f"]
+	quest.002410CF49E1E14E.quest_desc: ["คราฟต์ด้วย &bFE Storage Components &fเพื่อเก็บ&4พลังงาน&f"]
+	quest.003C38C78609709B.quest_desc: ["คราฟต์ใน &bInscriber&f โดย &bAccumulation Press&f ใช้ร่วมกับ &bSky Stone Ingots&f เพื่อผลิต &bAccumulation Circuits&f"]
+	quest.011E9553CDCAE218.quest_desc: ["เพิ่มความจุพื้นที่เก็บของเป็นสี่เท่าสินะ?"]
+	quest.011E9553CDCAE218.title: "4k Storage Component"
+	quest.0547229FF5334CF5.quest_desc: ["&bInterface&f ทำงานเหมือนหีบ คุณ&aตั้งไอเทมหรือของเหลว&f ไว้ใน &bInterface&f แล้วมันจะดึงไอเทมนั้นจาก&5เครือข่าย&f มาเก็บสต็อกให้"]
+	quest.05B2AA73EAEDCCF4.quest_desc: ["&bExport Bus&r เหล่านี้มีฟังก์ชันขั้นสูงกว่า &bExport Bus&r ธรรมดา", "", "&bTag Export Bus&r ส่งออกไอเทมจากแท็กที่กรองไว้", "", "&bMod Export Bus&r ส่งออกไอเทมจากม็อดที่กรองไว้", "", "&bPrecise Export Bus&r ส่งออกไอเทมตามจำนวนที่ตั้งไว้พอดี ไม่ขาดไม่เกิน", "", "&bThreshold Export Bus&r ส่งออกไอเทมเมื่อจำนวนไอเทมสูงกว่าหรือต่ำกว่าเกณฑ์ที่ตั้งไว้"]
+	quest.05B2AA73EAEDCCF4.title: "Advanced Export Buses"
+	quest.05E7C7E41BA79426.quest_subtitle: "ชาร์จสี่เท่า"
+	quest.0633D2B1E1DB778B.quest_desc: ["ได้จากการ&6หลอม &bCertus Quartz Dust&f &bSilicon&f ใช้ในโปรเซสเซอร์ 3 ชนิดที่คุณต้องใช้เพื่อเดินหน้าต่อ"]
+	quest.0633D2B1E1DB778B.title: "Silicon"
+	quest.06D66E791A9939DD.quest_desc: ["สร้าง &bCharger&r แล้วจ่ายพลังงานด้วย &bVibration Chamber&r หรือเครื่องกำเนิดไฟฟ้าจากม็อดอื่น"]
+	quest.06D66E791A9939DD.quest_subtitle: "ชาร์จเครื่องมือที่รองรับผ่านเครือข่าย ME"
+	quest.06D66E791A9939DD.title: "Charger"
+	quest.09B10C121C7E9023.quest_desc: ["ใช้คราฟต์ &bME Energy Storage Components&f และอุปกรณ์เสริมอื่น ๆ"]
+	quest.0B94435972292812.quest_desc: ["&bSpatial IO Port &fเป็นแกนกลางของ&bระบบ Spatial Digitizing&f วางที่จุดยอดซึ่ง &bขอบเสา&f ทั้ง 3 มาบรรจบกัน เป็นที่วาง &bSpatial Drive &fเพื่อให้มัน&6จับภาพสิ่งก่อสร้างหรือปล่อยมันออกมา&f และเป็นบล็อกที่ต้องจ่ายพลังงานเมื่อชาร์จระบบด้วย", "", "คุณใช้ฮอปเปอร์หรือวิธีวางท่ออื่นกับ &bSpatial IO Port&f เพื่อทำกระบวนการนี้อัตโนมัติได้หากต้องการ &6สัญญาณเรดสโตน&f เพียงอย่างเดียวก็เปิดใช้ &bSpatial IO Port&f ได้ ระวังด้วย"]
+	quest.0B94435972292812.title: "Spatial IO Port"
+	quest.0B98E8AC5CFB0FC2.quest_desc: ["ได้เมื่อคุณปล่อยให้&b Entroized Clusters &aเติบโต&fจนถึง&aขั้นสูงสุด&f"]
+	quest.0FA3C7049E71EA4A.quest_desc: ["คิดจะมี &bQuarry&f เร็ว ๆ นี้หรือเปล่า"]
+	quest.0FA3C7049E71EA4A.title: "64k Storage Component"
+	quest.123F10122DCC72F9.quest_desc: ["การเพิ่ม &bCompression Card&r ลงใน &bBulk Storage Cell&r ทำให้มันบีบอัดไอเทมหรือบล็อกเป็นระดับการบีบอัดที่สูงขึ้นโดยอัตโนมัติ", "", "เช่น Nuggets -> Ingots -> Blocks", "", "คุณควรมี &bDecompression Module&r ไว้ที่ใดที่หนึ่งในเครือข่าย เพื่อคลายการบีบอัดไอเทมอัตโนมัติตามต้องการด้วย", "", "หมายเหตุ: &bDecompression Module&r ต้อง&r อยู่ในเครือข่ายเดียวกับระบบคราฟต์อัตโนมัติของคุณ ไม่เช่นนั้นเครื่องคราฟต์อัตโนมัติจะมองไม่เห็นไอเทมเหล่านั้น"]
+	quest.123F10122DCC72F9.title: "การบีบอัด Bulk Cell (Bulk Cell Compression)"
+	quest.13600E981D85B79D.quest_desc: ["จำเป็นสำหรับการคราฟต์อัตโนมัติ เพราะใช้เก็บไอเทมและของเหลวที่ใช้ในการคราฟต์"]
+	quest.13600E981D85B79D.title: "Crafting Storage"
+	quest.15008EFBA92CC3DC.quest_desc: ["เปิดคู่มือ AE2 ได้โดยกด G ค้างไว้ที่ไอเทม AE2 เกือบทุกชนิด", "", "นอกจากนี้ยังมีไอเทม &bGuide&r ให้ฟรีด้วย เผื่อคุณอยากได้"]
+	quest.151E812270A52250.quest_desc: ["&6Crafting Components&f ใช้คราฟต์ &bCo-Processing Units&r และ &bCrafting Storages&b"]
+	quest.151E812270A52250.title: "Crafting Unit"
+	quest.1523A200F5E4361B.quest_desc: ["&bExtended Inscriber &fทำ&aสี่กระบวนการ &fพร้อมกันได้"]
+	quest.1607D3C2384B6CFF.quest_desc: ["&bAccumulator Processor&f ใช้กับ &bMEGA Storage Components&f ทุกชนิด"]
+	quest.17E8751018E9E0F6.quest_desc: ["เหมือนกับตัวก่อนหน้าทุกอย่าง แต่จุมากกว่าแปดเท่า อย่าเผลอปล่อยประจุออกหมดล่ะ อาจเจ็บได้"]
+	quest.17E8751018E9E0F6.title: "Dense Energy Cell"
+	quest.18956DB32D96ED2B.quest_desc: ["อัปเกรดแล้วเหรอ จะแบกบ้านไปด้วยเหรอ ไอเดียดี เต็นท์ชอบทำให้ปวดหลัง"]
+	quest.18956DB32D96ED2B.title: "Medium Spatial Component"
+	quest.18D6860E893D80D2.quest_desc: ["ให้คุณ&aย้ายไอเทม&fจาก &bStorage Drives &fของคุณไปยัง &bStorage Drives&f อื่น ", "", "มีประโยชน์เมื่อต้องการ&aบีบอัดไอเทม&fใน &bDrives&f หรือทำให้ &bDrives &fว่างเพื่อทำอันที่ใหญ่กว่า"]
+	quest.19A2B9A9862C59F2.quest_desc: ["ใช้&aแพ็กและย้าย&b Drives &fโดย&aไม่ต้องถอด&fออกจาก&b Storage Drives&f", "", "ใช้ได้กับบล็อก AE2 ส่วนใหญ่"]
+	quest.19C33613F2811BAA.quest_desc: ["&bBasic Terminal&f ให้คุณเข้าถึง&bที่เก็บของ&fได้ แต่อัปเกรดได้"]
+	quest.19C33613F2811BAA.title: "Terminal"
+	quest.1B1ED97DF0FE2E3C.quest_desc: ["&bStorage Bus&f ให้คุณใช้หีบหรือกล่องเก็บของอื่นเป็น&5เครือข่าย &fสำหรับ &bME System&f ของคุณเชื่อมต่อ แทนการใช้ &bStorage Drive&f"]
+	quest.1C7918099D5A55E2.quest_desc: ["&bConcurrent Press &fใช้ภายใน &bInscriber &fเพื่อคราฟต์ &bConcurrent Processor&f"]
+	quest.1EEBC04FABD3B3F2.quest_desc: ["&bQuartz Fiber&f ใช้&6ส่ง&r&bพลังงาน&f แต่ไม่ส่ง &bChannels&f"]
+	quest.1EEBC04FABD3B3F2.title: "Quartz Fiber"
+	quest.20F66D987F15593E.quest_desc: ["ส่วนประกอบหลักที่ใช้คราฟต์ &bFE Storage Cells&r ซึ่งใช้เก็บ FE ในระบบ ME ของคุณ"]
+	quest.20F99CBAD8D587DA.quest_desc: ["หากต้องการ &bCertus&f ก่อนอื่นให้ไปที่ &bMeteorite&f แล้วเก็บ &bCertus Quartz&f อย่างน้อย 5 ชิ้น และ &6คราฟต์&f &bBudding Certus&f 1 ชิ้น &bBudding Block&f นี้ &6วาง&f ลงพื้นแล้วรอให้ผลึกงอกได้ เมื่อ &bผลึก&f งอกขึ้น &bBudding Block&f มีโอกาส &6เสื่อมสภาพ&f จนกลายเป็นแค่ &bCertus Block&f และจะไม่งอกอีกต่อไป"]
+	quest.20F99CBAD8D587DA.title: "Certus Quartz (Certus Quartz)"
+	quest.2190034B6F3E2768.quest_desc: ["นี่คือส่วนประกอบหลักของ &bInput and Output Devices&f"]
+	quest.2190034B6F3E2768.title: "หัวใจแห่งการประมวลผล (Heart of Computation)"
+	quest.222793DF035B167C.quest_desc: ["&bcable&f ที่ทำง่ายที่สุด &6ส่งต่อ&b พลังงาน &fและ &bchannels&f ไปยังระบบของคุณ"]
+	quest.222793DF035B167C.title: "Fluix Glass Cable"
+	quest.237468FAB20906A8.quest_desc: [""]
+	quest.237468FAB20906A8.quest_subtitle: "ความจุ 2 เท่า"
+	quest.23CC2667A1269C9C.quest_desc: ["จนถึงตอนนี้ คุณใช้แต่&b Drives &fที่เก็บ &6ข้อมูลสองมิติ&f ในรูปของเลขศูนย์และหนึ่ง ทีนี้ มาเก็บ&6 ข้อมูลสามมิติ&f ในรูปของสสารดิบกัน นี่เป็น &bdrive&f ประเภทที่ซับซ้อนกว่ามาก จึงมีราคาแพงและช่วงแรกคุณเก็บได้ไม่มาก "]
+	quest.23CC2667A1269C9C.title: "Small Spatial Component"
+	quest.24E5FA9129987168.quest_desc: ["เหมือน &bWireless Terminal&f ทุกอย่าง แต่อันนี้มี &bCrafting Interface&f ในตัว!"]
+	quest.24E5FA9129987168.title: "Wireless Crafting Terminal"
+	quest.263FE6D3550CD41C.quest_desc: [""]
+	quest.263FE6D3550CD41C.title: "อัปเกรดขั้นสูง (Advanced Upgrades)"
+	quest.2805DA3A1F411588.quest_desc: ["หากต้อง &aเก็บ &f&4พลังงาน&f คุณต้องมี &bFE Cell Housing&f"]
+	quest.29CFD0E01542A93D.quest_desc: ["ด้วย &bQuantum Bridge Card&f คุณเข้าถึง &bME System&f ของคุณได้จากทุกที่ในโลก คุณต้องตั้ง &bQuantum Ring&f พร้อม &bEntangled Singularity&b และอีกอันใน &bWireless Terminal&f หลังใส่ &bQuantum Bridge Card&f ลงใน terminal", "", "ตรวจให้แน่ใจว่า &bQuantum Ring&f ถูก chunk load ไว้ ไม่เช่นนั้นจะไม่ทำงาน"]
+	quest.2AB5183A0BD8D387.quest_desc: ["ใช้คูณความเร็วคราฟต์ของคุณโดยไม่เปลืองพื้นที่", "", "รองรับ co-processor ได้สูงสุด 1024 ตัว"]
+	quest.2AB5183A0BD8D387.title: "Multi Core Crafting Accelerator"
+	quest.2BB266022C8BFC8C.quest_desc: ["ใช้เป็นตัวเรือนสำหรับใส่ &bMEGA Storage Component&f"]
+	quest.2C92B957A5E8646F.quest_desc: ["&bBlank Pattern&f ใช้ทำให้ &acrafting recipes &6เป็นอัตโนมัติ&f คุณต้อง &6เข้ารหัส &fใส่ &bBlank Pattern &fใน &bPattern Encoder&f แล้ววางลงใน &bPattern Provider&f"]
+	quest.2E883FCCA2FB281B.quest_desc: ["เมื่อตั้ง &bQuantum Rings&f สองวง คุณเชื่อมต่อ &bME System&f ของคุณไปยังที่ใดก็ได้ในโลก เชื่อมวงแรกเข้ากับ &bME System&f ของคุณ และวงที่สองไว้ที่ที่ต้องการให้เชื่อมต่อกับ &bME System&f ของคุณ คุณต้องมี &bEntangled Singularities&f 2 อัน ใส่อันละวงใน &bQuantum Ring&f แต่ละวง แล้วทั้งสองจะเชื่อมถึงกัน"]
+	quest.2E883FCCA2FB281B.quest_subtitle: "งานศิลปะชิ้นหนึ่ง"
+	quest.2E883FCCA2FB281B.title: "Quantum Ring"
+	quest.2F6C16939D136BF0.quest_desc: ["&bAnnihilation Plane&f จะ &6ทุบบล็อก&f และ &6เก็บ&b ไอเทม&f ที่อยู่ด้านหน้าโดยตรง"]
+	quest.2F6C16939D136BF0.title: "ME Planes"
+	quest.2F993B0F106DB883.quest_desc: ["ใช้คราฟต์ไอเทมด้วย &bInscriber Presses&f ต่าง ๆ"]
+	quest.2F993B0F106DB883.title: "Inscriber"
+	quest.3009C3939976FBD2.quest_desc: ["&bCrafting Terminal&f คือ &bTerminal&f รุ่นอัปเกรด ช่วยให้คุณคราฟต์ได้ขณะเข้าถึงไอเทมทั้งหมดของคุณ"]
+	quest.3009C3939976FBD2.title: "Crafting Terminal"
+	quest.308640ACCC096431.quest_desc: ["&bME Controller &fคือก้าวใหญ่ก้าวแรกในการสร้าง &bME system&f ของคุณ &bME Controller&f ต้องได้รับ &6พลังงาน&f แต่ใช้ไม่มาก", "", "ให้ช่องสัญญาณได้สูงสุด 32 ช่องต่อด้าน หากต้องการใช้ช่องสัญญาณทั้งหมดต้องส่งต่อด้วย &bDense Cables&r สายเคเบิลธรรมดาส่งได้สูงสุดเพียง 8", "", "หมายเหตุ: เฉพาะ&r &bDense Cables&r เท่านั้นที่ส่งได้เกิน 8 ช่องสัญญาณ ส่วน &bInterfaces&r, &bPattern Providers&r ฯลฯ ส่งผ่านได้เพียง 8 ช่อง แม้ต่อกับ &bDense Cable&r ก็ตาม"]
+	quest.308640ACCC096431.title: "ศูนย์กลางของการเก็บของ (The Center of Storage)"
+	quest.33F695229D12C6FB.quest_subtitle: "ผึ่งเรซินให้แห้ง"
+	quest.3480351307F0DD04.quest_desc: ["ส่วนประกอบเหล่านี้ไปได้ถึง 256M แต่ฉันจะไม่บังคับให้คุณทำระดับที่สูงกว่านั้น"]
+	quest.3504BCE26041D225.quest_desc: ["&bReaction Chamber &fช่วยให้คุณ &6ทำ&b Crystals&r และ &bSpecialty Ingots &fจาก &bAE2&f โดยแลกกับ&4 POWAH&f", "", "มีประสิทธิภาพกว่าสูตรที่ทำในโลก"]
+	quest.35134F538FC7F562.quest_desc: ["ทางเลือกแทน &bQuantum Ring&r", "", "มีระยะจำกัด 1000 บล็อก ต่างจาก &bQuantum Ring&r"]
+	quest.35A5048875097D66.quest_desc: ["ใช้แก้ไข &bPatterns&r จำนวนมากพร้อมกัน", "", "แนะนำให้ดู &bGuide&r เรื่องวิธีใช้อุปกรณ์นี้"]
+	quest.35CA9D458FD5D791.quest_desc: ["&bME Extended Pattern Access Terminal &fให้ฟีเจอร์เพิ่ม 2 อย่าง:", "", "อย่างแรก เพิ่มช่องค้นหา และจะไฮไลต์สิ่งที่ค้นหาใน &bPattern Terminal&f", "", "อย่างที่สอง จะไฮไลต์ &aในโลก&f ว่า &bPattern Provider&f ตัวไหนค้างเมื่อทำงานคราฟต์ขนาดใหญ่"]
+	quest.3973F425BD96668A.quest_desc: ["คุณควรคราฟต์ &bPattern Encoding Terminal&r เพื่อเข้ารหัส pattern ของสูตรคราฟต์สำหรับระบบ autocrafting ของคุณ", "", "&bPattern Access Terminal &fเป็นอีกรุ่นอัปเกรดของ &bTerminal&f Terminal นี้ช่วยให้คุณสร้าง &bPattern&f ของไอเทมที่ต้องการให้ระบบคราฟต์"]
+	quest.3973F425BD96668A.title: "Pattern Encoding Terminal"
+	quest.3A20D522302FE7B9.quest_desc: ["&bLogic Processor&f ใช้ตั้งแต่ช่วงเริ่มต้นเพื่อทำ drive และอัปเกรดชุดแรกของคุณ", "", "&bEngineering Processors &fใช้ทำ &bController &fและส่วนประกอบอื่นเพื่อสร้าง &bME system &fแรกของคุณ", "", "&bCalculation Processors &fใช้ใน &bStorage Components&f และอย่างอื่นอีกบางอย่าง"]
+	quest.3A20D522302FE7B9.title: "Basic Processors"
+	quest.3B82F8F19AF630D5.quest_desc: ["&bToggle Bus &fเหมือน &bGlass Cable&f แต่ใช้ &6ปิดชั่วคราว&f ส่วนของระบบปลายทางเมื่อไม่มีพลังงาน &6การจ่ายพลังงาน&f ให้มันจะทำให้ข้อมูลและพลังงานผ่านได้อีกครั้ง"]
+	quest.3B82F8F19AF630D5.title: "Toggle Bus"
+	quest.3D9DED933A80CAFA.quest_desc: ["ใช้ &6คัดลอกและวาง&r การตั้งค่าของ &bME Devices&f และใช้ &6เชื่อม &bP2P Tunnels&f ด้วย"]
+	quest.3D9DED933A80CAFA.title: "Memory Card"
+	quest.3E165961635B0C4B.quest_desc: ["&6Meteorite&r จะมี &bMysterious Cube&r เสมอ เมื่อพบ &bMysterious Cube&f แล้ว คุณต้องทุบมันเพื่อรับ &bInscriber Press&f ทั้งหมด"]
+	quest.3E165961635B0C4B.quest_subtitle: "ค้นหา Mysterious Cube"
+	quest.3E165961635B0C4B.title: "Mysterious Cube"
+	quest.3E41681892FA2E44.quest_desc: ["ใช้ใน &bPattern Providers&r หรือ &bInterfaces&r เพื่อให้จ่ายพลังงานแก่บล็อก/สายเคเบิลที่ติดกันได้"]
+	quest.4047F3E2AD081915.quest_desc: ["&bNetwork Tool &fคือ &bWrench&f รุ่นอัปเกรดที่แสดง &6ข้อมูลวินิจฉัยเครือข่าย&f และเก็บ upgrade card ได้ &6คลิกขวา&f ที่ส่วนใดก็ได้ของ &bNetwork&f เพื่อดูข้อมูลวินิจฉัยเหมือนที่ &bME Controller&f แสดง และยังทำให้ &bFacades&f โปร่งใสชั่วคราวเพื่อให้หาสายเคเบิลที่ซ่อนอยู่เจอ"]
+	quest.4047F3E2AD081915.title: "Network Tool"
+	quest.418659818AD0712B.quest_desc: ["&bBulk Storage Cells&f เก็บไอเทม 1 ชนิดได้ &aไม่จำกัด &fจำนวน"]
+	quest.4670BD132DF4A70E.quest_desc: ["นี่คือ CPU ตัวสุดท้ายที่คุณจะต้องใช้ จัดการงานคราฟต์ทุกอย่างที่ส่งให้", "", "ยิ่งมีบล็อก &bQuantum Computer Storage&r ในโครงสร้างมากเท่าไร ก็ยิ่งจัดการงานคราฟต์พร้อมกันได้มากขึ้น"]
+	quest.4670BD132DF4A70E.quest_subtitle: "ต้องการ CPU เพิ่มไหม"
+	quest.4CD943F9416FB352.quest_desc: ["นี่คือ &bEnergy Cell &fที่เก็บ &bพลังงาน&f ไว้ให้ระบบของคุณใช้ในช่วง &6ไฟดับ&f และรองรับ &6การดึงพลังงานทันที&f จากเครื่องจักรที่คุณอาจใช้ในอนาคตได้ด้วย"]
+	quest.4CD943F9416FB352.title: "Energy Cell"
+	quest.4D7F6656A6A38EE0.quest_desc: ["ใช้ดึง &4พลังงาน&f จาก&5 Network"]
+	quest.4DAFFFDC31A78665.quest_desc: ["คราฟต์ด้วย &bIron Block &fใน &bCharger &fเพื่อทำ &bEnergy Processor&f"]
+	quest.4E1B3935FC8A1170.quest_desc: ["อีก 4 เท่า! คุณกำลังมาแรง!"]
+	quest.4E1B3935FC8A1170.title: "16k Storage Component"
+	quest.4E33ED9C42F906F6.quest_desc: ["เซลล์นี้เก็บสารเคมีกัมมันตรังสีได้ ต่างจาก &bChemical Storage Cell&r ทั่วไป", "", "ต้องตั้ง partition ก่อนจึงจะใช้ได้"]
+	quest.4EC894E7808440AC.quest_desc: ["&bExtended Pattern Provider&r เก็บ pattern ได้มากกว่ารุ่นปกติสี่เท่า", "", "&bExtended Molecular Assembler&r ทำงานคราฟต์ได้ 8 งานพร้อมกันด้วยความเร็ว 2 เท่าของรุ่นปกติ รวมเป็นความเร็วคราฟต์ที่เพิ่มขึ้น 16 เท่า"]
+	quest.4EC894E7808440AC.quest_subtitle: "Pattern มากขึ้นสี่เท่า เร็วขึ้น 16 เท่า"
+	quest.4F6FD689E65509BF.quest_desc: ["&bBasic Card &fคือส่วนประกอบคราฟต์ที่ใช้คราฟต์ &bUpgrades&f"]
+	quest.4F6FD689E65509BF.title: "Basic Card"
+	quest.511E7475AD64A32D.quest_desc: ["&bME Crystal Fixer&f ซ่อม &bBudding Block&f ให้เป็นระดับถัดไปได้"]
+	quest.5319FD97D5133E7A.quest_desc: ["เพื่อคราฟต์ &bRedstone Crystal&6 ให้โยน&b Block of Redstone 1 ก้อน, Glowstone Dust 1 ชิ้น และ Fluix Crystal 1 ชิ้น &fลงใน&a น้ำ &fแล้วชมเวทมนตร์ทำงาน"]
+	quest.53A07420D75804AB.quest_subtitle: "ชาร์จเลย!!!"
+	quest.54BCC1A0203B2351.quest_desc: ["หากต้องการเร่ง &6การเติบโต &fของ &bCrystals&f ให้ &6วาง &bGrowth Accelerators&f ติดกับ &bBudding Block&f &bGrowth Accelerator&f ต้องได้รับพลังงานจากด้านบนหรือด้านล่าง"]
+	quest.54D178C57E788506.quest_desc: ["&bME Caner&f ทำ &aการเติมถังและบัคเก็ต&f ให้อัตโนมัติด้วย &bของเหลว, ก๊าซ Mekanism, มานา Botania และ POWAH!!!&f", "", "หมายเหตุ: เฉพาะด้าน &atop &fและ &abottom&f เท่านั้นที่เชื่อมกับ &5network &fและ&4 พลังงาน&f ได้"]
+	quest.5619683321410B74.quest_desc: ["ช่างบ้านเถอะ แบกรังทั้งหลังไปกับตัวเลย! แต่ขอเตือนว่าไม่ถูกนะ!"]
+	quest.5619683321410B74.title: "Large Spatial Component"
+	quest.59128813386BFDB1.quest_desc: ["&bPoint 2 Point (P2P) Tunnels&f อาจซับซ้อนมาก แต่ก็มีประโยชน์สุด ๆ เช่นกัน &bTunnels&f เหล่านี้ใช้ &6ส่งสูงสุด 32 ช่องสัญญาณจากจุดหนึ่งไปอีกจุดหนึ่ง&f คุณอาจสงสัยว่า \"ทำไมไม่ใช้ &bDense Cable&f ล่ะ\"", "", "ขอบอกเลยว่าใช้ได้! แต่ &6เปลืองมาก&f ช่องสัญญาณทั้ง 32 ช่องจะถูกบีบรวมเป็นช่องเดียว ซึ่งหมายความว่าในทางทฤษฎีคุณเดินสายได้ &61,024 ช่องสัญญาณผ่าน Dense Cable เส้นเดียว แทนที่จะได้แค่ 32&f", "", "คุณต้องใช้ &bMemory Card&f เพื่อ &6เชื่อม&f &btunnels&f เข้าด้วยกันผ่านความถี่ &6Shift + คลิกขวา&f ที่ &bทางเข้า&f จะตั้ง &bMemory Card&f เป็นความถี่นั้น &6คลิกขวา&f ที่ &bทางออก&f ด้วย Memory Card เพื่อตั้ง &btunnel&f ให้ใช้ความถี่เดียวกับ &bทางเข้า&f โปรดจำไว้ว่าคุณมี &bทางออก&f ได้หลายตัว ตราบใดที่จำนวนช่องสัญญาณรวมที่ใช้ไม่เกินจำนวนช่องที่ส่งเข้า &bทางเข้า&f", "", "นอกจากนี้ยังมี &bPoint 2 Point Tunnels&f หลายประเภท นอกจากแบบที่ส่ง &bME Channels&f แล้ว ยังมีแบบที่ &6ส่ง&f &bพลังงานดิบ&f &bของเหลว&f &bไอเทม&f &bแสง&f และแม้แต่ &bเรดสโตน&f! ทุกแบบใช้งานเหมือนกัน ต่างกันแค่ไม่ได้ส่งช่องสัญญาณ", "", "ต้องฝึกใช้สักหน่อย ลองทดลองกับมันดูก่อน เมื่อคุณเริ่มชำนาญ &bME System&f ของคุณจะดูเป็นมืออาชีพยิ่งขึ้น!"]
+	quest.59128813386BFDB1.title: "P2P"
+	quest.5B1D88BFEA39DBAE.quest_desc: ["การทำ &bFluix Crystals&f ให้ &6โยน&f &bCharged Certus Quartz Crystal&f, &bNether Quartz&f และ &bRedstone Dust&f ลงในบ่อ &bน้ำ&f แล้วรอ"]
+	quest.5B1D88BFEA39DBAE.quest_subtitle: "วัตถุดิบสำคัญมาก "
+	quest.5B1D88BFEA39DBAE.title: "Fluix Crystal"
+	quest.5BB4989DC6C5DB7A.quest_desc: ["ใช้ &bPowered Charger&f เพื่อชาร์จ &bCertus Quartz Crystal&f"]
+	quest.5BB4989DC6C5DB7A.title: "Charged Certus"
+	quest.5ECC7F4F5D2591D9.quest_desc: ["&bAdvanced Card &fคือชิ้นส่วนคราฟต์ที่ใช้ทำ &bUpgrades&f"]
+	quest.5ECC7F4F5D2591D9.title: "อัปเกรดขั้นสูง (Advanced Upgrades)"
+	quest.61340C2A12FEAA26.quest_desc: ["&bME Drive&f ใช้เก็บ &bStorage Drives&f"]
+	quest.61340C2A12FEAA26.title: "ME Drive"
+	quest.62FCB2F06126B622.quest_desc: ["&bWireless Terminal&f คือ &bTerminal ธรรมดา&f ที่ใช้เข้าถึง&b ME System&b แบบไร้สายได้ ใช้ &bAccess Point&f เชื่อมต่อ &bTerminal&f ของคุณ และใช้ &bBooster Cards&b เพื่อเพิ่มระยะห่างรวมจาก &bAccess Point&f ที่คุณต้องการใช้ระบบ การใช้ &bAccess Points&f หลายตัวในเครือข่ายเดียวกันตามจุดต่าง ๆ ช่วยให้ครอบคลุมพื้นที่ได้กว้างขึ้น"]
+	quest.62FCB2F06126B622.title: "Wireless Terminal"
+	quest.6307E15FAAF30712.quest_desc: ["ช่วยให้คุณ &6สร้าง&b patterns&f ที่ต้อง&6 ใส่&f ในทิศทางเฉพาะ เพื่อบอกผ่าน &bpattern &fว่าจะนำเข้า/ส่งออกด้านใดของเครื่อง"]
+	quest.63327FF2199F01A3.quest_desc: ["คุณจะต้องใช้สิ่งนี้เพื่อเข้าถึง &bME System&f แบบไร้สาย", "", "คุณยังเชื่อมไอเทมอื่นเข้ากับ &bME System&f ได้ นอกจาก &bWireless Terminals&f เช่น &bBuilding Gadgets&f"]
+	quest.63B54338B8D5823B.quest_desc: ["&bColor Applicator ใช้ &6ทาสี&b บล็อกที่เปลี่ยนสีได้&f ซึ่งรวมถึงสายเคเบิล ขนแกะ terracotta กระจก คอนกรีต และอื่น ๆ ที่คุณนึกออก&f ใช้&b Paintballs หรือสีย้อมเฉพาะ&b เพื่อ &6ทาสี &fและใช้ &bsnowballs&6 เพื่อล้างสีออก&f ใช้ &bCharger&f เพื่อชาร์จ Applicator", "", "&bColor Applicator &fทำงานเหมือน &bStorage Cell&f ดังนั้นเมื่อจะเติม ให้ใช้ &fME Chest&f &6คลิกขวา &fเพื่อใช้สี และ &6เลื่อนลูกกลิ้งเมาส์เพื่อเปลี่ยนสีขณะกดย่อ&f ลองอัปเกรดต่าง ๆ ดูว่าช่วย &bColor Applicator&f ของคุณได้หรือไม่!"]
+	quest.63B54338B8D5823B.title: "Color Applicator"
+	quest.6618D7F353A6FFAD.quest_desc: ["&bAssembler Matrix&r คราฟต์ไอเทมได้หลายร้อย หรืออาจหลายพันชิ้นต่อ tick ขึ้นอยู่กับการตั้งค่าของคุณ", "", "คุณควรดู &bGuide&r เกี่ยวกับวิธีสร้าง"]
+	quest.6618D7F353A6FFAD.quest_subtitle: "เฮ้ ต้องการความเร็วคราฟต์มากกว่านี้อีกไหม?"
+	quest.6618D7F353A6FFAD.title: "Assembler Matrix"
+	quest.6716C1CE7B7FFA94.quest_desc: ["&bCapacity Card &fเพิ่มจำนวนช่องกรองใน &bBuses&f"]
+	quest.6716C1CE7B7FFA94.title: "อัปเกรดพื้นฐาน (Basic Upgrades)"
+	quest.6750F4584257BA75.quest_desc: ["&bExtended Buses&f มีช่องอัปเกรด &aเพิ่มขึ้น&f และ &aเร็วขึ้น&f 8 เท่า"]
+	quest.6750F4584257BA75.title: "Extended Buses"
+	quest.67F060243167F8BF.quest_desc: ["&bSky Steel Ingot&f ใช้คราฟต์เซลล์ &bMEGA Item Storage&f ทำได้โดย &6โยน&f &bCharged Certus Quartz, Iron และ Sky Stone&f ลงน้ำ", "", "&bSky Osmium Ingot&f ใช้คราฟต์เซลล์ &bMEGA Chemical Storage&f ทำได้โดย &6โยน&f &bCharged Certus Quartz, Osmium และ Sky Stone&f ลงน้ำ", "", "&bSky Bronze Ingot&f ใช้คราฟต์เซลล์ &bMEGA Fluid Storage&f ทำได้โดย &6โยน&f &bCharged Certus Quartz, Copper และ Sky Stone&f ลงน้ำ"]
+	quest.6976592A2FB069AD.quest_desc: ["คราฟต์ด้วย &b4 Fluix Crystals&f เรียงแบบ 2x2 เพื่อรับ &bFluix Block&f"]
+	quest.6ADBF1DFBDF45D7C.quest_desc: ["ทำจาก &bLogic Processor &fบางส่วน &bRedstone&f และ &bQuartz Glass&f ", "", "&bME Storage Component&f คือก้าวแรกในการเก็บไอเทมทั้งหมดของคุณ"]
+	quest.6ADBF1DFBDF45D7C.title: "1k Storage Component"
+	quest.6BE08185BB44CEF8.quest_desc: ["จำนวนช่องเท่ากับ &bExtended Interface&f แต่เก็บได้ &a16 เท่าต่อช่อง (1048)&f", "", "&bME Extended Interface&f เก็บ 64 ไอเทมต่อช่อง และมีจำนวนช่องมากกว่า Interface ปกติสี่เท่า"]
+	quest.6C8AB8E9A547D1C9.quest_desc: [""]
+	quest.6C8AB8E9A547D1C9.title: "ME Buses"
+	quest.6D18BFC48A82E53E.quest_desc: ["ด้วยพลังแรงโน้มถ่วง &6โยน&b 1 Gold Ingot, 1 Lapis Lazuli และ 1 Entro dust&f คุณจะได้&b 1 Entro Infused Ingot&f"]
+	quest.6DFA92E319E7DA77.quest_desc: ["การเริ่ม &6Autocrafting&6 ต้องสร้าง &bPattern&f ด้วย &bPattern Encoding Terminal&f ก่อน แล้ว &6วาง&f &bpattern&f นั้นลงใน &bPattern Provider&f"]
+	quest.6DFA92E319E7DA77.title: "Pattern Provider"
+	quest.6F7A998802C99AD4.quest_desc: ["นี่คือ pylon ที่ออกแบบมาเพื่อกำหนดขอบเขตปริมาตรที่คุณต้องการเก็บลง spatial drive คุณต้องใช้มันกำหนดขอบสามด้านของกล่องสมมติที่ล้อมรอบงานสร้าง แต่ละเส้นใช้ 1 ช่องสัญญาณ และแต่ละเส้นต้องยาวอย่างน้อย 2 pylon ลองทดลองกับจำนวนเส้นและพลังงานที่ใช้ดู! คุณอาจปรับปรุงการแปลงเป็นดิจิทัลให้ดีขึ้นได้"]
+	quest.6F7A998802C99AD4.title: "Spatial Pylon"
+	quest.70EA0BAAB50E32BF.quest_desc: ["&bCircuit Slicer&f เหมือน &bInscriber&f แต่คราฟต์ได้ครั้งละ &a9 ไอเทม&f และ &aเร็วกว่า&f ยังมีช่องอัปเกรดอยู่ด้วย"]
+	quest.72481CA0AC8AFD6A.quest_desc: ["แม้ภายนอกจะคล้าย &bFluix ME Covered Cable&r แต่มันมีหน้าที่วินิจฉัย โดยแสดงภาพ &6การใช้ช่องสัญญาณ&r บน &bcables&r &6ช่องสัญญาณ&r จะปรากฏเป็นเส้นสีเรืองแสงที่วิ่งตามแถบสีดำบน &bcables&r ทำให้คุณเข้าใจว่า &6ช่องสัญญาณ&r ถูกใช้อย่างไรใน &6เครือข่าย&r ของคุณ", "", "&6ช่องสัญญาณ&r สี่ช่องแรกแสดงเป็นเส้นสีเดียวกับ &bcable&r ส่วนสี่ช่องถัดไปแสดงเป็นเส้นสีขาว"]
+	quest.72481CA0AC8AFD6A.quest_subtitle: "พี่น้องที่ฉลาดกว่า"
+	quest.72481CA0AC8AFD6A.title: "Fluix Smart Cable"
+	quest.7277A0413086D71A.quest_desc: ["&6คลิกขวา&f ที่ &bFluix Block &fด้วย &bEntro Seed&f เพื่อเปลี่ยนเป็น &bEntroized Fluix Budding&f"]
+	quest.7290F8670BBBF12E.quest_desc: ["&bME Active Formation Plane&f ทำงานเหมือน &bFormation Plane&r ปกติ ต่างตรงที่ดึงบล็อก/ไอเทมจากระบบโดยที่คุณไม่ต้องส่งเข้าไป สะดวกมากเลยใช่ไหม?"]
+	quest.72DD0017AC3B1326.quest_desc: ["&bMatter Cannon&f ใช้ &bMatter Balls &fและ &bMetal Nuggets&f ชนิดต่าง ๆ &6สร้างความเสียหาย &fโดยยิงใส่คู่ต่อสู้ ชาร์จได้ใน &bCharger &fและเติมใหม่ใน &bME Chest&f เช่นเดียวกับ &bStorage Drive&f", "", "ลองทดสอบ &bupgrades&f ดูว่าอันไหนช่วยให้ &bMatter Cannon ของคุณดีขึ้น&f ได้บ้าง!"]
+	quest.72DD0017AC3B1326.title: "Matter Cannon"
+	quest.746C3046F10DDD71.quest_desc: ["ไม่รองรับ &6buses&r ดังนั้นคุณต้องลดระดับจาก &bDense&r ไปเป็น &bcable ที่เล็กกว่า&r (เช่น &bFluix ME Glass Cable&r หรือ &bFluix ME Smart Cable&r) ก่อนใช้ &6buses&r หรือ &bpanels&r แสดงโหลดคล้าย &bFluix ME Smart Cable&r โดยแต่ละเส้นที่สว่างหมายถึง &6ช่องสัญญาณ&r ที่ใช้อยู่สี่ช่อง"]
+	quest.746C3046F10DDD71.quest_subtitle: "สายความจุสูงกว่า ส่งได้ 32 ช่องสัญญาณ"
+	quest.746C3046F10DDD71.title: "Fluix Dense Smart Cable"
+	quest.75810CDFB362E0CB.quest_desc: ["&6คราฟต์&r ได้โดยทำให้เกิด &6ปฏิกิริยา&r ระหว่าง &bEnder Pearl&r หรือ &bEnder Dust&r กับ &bSingularity&r &6แรงระเบิด&r ใด ๆ ก็น่าจะเพียงพอที่จะกระตุ้นปฏิกิริยา", "", "การ &6ระเบิด&r เกือบทุกแบบ แม้แต่ &acreepers&r ก็ใช้ได้", "", "ผลิตออกมาเป็น &6คู่ที่เข้ากัน&r เสมอ หากต้องการสร้างการเชื่อมต่อ ให้วาง &bQuantum Entangled Singularity&r 1 ในคู่นั้นลงใน &bME Quantum Link Chamber&r ของสะพานแต่ละฝั่ง", "", "การ &6ตั้งชื่อ&r ให้พวกมันไว้ตอนสร้างด้วย &bAnvil&r ของ vanilla น่าจะ &6เป็นความคิดที่ดี&r"]
+	quest.75810CDFB362E0CB.quest_subtitle: "สร้างการเชื่อมต่อ!"
+	quest.75810CDFB362E0CB.title: "Singularities"
+	quest.75FE996305813D68.quest_desc: ["หากต้องการหา &6Meteorite&r คุณต้องคราฟต์ &bMeteorite Compass&r &bCompass&f จะชี้ไปยัง &6Meteorite&f ที่ใกล้ที่สุด"]
+	quest.75FE996305813D68.quest_subtitle: "ค้นหา Meteorite"
+	quest.75FE996305813D68.title: "ไอ้ก้อน- หิน- อุกกาบาตนั่นคืออะไร? (What is the bol- roc- meteor?)"
+	quest.77978ED3AC1DFA26.quest_desc: ["&aExtendedAE &fคือม็อดที่ช่วย &aเร่งความเร็วและขยาย &aae2 &fให้เร็วขึ้นและใหญ่ขึ้น"]
+	quest.79F451F9C8D02A69.quest_desc: ["เมื่อมี &bConcurrent Processor &fแล้ว คุณคราฟต์ไอเทมเพิ่มเติมเพื่อช่วยให้ผ่าน &aExtenedAE&f ได้"]
+	quest.7A7A4553203B4A21.quest_desc: ["&bCrystal Assembler&f ใช้คราฟต์ &bBudding Entroized Blocks&f และไอเทมอื่น ๆ จาก&b ExtendedAE&f แบบอัตโนมัติได้", "", "หมายเหตุ: เมื่อใช้ &bCrystal Assembler&f คราฟต์ &bBudding Entroized Blocks&f คุณจะได้ &aระดับที่ต่ำกว่า&f เมื่อเทียบกับการคราฟต์เอง"]
+	quest.7AC17F66BB030623.quest_desc: ["คุณพบ &bBudding Certus&f ได้ภายใน &bMeteorite &fหรือจะคราฟต์เองก็ได้ เมื่อทำ &bbudding block&f จะมีระดับ ได้แก่ &bDamaged&f, &bChipped&f, &bFlawed&f และ &bFlawless&f เมื่อทุบ ระดับจะลดลงหนึ่งขั้น ", "", "- เมื่อ &6เก็บเกี่ยว&f &bBudding Block &fคุณใช้ &bSilktouch Enchantment &fเพื่อรับบล็อกโดยไม่ &6ลดระดับ&f ได้ ", "", "- การทำ &bBudding Certus&f ต้องโยน &bCertus block&f และ &bCharged Certus&f ลงน้ำ จะได้ &bBudding block&f ระดับแรก หากต้องการ &6อัปเกรด &fให้ &6โยนกลับลง &bน้ำ &fพร้อม &bCharged Certus&f อีกชิ้น และทำซ้ำอีกครั้งสำหรับระดับที่สาม ระดับที่สี่คราฟต์ไม่ได้ และเราจะพูดถึงทีหลัง"]
+	quest.7AC17F66BB030623.title: "Budding Blocks"
+	quest.7C201074DDBAE831.quest_desc: ["ฉันว่าทั้งไบโอมนั้นคงหายเข้าไปใน &bME Storage&r ของคุณได้..."]
+	quest.7C201074DDBAE831.title: "256k Storage Component"
+	quest.7C8EF2A739AAC1D7.title: "ME Cell Housing"
+	quest.7D57C6962950AA98.quest_desc: ["&bCrafting Co-processor&f ใช้เร่งความเร็ว และให้คราฟต์ไอเทมได้มากกว่าหนึ่งชิ้นพร้อมกันเมื่อคราฟต์สูตรที่ซับซ้อนขึ้น"]
+	quest.7D57C6962950AA98.title: "Crafting Processors"
+	quest.7FEBDFAE021B3C56.quest_desc: ["มีประโยชน์กับการคราฟต์ที่ ใหญ่มาก ๆ&r"]
+	quest.7FEBDFAE021B3C56.title: "Mega Crafting Storage"
+	task.1BEC4027E735B683.title: "ต้องการคู่มือไหม? (Need a guide?)"
+	task.253E536043DBF3EA.title: "Quantum Computer Storage"
+	task.3033BCAB98641150.title: "Advanced Pattern Provider"
+	task.3BC634992A1E9BAD.title: "สังเกต: &2Entro Budding ใดก็ได้&r"
+	task.7A0371393E813129.title: "สังเกต: &2Certus Budding ใดก็ได้&r"
+}

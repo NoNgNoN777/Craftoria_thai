@@ -1,0 +1,115 @@
+{
+	quest.030E566682A89105.quest_desc: ["   &bFuel Canister&r เก็บเชื้อเพลิงได้ปริมาณมาก", "", "   ใส่ได้ในทุกช่องที่รับเชื้อเพลิงตามปกติ", "", "   ข้อดีที่สุด... มันจะหยุดใช้เชื้อเพลิงสำรองภายใน&rเมื่อไม่มีอะไรให้&6หลอม&r &6รมควัน&r &6เผา&r หรือ&6ผลิตพลังงาน&r", "", "  ช่วยให้เชื้อเพลิงของคุณอยู่ได้นานขึ้น", "", "{image:justdirethings:item/fuel_canister_full width:100 height:100 align:center fit:true}"]
+	quest.030E566682A89105.quest_subtitle: "ตัวประหยัดเชื้อเพลิง"
+	quest.03271CEB2EBD0979.quest_desc: ["  &6ส่ง&r&cพลังงาน&rจาก&bแหล่งกำเนิด&rที่ต่ออยู่ ไปยัง&bตัวใช้พลังงาน&rใดก็ได้ภายในพื้นที่ AOE ที่เลื่อนตำแหน่งได้", "", "{image:ftblibrary:icons/up width:32 height:32 align:center}", "{image:ftbquests:tasks/fe_full width:64 height:64 align:center}"]
+	quest.03271CEB2EBD0979.quest_subtitle: "เครื่องชาร์จ AOE"
+	quest.03F624101CDF5291.quest_desc: ["  &bแบบธรรมดา&r:", "    • &bบล็อก&r ถูก&6วาง&r", "    • ควบคุม&eความเร็ว&rและ&eทิศทาง&r", "    • ตั้งให้ตอบสนอง&4เรดสโตน&rได้ (ไม่บังคับ)", "", "  &bขั้นสูง&r:", "    • เพิ่ม&6ตัวกรอง&rและ&3พื้นที่ AOE ที่เลื่อนตำแหน่งได้&r", "    • ต้องใช้&cพลังงาน&r", "", "{image:justdirethings:block/blockplacert2_side width:100 height:100 align:center}"]
+	quest.03F624101CDF5291.quest_subtitle: "( คำนาม + คำกริยา ไม่ใช่กริยา + นาม )"
+	quest.045942C709C63044.quest_desc: ["  เรียบง่าย", "", "  &6ผลิต&rพลังงาน", "", "  จาก&bถ่านหิน&rและ&bเชื้อเพลิง&r&nของแข็ง&rอื่น ๆ", "", "{image:justdirethings:block/generatort1_top width:100 height:100 align:center}"]
+	quest.045942C709C63044.quest_subtitle: "ทำได้ตามที่บอกไว้"
+	quest.08B17C05B2111477.quest_desc: ["  ยินดีด้วย", "", "  ตอนนี้คุณ&6ปลดล็อก&rระดับที่สี่&rและระดับสุดท้าย&rของ&bไอเทม&rและ&bบล็อก&rของ JDT&r แล้ว", "", "  &bเครื่องมือ&r&6ทำงานทันที&r &bเกราะ&rมอบ&6พลังแบบ&rซูเปอร์แมน&r และ &bไม้กายสิทธิ์&r&6เจาะรูชั่วคราว&rในโลกได้", "", "  ใครเห็นคุณในชุด JDT&r ระดับสูงสุดจะรู้ว่าคุณผ่านมาหมดแล้ว... &2Overworld&r, &4The Nether&r, &3The End&r และ &9Deep Dark&r", "", "{image:justdirethings:item/eclipsealloy_ingot width:100 height:100 align:center fit:true}"]
+	quest.08B17C05B2111477.quest_subtitle: "ระดับ 4: ปลดล็อกแล้ว"
+	quest.0E50E568DFA078D5.quest_desc: ["  ความก้าวหน้าของ Just Dire Things&r ผูกอยู่กับ &bgoo&r สี่ชนิด", "", "  การคราฟต์ &bgoo&r แต่ละชนิดต้องไปยังแต่ละภูมิภาค", "", "• &bPrimogel Goo&r—&6Overworld&r", "", "• &bBlazebloom Goo&r—&6The Nether&r", "", "• &bVoidShimmer Goo&r—&6The  End&r", "", "• &bShadowpulse Goo&r—&6Deep Dark&r", "", "", "{image:justdirethings:block/gooblock_tier4 width:32 height:32 align:center fit:true}"]
+	quest.0E50E568DFA078D5.quest_subtitle: "Goo Job!"
+	quest.0E50E568DFA078D5.title: "เริ่มต้น Just Dire Things (Begin Just Dire Things)"
+	quest.0ECDE9598DABBD3A.quest_desc: ["• &cOre Miner&r, &cOre Scanner&r", "• &cLawn Mower&r, &cSky Sweeper&r", "• &cTree Feller&r, &cLeaf Breaker&c", "• &cAuto Smelter&r", "• &cHammer&r", "• &cDrops Teleporter&r", "", "{image:justdirethings:item/celestigem_paxel_active width:100 height:100 align:center fit:true}"]
+	quest.0F121433B94D72D9.quest_desc: ["   &6ชี้&r&bอัปเกรด&r JDT&r ใน EMI แล้ว&6กด shift ค้าง&rเพื่ออ่าน&9คำอธิบาย&r", "", "{image:justdirethings:item/abilityupgrades/jumpboost width:100 height:100 align:center}"]
+	quest.160740771654F4E6.quest_desc: ["   บล็อกของ &bvoidflame coal&r &6แปลงเป็น&c &braw eclipse ember&r ได้ ", "", "   จะ&6ดรอป&r &beclipse embers&r 3–4 ชิ้น", "", "   &6เผา&rไอเทมได้มากกว่า &bcoal&r 81 เท่า", "", "{image:justdirethings:block/coalblock_t4 width:100 height:100 align:center fit:true}"]
+	quest.18680FEE2B6FF16F.quest_desc: ["  พืชที่ปลูกบน &bBlazebloom Soil&r จะ&6เก็บเกี่ยว&rและ&6ปลูกใหม่&rเอง", "", "  คุณอาจใช้ &bItem Collector&r ของ Just Dire Things&r เพื่อ&6รวบรวม&rของที่พืชดรอปเข้าที่เก็บของโดยอัตโนมัติ", "", "  &bBlazebloom soil&r ยัง&6เร่ง&rการเติบโตของพืชเล็กน้อย และทนต่อ&6การเหยียบ&r", "  ", "{image:justdirethings:block/goofarmland_tier2_moist width:100 height:100 align:center fit:true}"]
+	quest.18680FEE2B6FF16F.quest_subtitle: "ปลูกพืชอัตโนมัติ"
+	quest.18CEE2F64F6E53E6.quest_desc: ["  ยินดีด้วย", "", "  ตอนนี้คุณ&6ปลดล็อก&r&bไอเทม&rและ&bบล็อก&rของ JDT&r ระดับที่สาม&rแล้ว", "", "  &6การเทเลพอร์ต&rของ&bของที่ดรอป&rและตัวคุณเอง เป็นความสามารถเด่นของระดับนี้", "", "{image:justdirethings:item/celestigem width:100 height:100 align:center}"]
+	quest.18CEE2F64F6E53E6.quest_subtitle: "ระดับ 3: ปลดล็อกแล้ว"
+	quest.1A1C915A4A1F7741.quest_desc: ["   &bBlazebloom goo&r จะ&6แปลง&rบล็อกของ &bprimal coal&r เป็น &braw blaze ember&r ", "", "   จะ&6ดรอป&r &bblaze embers&r 3–4 ชิ้น", "", "   &6เผา&rไอเทมได้มากกว่า &bcoal&r 9 เท่า", "", "{image:justdirethings:block/coalblock_t2 width:100 height:100 align:center fit:true}"]
+	quest.1AD1C99F9C383632.quest_desc: ["   &bfluid canister&r &6บรรจุได้ 8 บัคเก็ต&rของ&bของเหลว&rชนิดใดก็ได้ที่คุณชอบ", "", "   มีโหมด “เติม” พิเศษที่&6เติม&r&bไอเทมที่บรรจุของเหลว&rในช่องเก็บของของคุณโดยอัตโนมัติ", "", "{image:justdirethings:item/fluidcanister/fluid_canister width:100 height:100 align:center}"]
+	quest.1AD1C99F9C383632.quest_subtitle: "บัคเก็ตแปดเท่า"
+	quest.1AEF6E844F39155D.quest_desc: ["  &6แปลง&b:", "", "• บล็อก &bDiamond&r เป็น &b&nraw celestigem ore&r", "", "• บล็อก &bGold&r เป็น &braw blazegold ore&r", "", "• บล็อก &bIron&r เป็น &braw ferricore ore&r", "", "ทำงานเร็วกว่า &bblazebloom goo&r", "", "{image:justdirethings:block/gooblock_tier3 width:100 height:100 align:center fit:true}"]
+	quest.1C69AE9775DDC0AD.quest_desc: ["  ง่าย ๆ", "", "  &6ผลิต&rพลังงานจาก&bเชื้อเพลิงเหลว&r", "", "• &bBlaze Ember Fuel&r", "• &bVoidflame Fuel&r", "• &bEclipse Ember Fuel&r", "", "{image:justdirethings:block/generatorfluidt1_top width:100 height:100 align:center}"]
+	quest.1C69AE9775DDC0AD.quest_subtitle: "เชื้อเพลิงเหลวเท่านั้น"
+	quest.1F81CBD8519E244B.quest_desc: ["  เหมือน &bferricore armor&r แต่&6ซ่อมตัวเองเมื่ออยู่ในลาวา&r แต่คุณอาจอยากถอดมันออกก่อน", "", "  รองรับ&bอัปเกรด&rใหม่เพิ่มเติม", "", "• &bHelment&r: &cStupefy&r", "• &bChestplate&r: &cExtinguish&r", "• &bLeggings&r:  &cSwim Speed&r", "• &bBoots&r: &cGround Stomp&r", "", "", "{image:justdirethings:item/template_blazegold width:100 height:100 align:center fit:true}"]
+	quest.1F81CBD8519E244B.quest_subtitle: "ลาวา และรักมัน"
+	quest.1F81CBD8519E244B.title: "Blazegold Armor"
+	quest.202149DADCC786EE.quest_desc: ["  ยินดีด้วย", "", "  ตอนนี้คุณ&6ปลดล็อก&r&bไอเทม&rและ&bบล็อก&rของ JDT&r ระดับที่สองแล้ว", "", "  ธีมของระดับนี้คือ \"&6การซ่อมด้วยลาวา&r\"", "", "{image:justdirethings:item/blazegold_ingot width:100 height:100 align:center fit:true}"]
+	quest.202149DADCC786EE.quest_subtitle: "ระดับ 2: ปลดล็อกแล้ว"
+	quest.2023CDC95630D9B0.quest_desc: ["", "", "{image:justdirethings:item/totem_of_death_recall width:100 height:100 align:center fit:true}"]
+	quest.21AE41FA52DB561D.quest_desc: ["  อุปกรณ์เล็กที่แสนสะดวกนี้ &6ชาร์จ&r &bไอเทม&r ทั้งหมดในช่องเก็บของของคุณที่ &cต้องการพลังงาน&r", "", "  เข้ากันได้ดีกับ &bfuel cannister&r", "", "{image:justdirethings:item/pocket_generator_active width:100 height:100 align:center}"]
+	quest.21AE41FA52DB561D.quest_subtitle: "Pocket Rocket"
+	quest.29E3DC274AF5DAFA.quest_desc: ["  &bferricore wrench&r ก็คือ... ประแจ", "", "  ในการก่อสร้าง ใช้ &6หมุน&r บล็อกได้ สะดวกมาก", "", "  ลองใช้กับบล็อกเทคที่คุณชอบทุกชนิดที่ตอบสนองต่อประแจ", "", "{image:justdirethings:item/ferricore_wrench width:100 height:100 align:center fit:true}"]
+	quest.29E3DC274AF5DAFA.quest_subtitle: "ไม่ใช่การเล่นลิง"
+	quest.2CE7390F7567D9E2.quest_desc: ["  &bSimple&r:", "    • ทำงานเป็นคู่", "    • &6สลับ&r &bบล็อก&r (รวมถึง &bอากาศ)&r", "    • &3เอนทิตี&r &6วาร์ป&r (เดี่ยว)", "    • ตัวเลือก &esensitivity&r ของ &4Redstone&r", "", "  &bAdvanced&r:", "    • เพิ่ม &6การกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "", "{image:justdirethings:block/blockswappert2_side width:100 height:100 align:center}"]
+	quest.2CE7390F7567D9E2.quest_subtitle: "พอร์ทัลในรูปเครื่องจักร"
+	quest.322A0B6AC3347EB4.quest_desc: ["• &cX-Ray&r", "• &cInstant Break&r", "", "{image:justdirethings:item/eclipsealloy_paxel_active width:100 height:100 align:center fit:true}"]
+	quest.3492CFBA1602D7F2.quest_desc: ["  เมื่อ &6มีพลังงาน&r ให้ค่าเกราะและ armor toughness ระดับ &bdiamond armor&r", "", "  รองรับ &bupgrades&r ใหม่เพิ่มเติม:", "", "• &bHelment&r: &cNight Vision&r", "• &bChestplate&r: &cElytra&r", "• &bLeggings&r: &cDecoy&r", "• &bBoots&r: &cNegate Fall Damage&r", "", "{image:justdirethings:item/template_celestigem width:100 height:100 align:center fit:true}"]
+	quest.3492CFBA1602D7F2.quest_subtitle: "เปิดเครื่อง!"
+	quest.3492CFBA1602D7F2.title: "Celestigem Armor"
+	quest.35F6CAD5BE56A32A.quest_desc: ["  &bShadowpulse Soil&r ทำงานเหมือน &bดิน&r ระดับก่อนหน้า แต่ &6ปลูกพืชได้เร็วกว่าอีก&r  ", "", "{image:justdirethings:block/goofarmland_tier4_moist width:100 height:100 align:center fit:true}"]
+	quest.35F6CAD5BE56A32A.quest_subtitle: "เร็วขึ้นอีก"
+	quest.39460CB77E53D5FA.quest_desc: ["  &6ให้&r &bบล็อก&r อื่น &6โต้ตอบ&r กับ &3ช่องเก็บของ&r &3ช่องเกราะ&r หรือ &3ช่องมือรอง&r ของคุณ", "", "{image:justdirethings:block/playeraccessor width:100 height:100 align:center}"]
+	quest.3AE00D06232E0175.quest_desc: ["  &bThe Portal Gun&r:", "    • คลิกซ้าย/ขวา &6เปิด&r &5portal&r เป็นคู่", "", "  &bThe Advanced Portal Gun&r:", "    • &6เปิด&r &5portal&r ไปยัง &9ตำแหน่ง&r ที่บันทึกไว้", "    • &6ใช้&r &cพลังงาน&r และ &bportal fluid&r", "", "", "{image:justdirethings:block/portal_shader width:100 height:100 align:center}"]
+	quest.3AE00D06232E0175.quest_subtitle: "ไปดวงจันทร์!"
+	quest.42EC7168ADC6AF76.quest_desc: ["  &bBlaze Jet Wand&r มี &6ความสามารถ&r ดังนี้:", "", "• &cLava Repair&r: เหมือนอุปกรณ์ Tier 2 อื่น ๆ", "• &cAir Burst&r: ระเบิดพาคุณพุ่งขึ้นกลางอากาศ", "", "   ความสามารถของไม้เท้า JDT มี &6ติดตัว&r อยู่แล้ว", "", "   นอกจากความสามารถ &cAir Burst&r แล้ว เมื่อถือไว้ในมือ ยัง &6ป้องกันความเสียหายจากการตก&r ด้วย", "", "{image:justdirethings:item/blazejet_wand width:100 height:100 align:center fit:true}"]
+	quest.42EC7168ADC6AF76.quest_subtitle: "เดินทางง่ายขึ้น"
+	quest.4628ABEE13B276A9.quest_desc: [" &bRaw blazegold&r &6ดรอป&r จากการทุบ &braw blazegold ore&r", "", " ขั้นต่อไปคุณต้อง &6หลอม&r เพื่อรับ &bblazegold ingot&r", "", "{image:justdirethings:item/raw_blazegold width:100 height:100 align:center fit:true}"]
+	quest.47E6E91E526B6D34.quest_desc: [" &bCelestigems&r &6ดรอป&r จากการทุบ &braw celestigem ore&r", "", " ไม่ต้องหลอมหรือแปรรูปเพิ่ม", "", "{image:justdirethings:item/celestigem width:100 height:100 align:center fit:true}"]
+	quest.48E96D243486D38E.quest_desc: ["  &6ความสามารถ&r ของ &bVoidShift Wand&r:", "", "• &cAir Burst&r: ความแรงสูงสุด 4", "• &cVoid Shift&r: &6เทเลพอร์ต&r ได้ไม่เกิน 15 บล็อก", "", "{image:justdirethings:item/voidshift_wand width:100 height:100 align:center fit:true}"]
+	quest.48E96D243486D38E.quest_subtitle: "จากที่นี่ไปที่นั่น"
+	quest.495EEAA73357FA60.quest_desc: ["  รองรับ &6อัปเกรด&r ระดับสูงสุด:", "", "• &bPickaxe&r: &cInstant Break&r, &cX-Ray&r", "• &bShovel&r: &cInstant Break&r", "• &bAxe&r: &cInstant Break&r", "• &bSword&r: &cMob X-Ray&r", "• &bBow&r: &cPhase&r, &cYondu Arrow&r", "", "{image:justdirethings:item/eclipsealloy_pickaxe_active width:100 height:100 align:center fit:true}"]
+	quest.495EEAA73357FA60.quest_subtitle: "พลังเหนือชั้น"
+	quest.495EEAA73357FA60.title: "Eclipse Alloy Tool \\& Weapons"
+	quest.49910F2EFEA1CDF2.quest_desc: ["  &bSimple&r:", "    • &6เก็บ&r &bของเหลว&r", "    • ควบคุม &eความเร็ว&r และ &eทิศทาง&r", "    • ตั้งให้ไวต่อ &4redstone&r ได้ (ไม่บังคับ)", "", "  &bAdvanced&r:", "    • เพิ่ม &6การกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/fluidcollectort2_side width:100 height:100 align:center}"]
+	quest.4B0CDF7941199C8E.quest_desc: ["  &bPrimogel Soil&r ได้จากการเตรียมที่เพาะปลูกด้วย &bferricore hoe&r", "", "  ไม่เสียหายเมื่อตกลงมาใส่ และพืชโตเร็วกว่าดินปกติเล็กน้อย", "", "{image:justdirethings:block/goofarmland_tier1_moist width:100 height:100 align:center fit:true}"]
+	quest.4B0CDF7941199C8E.quest_subtitle: "เหยียบข้าไป"
+	quest.4BF483174CC0A0F1.quest_desc: [" เมื่อ &6มีพลังงาน&r จะไม่เสียความทนทาน", "", "  รองรับ &bอัปเกรด&r ใหม่เพิ่มเติม:", "", "• &bPickaxe&r: &cDrops Teleporter&r", "• &bShovel&r: &cDrops Teleporter&r", "• &bAxe&r: &cDrops Teleporter&r", "• &bHoe&r: &cDrops Teleporter&r", "• &bSword&r: &cDrops Teleporter&r", "• &bBow&r: &cLingering&r, &cHoming Arrow&r", "", "{image:justdirethings:item/celestigem_shovel_active width:100 height:100 align:center fit:true}"]
+	quest.4BF483174CC0A0F1.quest_subtitle: "ไปให้พ้น"
+	quest.4BF483174CC0A0F1.title: "Celestigem Tools \\& Weapons"
+	quest.4D05AA18CF654D70.quest_desc: ["  &bFerricore Tools and Weapons&r แข็งแรงและทนทานเท่า &biron รุ่นเทียบเท่า&r", "", "  ยัง &6อัปเกรด&r เป็นระดับสูงขึ้นได้ด้วย &btemplate&r ที่เหมาะสม", "", "  รองรับ &bอัปเกรด&r สำหรับ &6ความสามารถพิเศษ&r หลากหลาย", "", "• &bPickaxe&r: &cOre Miner&r, &cOre Scanner&r", "• &bAxe&r: &cTree Feller&r, &cLeaf Breaker&c", "• &bShovel&r: &cLawn Mower&r, &cSky Sweeper&r", "• &bSword&r: &cMob Scanner&r", "• &bBow&r: &cPotion Arrow&r", "• &bHoe&r: ไม่มีในระดับนี้", "", "{image:justdirethings:item/ferricore_axe_active width:100 height:100 align:center fit:true}"]
+	quest.4D05AA18CF654D70.quest_subtitle: "เครื่องมือและอาวุธที่อัปเกรดได้"
+	quest.4D05AA18CF654D70.title: "Ferricore Tools \\& Weapons"
+	quest.4D1B83E147CC16AE.quest_desc: ["  &bVoidShimmer Soil&r ไม่เพียงเก็บเกี่ยวพืชอัตโนมัติ แต่ยัง &6เทเลพอร์ต&r ของที่ดรอปไปยัง &bคอนเทนเนอร์เก็บของ&r ที่กำหนด", "  ", "  ยังคง &6ทนการเหยียบ&r เหมือนดินระดับก่อนหน้า พร้อม &6เพิ่มความเร็วการเติบโตของพืชอีกขั้น&r", "", "{image:justdirethings:block/goofarmland_tier3_moist width:100 height:100 align:center fit:true}"]
+	quest.4D1B83E147CC16AE.quest_subtitle: "AutoCrops ลุยเลย!"
+	quest.4D59020A532C4E92.quest_desc: ["   เดิมพันได้เลยว่าคุณ &6คิดออก&r ว่า &bอันนี้&r คืออะไร xD", "", "", "{image:justdirethings:item/creaturecatcher_top_animation width:100 height:100 align:center}"]
+	quest.4D59020A532C4E92.quest_subtitle: "มานี่ เหมียว เหมียว"
+	quest.516F2A1A1270D9DC.quest_desc: ["  &bSimple&r:", "    • &6ทุบ&r &bบล็อก&r", "    • &6ใช้&r &bเครื่องมือ&r หากมีให้", "    • ควบคุม &eความเร็ว&r และ &eทิศทาง&r", "    • ตั้งให้ไวต่อ &4redstone&r ได้ (ไม่บังคับ)", "", "  &bAdvanced&r:", "    • เพิ่ม &6การกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"]
+	quest.55542D5D7CDA77A5.quest_desc: ["  &6แปลง&b:", "", "• บล็อก &bGold&r เป็น &b&nraw blazegold ore&r", "", "• บล็อก &bIron&r เป็น &braw ferricore ore&r", "", "ทำงานเร็วกว่า &bprimogel goo&r", "", "{image:justdirethings:block/gooblock_tier2 width:100 height:100 align:center fit:true}"]
+	quest.5707678AB1482B68.quest_desc: ["   บล็อก &bblaze ember&r &6แปลง&r เป็น &braw voidflame coal&r ได้ ", "", "   จะ &6ดรอป&r &bvoidflame coal&r 3-4 ชิ้น", "", "   &6เผา&r ไอเทมได้มากกว่า &bcoal&r 27 เท่า", "", "{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"]
+	quest.5CD12382792FA310.quest_desc: [" ", "{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"]
+	quest.5CD12382792FA310.quest_subtitle: "ลองเดาดูว่าสิ่งนี้ทำอะไร"
+	quest.6201E6DF709C29D0.quest_desc: ["  &bFerricore armor&r แข็งแกร่งและทนทานเท่า &biron armor&r", "", "  สามารถ &6อัปเกรด&r เป็นระดับที่สูงขึ้นได้ด้วย &btemplate&r ที่เหมาะสม", "", "  รองรับ &bupgrades&r ที่ให้ &6ความสามารถพิเศษ&r หลากหลาย", "", "• &bHelmet: &cMindFog&r", "• &bChestplate: &cInvulnerability&r", "• &bLeggings: &cRun Speed&r, &cWalk Speed&r", "• &bBoots: &cStep Assist&r, &cJump Boost&r", "", "( การอัปเกรดชุด ferricore armor ทั้งชุดไปยังระดับถัดไป ประหยัดกว่าการทำชุดเต็มในระดับสูงสุดตั้งแต่ต้น )", "", "{image:justdirethings:item/template_ferricore width:100 height:100 align:center fit:true}"]
+	quest.6201E6DF709C29D0.quest_subtitle: "เกราะที่อัปเกรดได้"
+	quest.6201E6DF709C29D0.title: "Ferricore Armor"
+	quest.62F43B936E236071.quest_desc: ["   &6เก็บ&r &bไอเทม&r จาก AOE ที่เยื้องออกไป แล้ว &6ใส่&r ลงใน &bที่เก็บของที่ติดอยู่&r", "", "{image:ftblibrary:icons/down width:32 height:32 align:center}", "{image:minecraft:block/barrel_side width:64 height:64 align:center}"]
+	quest.62F43B936E236071.quest_subtitle: "เอามาให้ข้า!"
+	quest.65A75D8101BEB05F.quest_desc: ["  &bSimple&r:", "    • &bของเหลว&r จะถูก &6วาง&r", "    • ควบคุม &eความเร็ว&r และ &eทิศทาง&r", "    • ตั้งให้ตอบสนองต่อ &4redstone&r ได้ (ไม่บังคับ)", "", "  &bAdvanced&r:", "    • เพิ่ม &6ตัวกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/fluidplacert2_side width:100 height:100 align:center}"]
+	quest.68A8995F4A13381A.quest_desc: ["  รองรับ &bupgrades&r ระดับสูงสุด:", "", "• &bHelment&r:", "    &cDebuff Remover&r,", "    &cMental Obliteration&r", "• &bChestplate&r:", "    &cFlight&r, (ใช่แล้ว บินแบบ creative&r เลย!)", "    &cDeath Protection&r,", "    &cLava Immunity&r", "• &bLeggings&r: &cPhase&r", "• &bBoots&r: &cEarthquake&r", "", "{image:justdirethings:item/template_eclipsealloy width:100 height:100 align:center fit:true}"]
+	quest.68A8995F4A13381A.quest_subtitle: "พลังเหนือชั้น"
+	quest.68A8995F4A13381A.title: "Eclipse Alloy Armor"
+	quest.69403313B37E8219.quest_desc: [" &bSimple&r:", "    • &6คลิก&r &3เป้าหมาย&r ที่หันหน้าเข้าหา", "    • &eคลิกซ้าย&r &eคลิกขวา&r และ &eกดค้าง&r", "    • สลับโหมด &6คลิกขณะกดย่อ&r", "    • เลือกหมวด &3เป้าหมาย&r ได้", "    • เลือก &eทิศทาง&r ของ &6การกระทำ&r ได้", "    • ตัวเลือกความไวต่อ &4Redstone&r", "", "  &bAdvanced&r:", "    • เพิ่ม &6ตัวกรอง&r และ &3offset AOE&r", "    • &6ชาร์จ&r &bอุปกรณ์&r ที่ใส่เข้าไปได้", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"]
+	quest.69403313B37E8219.quest_subtitle: "ผู้เลียนแบบผู้เล่น"
+	quest.69BD8400AAA37066.quest_desc: ["  &bSimple&r:", "    • &6ตรวจจับ&r เป้าหมายที่หันหน้าเข้าหา", "    • เลือกหมวด &3เป้าหมาย&r ได้", "    • &efilter&r ของ &3เป้าหมาย&r", "    • กรองตาม &eblock state&r ได้", "    • &6ปล่อยสัญญาณ&r &4redstone&r (ไม่บังคับ)", "", "  &bAdvanced&r:", "    • เพิ่ม &6ตัวกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/sensort2_side width:100 height:100 align:center}"]
+	quest.69BD8400AAA37066.quest_subtitle: "อ่อนไหวสุด ๆ"
+	quest.6B0418E2AC06FF09.quest_desc: ["  เหมือน &bferricore tools \\& weapons&r แต่ &6ซ่อมแซมตัวเองเมื่ออยู่ในลาวา&r", "", "  รองรับ &bupgrades&r ใหม่เพิ่มเติม:", "", "• &bPickaxe&r: &cAuto Smelter&r, &cHammer&r", "• &bShovel&r: &cAuto Smelter&r, &cHammer&r", "• &bAxe&r: &cAuto Smelter&r", "• &bSword&r: &cAuto Smoker&r, &cCauterize Wounds&r", "• &bBow&r: &cSplash&r", "", "{image:justdirethings:item/blazegold_sword_active width:100 height:100 align:center fit:true}"]
+	quest.6B0418E2AC06FF09.quest_subtitle: "สัมผัสความร้อนแรง"
+	quest.6B0418E2AC06FF09.title: "Blazegold Tool \\& Weapons"
+	quest.6B275A372AE020A8.quest_desc: ["  &bPFC&r + &bPolymorphic Fluid&r → &5Portal Fluid’&r", "", "  &5Portal Fluid’&r + &bgoo&r* ➠ &dPortal Fluid’’&r", "", "  *goo ≥ tier 3", "", "  PFC = Portal Fluid Catalyst", "  ’ = Unstable (ไม่เสถียร)", "  ’’ = Stable (เสถียร)  ", "", "  &5Unstable Portal Fluid&r มีอยู่ได้เฉพาะใน &3The End&r", "", "{image:justdirethings:item/portal_fluid_catalyst width:100 height:100 align:center}"]
+	quest.6B275A372AE020A8.quest_subtitle: "ของเหลวเพิ่มเติม"
+	quest.6FE07EECD4579FD4.quest_desc: ["  &6ความสามารถ&r ของ &bEclipse Gate Wand&r คือ:", "", "• &cLava Repair&r", "• &cAir Burst&r: พลัง ≤ 8", "• &cVoid Shift&r: &6เทเลพอร์ต&r ≤ 30 บล็อก", "• &cEclipse Gate&r: &6เปิด&r หลุมพกพา(!)", "", "  เมื่อสร้างหลุมพกพา บล็อกทั้งหมด (ยกเว้น tile entity) จะหายไปชั่วคราว", "", "  หลังผ่านไปสักพัก หลุมจะยุบตัว และคืนบล็อกที่หายไปชั่วคราว", "", "{image:justdirethings:item/eclipsegate_wand width:100 height:100 align:center fit:true}"]
+	quest.6FE07EECD4579FD4.quest_subtitle: "ตอนนี้คุณเห็นพวกมัน..."
+	quest.6FF7CECC5DAF516B.quest_desc: ["1. วางบล็อก &bgoo&r", "", "2. มันจะแสดงสิ่งที่ต้อง &6'ป้อน'&r&d\\*&r", "", "3. วาง &bblock of iron&r ไว้ข้าง ๆ", "", "4. เจลจะ &6แปลง&r เป็น &bRaw Ferricore Ore&r", "", "(&d*&r goo ทุกชนิดต้องถูกป้อน)", "", "", "{image:justdirethings:block/gooblock_tier1 width:100 height:100 align:center fit:true}"]
+	quest.6FF7CECC5DAF516B.quest_subtitle: "การแปรสภาพด้วย &bGoo&r"
+	quest.720874ECBFD3FD19.quest_desc: ["  &bBlaze Ember&r + PF → &4Blaze Ember Ø&r", "", "  &bVoidFlame Coal&r + &cBlaze Emberƒ&r → &4VoidFlame Ø&r", "", "  &bEclipse Ember&r + &cVoidFlameƒ&r → &4Eclipse Ember Ø&r", "", "  &4&oX&r &4Ø&r + &bgoo&r* ➠ &c&oX&r &cƒ&r", "", "    (* goo ต้องมีระดับ ≥ ที่กำหนด)", "", "   PF = polymophic fluid", "    Ø = เชื้อเพลิงที่ยังไม่กลั่น&r  ", "    ƒ = เชื้อเพลิง", " "]
+	quest.720874ECBFD3FD19.quest_subtitle: "ของเหลว JDT เบื้องต้น"
+	quest.720874ECBFD3FD19.title: "เชื้อเพลิงเหลว (Fluid Fuels)"
+	quest.72DA89154BB74D82.quest_desc: ["", "", "{image:justdirethings:item/raw_eclipsealloy width:100 height:100 align:center fit:true}"]
+	quest.734DD2AA16A5FBEC.quest_desc: ["   &bRaw ferricore&r &6ดรอป&b เมื่อทุบ &braw ferricore ore&r", "", "   ขั้นต่อไปคุณควร &6หลอม&r เพื่อรับ &bferricore ingots&r", "", "{image:justdirethings:item/raw_ferricore width:100 height:100 align:center fit:true}"]
+	quest.75C95D894C3B3428.quest_desc: ["  ยินดีด้วย!", "", "  ตอนนี้คุณ &6ปลดล็อก&r &bไอเทม&r และ &bบล็อก&r ระดับแรกของ JDT&r แล้ว", "", "  แต่คุณควร &6ทำ&r &bferricore ingots&r เพิ่ม", "", "{image:justdirethings:item/ferricore_ingot width:100 height:100 align:center fit:true}"]
+	quest.75C95D894C3B3428.quest_subtitle: "ระดับ 1: ปลดล็อกแล้ว"
+	quest.7806DD85D325C01C.quest_desc: ["   &bPolymorphic Catalyst&r คือกุญแจปลดล็อก &bเชื้อเพลิง&r ที่ดีกว่าของ JDT", "", "   &6หย่อน&r &bpolymorphic catalyst&r หนึ่งชิ้นลงใน &bน้ำ&r แล้วจะ &6ได้&r &bpolymorphic fluid&r", "", "{image:justdirethings:block/fluid_flowing width:100 height:100 align:center}"]
+	quest.7806DD85D325C01C.quest_subtitle: "เชื้อเพลิงและพอร์ทัลที่ดีกว่าเริ่มต้นที่นี่"
+	quest.7F3A28754CD6AD41.quest_desc: ["  &6แปลง&b:", "", "• บล็อก &bNetherite&r เป็น &b&nraw eclipse alloy ore&r", "", "• บล็อก &bDiamond&r เป็น &braw celestigem ore&r", "", "• บล็อก &bGold&r เป็น &braw blazegold ore&r", "", "• บล็อก &bIron&r เป็น &braw ferricore ore&r", "", "ทำงานเร็วกว่า &bvoidshimmer goo&r", "", "{image:justdirethings:block/gooblock_tier4 width:100 height:100 align:center fit:true}"]
+	quest.7F4BFF2C6E887FCC.quest_desc: ["   บล็อกของ &bprimogel goo&r ยัง &6แปลง&r &bblocks of coal&r เป็น &braw primal coal&r ด้วย ", "", "   &bPrimal coal&r 3 ถึง 4 ชิ้นจะ &6ดรอป&r จาก &braw primal coal&r นั้น", "", "   มีพลังงานพอจะ &6เผา&r ไอเทมได้มากกว่า &bcoal&r ปกติ 3 เท่า", "", "{image:justdirethings:block/coalblock_t1 width:100 height:100 align:center fit:true}"]
+	quest.7F4BFF2C6E887FCC.quest_subtitle: "ถ่านที่ดีกว่า"
+	task.2A1C946A44A39D6F.title: "ทำ Primogel Soil"
+	task.2FA7F24545E1C37E.title: "เริ่มที่นี่ (Start Here)"
+	task.32CCFEEA0A624C11.title: "ทำ Blazebloom Soil"
+	task.708EE345AEBB270B.title: "ทำ ShadowPulse Soil"
+	task.7C14A87514F74DF9.title: "ทำ VoidShimmer Soil"
+}

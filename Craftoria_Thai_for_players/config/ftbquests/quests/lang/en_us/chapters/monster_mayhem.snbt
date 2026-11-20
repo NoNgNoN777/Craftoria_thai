@@ -1,0 +1,70 @@
+{
+	quest.0119F518ACD8568D.quest_desc: ["&bSilent Spawner Rune&f ทำให้สปอว์นเนอร์ทำงานโดยไม่มีเสียงตามปกติ", "", "เพราะบางครั้งฟาร์มม็อบของคุณก็ควรเงียบบ้าง"]
+	quest.0119F518ACD8568D.quest_subtitle: "ไม่มีเสียงกรงสั่นอีกแล้ว"
+	quest.0119F518ACD8568D.title: "Silent Spawner Rune"
+	quest.14F545E632726FEE.quest_desc: ["&bInfused Spawner Rune&f เป็นเวอร์ชันที่เพิ่มพลังของ Spawner Rune พื้นฐาน", "", "จำเป็นสำหรับอัปเกรด Spawner ที่แรงที่สุดบางอย่าง"]
+	quest.14F545E632726FEE.quest_subtitle: "รูนที่อัดแน่นด้วยพลัง"
+	quest.14F545E632726FEE.title: "Infused Spawner Rune"
+	quest.1F88FCB1B73FF882.quest_desc: ["&bInitial Health Spawner Rune&f ปรับพลังชีวิตเริ่มต้นของมอนสเตอร์ที่ Spawner เสกขึ้น", "", "มีประโยชน์ในการสร้างฟาร์มมอนสเตอร์ที่ง่ายขึ้นหรือยากขึ้น"]
+	quest.1F88FCB1B73FF882.quest_subtitle: "เลือกว่าจะเริ่มด้วยพลังชีวิตเท่าไร"
+	quest.1F88FCB1B73FF882.title: "Initial Health Spawner Rune"
+	quest.1FD59C1147BCE34F.quest_desc: ["&bEchoing Spawner Rune&f ปรับ Spawner ให้สร้างพฤติกรรมการเกิดเพิ่มเติม", "", "เหมาะสำหรับนำ Spawner ที่ผลิตดีอยู่แล้วมาเพิ่มผลผลิตขึ้นไปอีก"]
+	quest.1FD59C1147BCE34F.quest_subtitle: "มอนสเตอร์ตัวเดียวเหรอ เอาเพิ่มไหม"
+	quest.1FD59C1147BCE34F.title: "Echoing Spawner Rune"
+	quest.253FA8D6C09E2BD5.quest_desc: ["&bSpawn Range Spawner Rune&f เปลี่ยนพื้นที่รอบ spawner ที่ม็อบเกิดได้", "", "ระยะที่กว้างขึ้นหมายถึงพื้นที่สำหรับระบบเกิดม็อบของคุณมากขึ้น"]
+	quest.253FA8D6C09E2BD5.quest_subtitle: "ให้ spawner ของคุณเอื้อมได้ไกลขึ้น"
+	quest.253FA8D6C09E2BD5.title: "Spawn Range Spawner Rune"
+	quest.2D8FB52E37D7D96C.quest_desc: ["&bIgnore Light Spawner Rune&f ลบข้อจำกัดระดับแสงออกจาก spawner", "", "ให้ม็อบเกิดได้โดยไม่ต้องสร้างห้องมืดสนิท"]
+	quest.2D8FB52E37D7D96C.quest_subtitle: "แสงไม่สำคัญอีกต่อไป"
+	quest.2D8FB52E37D7D96C.title: "Ignore Light Spawner Rune"
+	quest.33CDCAD12E8F6828.quest_desc: ["&bSummit Spawner Upgrade Rune&f เสริมค่าสถานะหลักของ spawner เพิ่มขึ้นอีก", "", "สำหรับการผลิตม็อบจริงจัง จากจุดนี้ไปทุกอย่างจะเริ่มเกินเบอร์"]
+	quest.33CDCAD12E8F6828.quest_subtitle: "ไปให้ถึงยอด"
+	quest.33CDCAD12E8F6828.title: "Summit Spawner Upgrade Rune"
+	quest.35F320164724B44C.quest_desc: ["&bAscent Spawner Upgrade Rune&f เป็นระดับอัปเกรด spawner ที่แรงกว่า", "", "rune ระดับสูงกว่าให้การปรับปรุง spawner ที่ทรงพลังกว่า"]
+	quest.35F320164724B44C.quest_subtitle: "ยก spawner ของคุณให้สูงขึ้น"
+	quest.35F320164724B44C.title: "Ascent Spawner Upgrade Rune"
+	quest.3F73EC8E087E2920.quest_desc: ["&bBurning Spawner Rune&f เพิ่มเอฟเฟกต์ไฟให้ม็อบที่เกิดจาก spawner", "", "ฟาร์มม็อบของคุณร้อนแรงขึ้นอีกมาก"]
+	quest.3F73EC8E087E2920.quest_subtitle: "เร่งความร้อน"
+	quest.3F73EC8E087E2920.title: "Burning Spawner Rune"
+	quest.423B29BD8DAC8C3D.quest_desc: ["&bPinnacle Spawner Upgrade Rune&f คือระดับสูงสุดของเส้นทางอัปเกรด spawner มาตรฐาน", "", "พลังสูงสุด ม็อบสูงสุด ความโกลาหลสูงสุด"]
+	quest.423B29BD8DAC8C3D.quest_subtitle: "จุดสูงสุดของการอัปเกรด spawner"
+	quest.423B29BD8DAC8C3D.title: "Pinnacle Spawner Upgrade Rune"
+	quest.465ECB57BFCF5291.quest_desc: ["&bNo AI Spawner Rune&f ปิดปัญญาประดิษฐ์ (AI) ของม็อบที่เกิดจาก spawner", "", "มีประโยชน์กับฟาร์มประสิทธิภาพสูงที่ม็อบไม่จำเป็นต้องคิด"]
+	quest.465ECB57BFCF5291.quest_subtitle: "สมองเป็นของเสริม"
+	quest.465ECB57BFCF5291.title: "No AI Spawner Rune"
+	quest.48F4ED8C915995DC.quest_desc: ["&bIgnore Conditions Spawner Rune&f ทำให้ spawner ไม่สนเงื่อนไขการเกิดปกติ", "", "เมื่อ vanilla บอกว่าไม่ รูนนี้บอกว่าได้"]
+	quest.48F4ED8C915995DC.quest_subtitle: "กฎมีไว้ให้ฝ่าฝืน"
+	quest.48F4ED8C915995DC.title: "Ignore Conditions Spawner Rune"
+	quest.4A476B25B5A3E88D.quest_desc: ["&bYouthful Spawner Rune&f ปรับ spawner ให้ม็อบที่เกิดยังคงเยาว์วัย", "", "มีประโยชน์เมื่อต้องการแหล่งม็อบเด็กที่เชื่อถือได้"]
+	quest.4A476B25B5A3E88D.quest_subtitle: "ให้ม็อบของคุณเยาว์วัยตลอดไป"
+	quest.4A476B25B5A3E88D.title: "Youthful Spawner Rune"
+	quest.4FDD66D88C90C951.quest_desc: ["&bSpawner&f คือรากฐานของการเกิดม็อบอัตโนมัติ", "", "รับ spawner มาเพื่อเริ่มปรับแต่งพฤติกรรมของมัน"]
+	quest.4FDD66D88C90C951.quest_subtitle: "จุดเริ่มต้นของโรงงานมอนสเตอร์"
+	quest.4FDD66D88C90C951.title: "Spawner"
+	quest.6EC57118E3771D72.quest_desc: ["&bIgnore Players Spawner Rune&f เปลี่ยนเงื่อนไขการเกิดที่เกี่ยวกับผู้เล่น", "", "ใช้เมื่อต้องการให้ spawner สนใจผู้เล่นที่อยู่ใกล้น้อยลง"]
+	quest.6EC57118E3771D72.quest_subtitle: "ผู้เล่นคนนั้นเป็นใคร?"
+	quest.6EC57118E3771D72.title: "Ignore Players Spawner Rune"
+	quest.7B88129FF5C9145F.quest_desc: ["&bRedstone Control Spawner Rune&f ให้ redstone ควบคุม spawner ได้", "", "เหมาะสำหรับสวิตช์ ตัวจับเวลา และการควบคุมฟาร์มอัตโนมัติ"]
+	quest.7B88129FF5C9145F.quest_subtitle: "ใส่โซ่ล่าม spawner"
+	quest.7B88129FF5C9145F.title: "Redstone Control Spawner Rune"
+	quest.7FD0A63CDC267251.quest_desc: ["&bFrontier Spawner Upgrade Rune&f ปรับปรุงค่าการเกิดพื้นฐานของ spawner", "", "ใช้ดัน spawner ของคุณให้เกินขีดจำกัดของ vanilla"]
+	quest.7FD0A63CDC267251.quest_subtitle: "การอัปเกรด spawner ระดับแรก"
+	quest.7FD0A63CDC267251.title: "Frontier Spawner Upgrade Rune"
+	task.0223DC40BCB8FF6D.title: "รับ Pinnacle Spawner Upgrade Rune"
+	task.06D736F223A44B10.title: "รับ Ascent Spawner Upgrade Rune"
+	task.170444FFD4D57753.title: "รับ Youthful Spawner Rune"
+	task.2144D7AA3F8732C4.title: "รับ Ignore Conditions Spawner Rune"
+	task.24EFDA7774F27E3E.title: "รับ Silent Spawner Rune"
+	task.276086CF0F30A677.title: "รับ Echoing Spawner Rune"
+	task.45BD3F9D0F2542F6.title: "รับ Summit Spawner Upgrade Rune"
+	task.47F4FCBBFF748733.title: "รับ Initial Health Spawner Rune"
+	task.5B790B22E115CEB3.title: "รับ Frontier Spawner Upgrade Rune"
+	task.5F8B536CAF189745.title: "รับ No AI Spawner Rune"
+	task.6F144EF786A94E4E.title: "รับ Spawner"
+	task.73A3951918C37F02.title: "รับ Ignore Players Spawner Rune"
+	task.77E3B3D6695EEA80.title: "รับ Spawn Range Spawner Rune"
+	task.79D7E3E9EA637474.title: "รับ Ignore Light Spawner Rune"
+	task.7CE607F3982231BE.title: "รับ Infused Spawner Rune"
+	task.7D142E8CAEC8F089.title: "รับ Burning Spawner Rune"
+	task.7FEC3AD51BEF4E49.title: "รับ Redstone Control Spawner Rune"
+}

@@ -1,0 +1,178 @@
+{
+	quest.048328EEBEEC9C94.quest_desc: ["&6Hazmat Suit&r จำเป็นเมื่อทำงานกับ&aวัสดุกัมมันตรังสี&r", "", "ชุดครบเซ็ตป้องกันคุณจาก&cรังสีรั่ว&rโดยไม่ตั้งใจ ให้ปลอดภัยขณะทำงานรอบ &dNuclear Reactor&r และจัดการกากของมัน", "", "คุณควรมี&6ครบทั้งชุด&rก่อนเข้าใกล้ของอันตรายเหล่านั้น"]
+	quest.048328EEBEEC9C94.quest_subtitle: "ป้องกันตัวให้ดี"
+	quest.048328EEBEEC9C94.title: "Hazmat"
+	quest.04C21F7B2F034772.quest_desc: ["&bSupercharged Coil&r คือสิ่งที่เปลี่ยน SPS ให้เป็นเครื่อง&bแอนติแมทเทอร์&r", "", "วางไว้ตรงกลางด้านในของแต่ละหน้า หันเข้าหาศูนย์กลาง มันรวม&bพลังงาน&rมหาศาลไปที่แหล่ง &bPolonium Gas&r ที่มีแรงดัน ทำให้อะตอมหนักแตกตัวและผลิต&dAntimatter&r", "", "เมื่อวางครบ SPS จะแสดงศักยภาพที่แท้จริงได้สักที"]
+	quest.04C21F7B2F034772.quest_subtitle: "พลังเหนือขีดจำกัด"
+	quest.04C21F7B2F034772.title: "Supercharged Coil"
+	quest.0C1C61B4554B38E5.quest_desc: ["&bCombiner&r ช่วยให้คุณ&6รวมไอเทม&rเป็นวัสดุใหม่ที่มีประโยชน์", "", "คุณรวม &dGem&r กับ &7Stone&r เพื่อสร้าง&8แร่&r รวม &eWax&r กับ &6Copper&r เพื่อป้องกันสภาพอากาศ ผสม&dสีย้อม&r และอีกมากมาย", "", "ดู &dEMI&r เพื่อค้นหาสูตรและความเป็นไปได้ทั้งหมดที่ &bCombiner&r มอบให้"]
+	quest.0C1C61B4554B38E5.quest_subtitle: "ประกอบชิ้นส่วนเข้าด้วยกัน"
+	quest.0C1C61B4554B38E5.title: "Combiner"
+	quest.110B0C8DD2FD5BE7.quest_desc: ["ยินดีต้อนรับสู่ &aMekanism&r ที่ซึ่งทรัพยากรดิบกลายเป็นเชื้อเพลิงของระบบอัตโนมัติสุดล้ำ", "", "คุณจะ&6สร้าง&rและ&6อัปเกรด&r&bเครื่องจักร&rทรงพลังเพื่อแปรรูป&7ของแข็ง&r &bของเหลว&r &9ก๊าซ&r และ&eพลังงาน&rในขนาดที่ใหญ่ขึ้นเรื่อย ๆ เริ่มจากเล็ก ๆ แล้วค่อยไต่ไปสู่โรงงานขั้นสูง การผลิตไฟฟ้าขนาดมหึมา และอุปกรณ์ไฮเทค", "", "ใช้ &dEMI&r สำรวจ&6สูตร&r &bสายการแปรรูป&r และวิธีมากมายที่วัสดุของ Mekanism แปลงร่างได้", "", "คอยมองหา &3Osmium&r ซึ่งเป็นหนึ่งใน&3ทรัพยากร&rที่สำคัญที่สุดของ Mekanism เป็นรากฐานของ&aเครื่องจักร&r &aวงจร&r และ&aอัปเกรด&rมากมายที่คุณต้องพึ่งพาตลอดการเล่น", "", "ตั้งแต่ &bการแปรรูปแร่&rพื้นฐานไปจนถึง &5fission&r, &5fusion&r และ &dantimatter&r มีอะไรให้ค้นพบอีกมาก", "", "&6สร้างให้ใหญ่ขึ้น &bแปรรูปให้เร็วขึ้น &aดัน Mekanism ให้ถึงขีดสุด&r"]
+	quest.110B0C8DD2FD5BE7.quest_subtitle: "ควบคุมพลังของเทคโนโลยีขั้นสูง"
+	quest.110B0C8DD2FD5BE7.title: "&fยินดีต้อนรับสู่ &aMekanism"
+	quest.117C9FABE86447D1.quest_desc: ["&bQuantum Entangloporter&r ให้คุณ&6ส่ง&rไอเทม &7ของเหลว&r &eก๊าซ&r &cความร้อน&r &dPigments&r &9slurries&r &ainfuse types&r และ&6พลังงาน&r ได้ทันที ข้ามระยะทางใดก็ได้", "", "เช่นเดียวกับ &bTeleporter&r ช่วยให้คุณเชื่อมต่อสถานที่ที่ห่างไกล โดยไม่ต้องกังวลเรื่องระยะห่างระหว่างกัน"]
+	quest.117C9FABE86447D1.quest_subtitle: "โลจิสติกส์ทันใจ"
+	quest.117C9FABE86447D1.title: "Quantum Entangloporter"
+	quest.17C1F2791A6E0676.quest_desc: ["Mekanism มีอัปเกรดหลายแบบให้ปรับแต่งเครื่องจักร ติดตั้งผ่านแท็บ &bUpgrade&r ของเครื่อง หรือ &6shift + คลิกขวา&r ที่เครื่องด้วยอัปเกรด", "", "&bSpeed Upgrade&r", "เพิ่มความเร็วการประมวลผล แต่เพิ่ม&eการใช้ FE&r อย่างมาก ติดตั้งได้สูงสุด &a16&r ชิ้น", "", "&eEnergy Upgrade&r", "เพิ่มความจุพลังงานและลดการใช้ &eFE/t&r ของเครื่อง มีประโยชน์เป็นพิเศษเมื่อใช้ร่วมกับ &bSpeed Upgrades&r", "", "&dGas Upgrade&r", "เพิ่มประสิทธิภาพของเครื่องที่ใช้ก๊าซ ลดปริมาณก๊าซที่ต้องใช้", "", "&7Muffling Upgrade&r", "ลดเสียงที่เครื่องจักรสร้างขึ้น ติดตั้งได้สูงสุด &a4&r ชิ้น ทำให้เงียบสนิท", "", "&6Filter Upgrade&r", "ใช้โดย &bElectric Pump&r เพื่อแยก &9Water&r ออกจาก &bHeavy Water&r", "", "&cAnchor Upgrade&r", "ทำให้ชังก์ของเครื่องที่รองรับโหลดอยู่เสมอ ทำงานต่อได้แม้คุณไม่อยู่", "", "&aStone Generator Upgrade&r", "ให้ &bDigital Miner&r มี &7Stone&r และ &8Cobblestone&r ไม่จำกัดสำหรับฟังก์ชันแทนที่บล็อก", "", "เลือกอัปเกรดอย่างรอบคอบ เครื่องที่สมดุลมีประสิทธิภาพกว่าเครื่องที่ใส่แต่ &bSpeed Upgrades&r มาก"]
+	quest.17C1F2791A6E0676.quest_subtitle: "ปรับจูนเครื่องจักรให้สมบูรณ์แบบ"
+	quest.17C1F2791A6E0676.title: "อัปเกรดเครื่องจักร (Machine Upgrades)"
+	quest.17E7640F55666577.quest_desc: ["&bPigment Extractor&r ให้คุณนำวัตถุ&aที่ย้อมสี&rเกือบทุกชนิดมา&6สกัดสีย้อม&rออกจากมัน", "", "กระบวนการนี้ทำลายวัตถุที่ย้อมสี เหลือไว้เป็นเวอร์ชัน&7ไม่ย้อมสี&rดั้งเดิมพร้อมสีย้อมที่สกัดได้"]
+	quest.17E7640F55666577.quest_subtitle: "มอบชีวิตที่สองให้สี"
+	quest.1B65CA6898CC3F9E.quest_desc: ["Tier Installers ให้คุณอัปเกรดเครื่องจักร &eMekanism&r ที่เข้ากันได้ในโลกโดยตรง โดยไม่ต้องรื้อและสร้างใหม่", "", "เพียง &6กดย่อ + คลิกขวา&r ที่เครื่องด้วย &bTier Installer&r ที่เหมาะสมเพื่อเปลี่ยนเป็น Factory รุ่นเทียบเท่า", "", "Installer แต่ละตัวอัปเกรดเครื่องทีละ&6หนึ่งระดับ&r", "", "&2Basic&r → &cAdvanced&r → &bElite&r → &dUltimate&r", "", "คุณข้ามระดับไม่ได้ ดังนั้นอัปเกรดเครื่องจักรให้ทันเมื่อโรงงานเติบโต"]
+	quest.1B65CA6898CC3F9E.quest_subtitle: "อัปเกรดสายการผลิตของคุณ"
+	quest.1B65CA6898CC3F9E.title: "Tier Installers"
+	quest.1D482F0D9AF8D17E.quest_desc: ["&dAtomic Alloy&r เป็นโลหะผสมที่แข็งแกร่งและนำไฟฟ้าดีที่สุดที่คุณสร้างได้", "", "ทำโดย&6ฉีด &5Refined Obsidian&r เข้าไปใน &bReinforced Alloy&r ได้วัสดุที่รับมือเครื่องจักรที่หนักที่สุดได้"]
+	quest.1D482F0D9AF8D17E.quest_subtitle: "จุดสูงสุดของเทคโนโลยีโลหะผสม"
+	quest.1D482F0D9AF8D17E.title: "Atomic Alloy"
+	quest.1F9A1456487655B0.quest_desc: [
+		"Using your &bTeleportation Core&r, construct a &9Teleporter&r to travel instantly between distant locations."
+		""
+		"Each &bTeleporter Portal&r requires one &9Teleporter&r and &b9 Teleporter Frames&r, leaving a two-block-wide opening for you to walk through."
+		""
+		"&6Configure&r your destination, step through the portal, and off you go!"
+	]
+	quest.1F9A1456487655B0.quest_subtitle: "Instant Travel"
+	quest.1F9A1456487655B0.title: "Teleporter"
+	quest.21586F8B123BFCC3.quest_desc: ["&bWaste Barrel&r เป็นวิธีง่าย ๆ ในการจัดการ &aของเหลวนิวเคลียร์&r ส่วนเกิน", "", "เมื่อเวลาผ่านไป ถังจะค่อย ๆ ปล่อยให้ของเสียที่เก็บไว้ &aสลายตัว&r ในอัตราคงที่ ทำให้คุณลดของเสียกัมมันตรังสีได้อย่างปลอดภัย โดยไม่ต้องแปรรูปเพิ่ม"]
+	quest.21586F8B123BFCC3.quest_subtitle: "ทางออกที่ค่อยเป็นค่อยไป"
+	quest.21586F8B123BFCC3.title: "พลังที่แท้จริงและความเจ็บปวดที่แท้จริง (True Power and True Pain)"
+	quest.21E51BEA3B8E3EDC.quest_desc: ["&8Steel&r!", "", "&bSteel Ingot&r เป็นหนึ่งในวัสดุที่สำคัญที่สุดในการเล่นสาย &6Mekanism&r ของคุณ", "", "คุณจะต้องใช้มันใน &aเกือบทุกอย่าง&r ตั้งแต่ &bเครื่องจักร&r และ &bชิ้นส่วน&r ไปจนถึง &6โครงสร้างหลายบล็อก&r ขนาดใหญ่", "", "Steel ผลิตโดย &6double infusing&r &7Iron&r ด้วย &8Coal&r แล้ว &6หลอม&r ผลลัพธ์ที่ได้ให้เป็น Steel Ingot", "", "ทำให้ชินไว้ เพราะคุณต้องทำ steel เป็นจำนวนมาก"]
+	quest.21E51BEA3B8E3EDC.quest_subtitle: "กระดูกสันหลังของ Mekanism"
+	quest.21E51BEA3B8E3EDC.title: "Steel Ingot"
+	quest.21EE3862F6DA8E09.quest_desc: ["&bPrecision Sawmill&r เป็นเครื่องจักรที่ออกแบบมาแปรรูป &9ท่อนไม้&r และวัสดุจากไม้อื่น ๆ ด้วย &eประสิทธิภาพสูงสุด&r", "", "เครื่องผลิต &9ขี้เลื่อย&r เป็นผลพลอยได้ ซึ่งเป็นวัสดุเพิ่มที่คุณนำไปใช้ในสายการแปรรูปได้"]
+	quest.21EE3862F6DA8E09.quest_subtitle: "เปลี่ยนท่อนไม้เป็นไม้แปรรูปและอื่น ๆ"
+	quest.21EE3862F6DA8E09.title: "Precision Sawmill"
+	quest.22D2716905D415E5.quest_desc: ["&bEnrichment Chamber&r เป็นเครื่องจักรอเนกประสงค์ที่ &6เพิ่มคุณภาพแร่&r ให้เป็น &bDusts&r สองชนิดขึ้นไป และยังทำสูตรอื่นที่มีประโยชน์ได้อีกมาก", "", "คุณใช้มันทำสิ่งต่าง ๆ ได้ เช่น", "", "เปลี่ยนดอกไม้เป็นผง", "กำจัดมอสออกจากบล็อก", "กำจัดสนิม", "และอื่น ๆ อีกมาก!", "", "เคล็ดลับ: &6Enrich&r &dinfuse types&r ของคุณ เช่น coal, redstone, diamonds และ refined obsidian เพื่อให้ได้ &binfuse material&r มากกว่าใช้อัญมณีหรือผงธรรมดา"]
+	quest.22D2716905D415E5.quest_subtitle: "เปลี่ยนทรัพยากรธรรมดาให้เป็นมากกว่าเดิม"
+	quest.22D2716905D415E5.title: "Enrichment Chamber"
+	quest.247E497BC6DE25CE.quest_desc: [
+		"The &bRobit&r is a handy little robot that can follow you around and help with all sorts of tasks."
+		""
+		"It can act as a &9crafting table&r, &7furnace&r, &7anvil&r, &6chest&r, and more — all while being a little companion on your adventures."
+		""
+		"Best of all, this little guy is completely &cfireproof&r, so you don't have to worry about him getting himself into too much trouble."
+	]
+	quest.247E497BC6DE25CE.quest_subtitle: "Your Little Helper"
+	quest.247E497BC6DE25CE.title: "Robit"
+	quest.27B6C6079B5FE918.quest_desc: ["&bRotary Condensentrator&r ช่วยแปลง &eก๊าซ&r ให้เป็น &bของเหลว&r หรือ &6ควบแน่น&r ของเหลวกลับเป็นก๊าซ", "", "ใช้ &6ปุ่ม&r ที่มุมซ้ายบนของ GUI เพื่อสลับระหว่างสองโหมด", "", "เครื่องนี้มีประโยชน์มากเมื่อสูตรต้องการสารเคมีใน &bสถานะ&r ที่ต่างออกไป ทำให้คุณสลับระหว่าง &eก๊าซ&r และ &bของเหลว&r ได้ตามต้องการ", "", "สารเคมีเดิม สถานะต่างกัน ความเป็นไปได้มากขึ้น"]
+	quest.27B6C6079B5FE918.quest_subtitle: "เปลี่ยนก๊าซเป็นของเหลว"
+	quest.27B6C6079B5FE918.title: "Rotary Condensentrator"
+	quest.2A68AB7D1EDD44BD.quest_desc: ["&bStructural Glass&r เป็นบล็อกอเนกประสงค์ที่ใช้แทนบล็อกส่วนใหญ่ใน &eมัลติบล็อก&r ได้ โดยยังมองเห็นโครงสร้างภายในได้ทั้งหมด", "", "มีประโยชน์เป็นพิเศษกับ &bDynamic Tanks&r ทำให้มองเห็นของเหลวข้างใน โดยกรอบด้านนอกของถังยังคงสมบูรณ์", "", "ใช้ Structural Glass ได้ทุกที่ที่ต้องการ &6ดูเครื่องจักรทำงาน&r โดยไม่เสียการใช้งาน", "", "ในเมื่อสร้างของซับซ้อนมาแล้ว ก็ทำให้มันดูเท่ไปเลย"]
+	quest.2A68AB7D1EDD44BD.quest_subtitle: "มองทะลุมัลติบล็อกของคุณ"
+	quest.2A68AB7D1EDD44BD.title: "Structural Glass"
+	quest.3392424E7E1B68C4.quest_desc: ["ต้องการ &bcentrifuge&r? ต้องการแบบ &aเร็วกว่า&r?", "", "แล้วแบบที่ &6หมุนเหมือนจรวด&r ติดกับ &9ม้าหมุนสนามเด็กเล่น&r ล่ะ?", "", "&bIsotopic Centrifuge&r คือคำตอบ!", "", "ใช้แปรรูป &aกากนิวเคลียร์&r และสร้าง &dเชื้อเพลิงฟิสไซล์&r ที่ต้องใช้จ่ายพลังงานให้ &cNuclear Reactor&r ของคุณ"]
+	quest.3392424E7E1B68C4.quest_subtitle: "หมุนให้สุด"
+	quest.3392424E7E1B68C4.title: "Isotopic Centrifuge"
+	quest.34B822EC25F66B54.quest_desc: ["&bOsmium Compressor&r ใช้ &6อัด&r &3osmium&r เข้ากับผงบางชนิดเพื่อ &6สร้าง&r ingot ที่เป็นคู่กัน"]
+	quest.34B822EC25F66B54.title: "Osmium Compressor"
+	quest.3B0AB80C9FAD48F2.quest_desc: ["&bAntiprotonic Nucleosynthesizer&r ใช้ &dAntimatter&r เปลี่ยนโครงสร้างโมเลกุลของวัสดุบางชนิดอย่างถึงรากถึงโคน", "", "ป้อนส่วนผสมที่ถูกต้อง แล้วมันจะแปลงให้เป็นรุ่นที่ &6ทรงพลังกว่า&r ปลดล็อกวัสดุและอัปเกรดที่แกร่งที่สุดบางอย่าง"]
+	quest.3B0AB80C9FAD48F2.quest_subtitle: "พลังของแอนติแมทเทอร์"
+	quest.3B0AB80C9FAD48F2.title: "Antiprotonic Nucleosynthesizer"
+	quest.3BAA7EC7653A7905.quest_desc: ["&bChemical Injection Chamber&r รับ &9แร่&r และ &craw ores&r มาประมวลผลกับ &7Hydrogen Chloride&r ให้เป็น &eshards&r หลายชิ้น เป็นก้าวแรกสู่ &aการแปรรูปแร่ 400%&r", "", "ยังมีการใช้งานที่เป็นประโยชน์อีกมาก ใช้ &7ออกซิเจน&r &coxidize&r วัสดุทองแดงบางชนิด เปลี่ยนไอน้ำเป็นคอนกรีตแข็ง ย้อนการเผาดินเหนียว และแม้แต่เติมน้ำให้ปะการังที่ตายแล้ว"]
+	quest.3BAA7EC7653A7905.quest_subtitle: "ประตูสู่การแปรรูปแร่สี่เท่า"
+	quest.3BAA7EC7653A7905.title: "Chemical Injection Chamber"
+	quest.3F6174E82DDC48C3.quest_desc: ["&bEnergized Smelter&r คือ &6เตาหลอมใช้พลังงาน&r แบบเรียบง่าย ใช้ &6หลอม&r ไอเทมและบล็อกให้กลายเป็นของที่ &7สุก&r แล้ว", "", "เป็นเครื่องจักรคู่ใจสำหรับการหลอมที่เร็วและอัตโนมัติ โดยไม่ต้องพึ่งเตาหลอมธรรมดา"]
+	quest.3F6174E82DDC48C3.quest_subtitle: "หลอมทางสู่ความก้าวหน้า"
+	quest.3F6174E82DDC48C3.title: "Energized Smelter"
+	quest.40EB78C0AF30096E.quest_desc: ["&bMetallurgic Infuser&r เป็นหนึ่งในเครื่องจักรแรกที่คุณจะสร้าง และแนะนำกลไกที่สำคัญที่สุดอย่างหนึ่งของ Mekanism คือ &6infusion&r", "", "เครื่องนี้ผสาน &bโลหะ&r เข้ากับ &dinfuse type&r ต่าง ๆ เพื่อสร้างวัสดุขั้นสูงที่ใช้ตลอดการเล่น", "", "ทำความคุ้นเคยกับตัวเลือก &3configuration&r ของเครื่องตั้งแต่เนิ่น ๆ คุณกำหนดได้ว่าด้านใด &aรับอินพุต&r, &cส่งเอาต์พุต&r, &eรับพลังงาน&r หรือไม่ทำอะไรเลย สำหรับแต่ละประเภททรัพยากร", "", "แท็บ &3energy statistics&r แสดงข้อมูลที่มีประโยชน์เกี่ยวกับ &eการใช้พลังงาน&r ของเครื่อง ส่วนการตั้งค่า &6redstone control&r ให้คุณกำหนดว่าเครื่องตอบสนองต่อสัญญาณ redstone อย่างไร", "", "คุณจะพบแท็บ &btransport&r ซึ่งทำงานร่วมกับ &bLogistical Transporters&r เพื่อช่วย &6กรอง&r และ &aส่งไอเทมไปตามเส้นทาง&r โดยอัตโนมัติ", "", "เรียนรู้พื้นฐานเสียตั้งแต่ตอนนี้ เพราะเครื่องจักรเหล่านี้คือรากฐานของทุกสิ่งที่ตามมา"]
+	quest.40EB78C0AF30096E.quest_subtitle: "เรียนรู้เครื่องจักรที่ทำให้ทุกอย่างเดินหน้า"
+	quest.40EB78C0AF30096E.title: "&eพื้นฐาน (The Basics)"
+	quest.41604B0C59094F5E.quest_desc: ["&bMekaSuit&r คือชุดเกราะโมดูลาร์ขั้นสุดยอดของ Mekanism ต่างจากเกราะทั่วไป ตรงที่ไม่มีค่าความทนทาน - ทำงานด้วย &eFE&r ล้วน ๆ", "", "แต่ละชิ้นปรับแต่งด้วย &dModules&r ได้ที่ &eModification Station&r โมดูลให้ได้ทุกอย่าง ตั้งแต่การบินและการเคลื่อนที่ที่ดีขึ้น ไปจนถึงการป้อนอาหารอัตโนมัติ การป้องกันรังสี และความสามารถป้องกันที่ทรงพลัง", "", "&bMekaSuit&r ทรงพลังอย่างเหลือเชื่อ เมื่ออัปเกรดเต็ม แต่ทุกความสามารถ ต้องแลกกับพลังงาน ชาร์จเกราะให้เต็มอยู่เสมอ เพื่อใช้ประโยชน์สูงสุด", "", "และอย่าลืม &bMeka-Tool&r! เครื่องมือโมดูลาร์สุดแกร่งนี้ รวมหน้าที่ของเครื่องมือหลายชิ้นไว้ในชิ้นเดียว มีโมดูลสำหรับ &6ขุดแร่เป็นเส้นแร่&r, &dSilk Touch&r, &cการต่อสู้&r, &aการขุดเจาะ&r, &eการแปรรูปแร่&r และอื่น ๆ", "", "ทั้งสองอย่างอัปเกรดที่ &eModification Station&r ให้คุณสร้างชุดที่ลงตัวที่สุดสำหรับสไตล์การเล่นของคุณ"]
+	quest.41604B0C59094F5E.quest_subtitle: "กลายเป็นเครื่องจักร"
+	quest.41604B0C59094F5E.title: "MekaSuit"
+	quest.4351715A36CA0DA6.quest_desc: ["&bNutritional Liquifier&r ช่วยให้คุณ &6บด&r อาหารเกือบทุกชนิดให้กลายเป็น &dNutritional Paste&r", "", "&dNutritional Paste&r นี้เก็บเป็น &bของเหลว&r ได้ในปริมาณมาก ทำให้จัดการอาหารจำนวนมากง่ายขึ้นมาก โดยไม่ต้องเอาที่เก็บของไปใส่ไอเทมเป็นกอง ๆ", "", "คุณยังใช้ช่องเฉพาะเพื่อเติม &dNutritional Paste&r ลงใน &bCanteens&r ได้ด้วย เป็นวิธีสะดวกในการพกติดตัวและกินเมื่อต้องการ", "", "ใส่อาหารเข้าไป Nutritional Paste ก็ออกมา ไม่ต้องเคี้ยว"]
+	quest.4351715A36CA0DA6.quest_subtitle: "เปลี่ยนอาหารเป็นเชื้อเพลิง"
+	quest.4351715A36CA0DA6.title: "Nutritional Liquifier"
+	quest.44D8D30BCD48C4C9.quest_desc: ["&bElite Control Circuit&r คือ &bแผงวงจรเคลือบเพชร&r ที่มีแกน &cInfused Alloy&r เต้นเป็นจังหวะ", "", "ดีไซน์ขั้นสูงรองรับ &6พลังประมวลผล&r ที่ต้องใช้ในการคำนวณระดับ &cที่เข้มข้นกว่ามาก&r จึงจำเป็นสำหรับ &bเครื่องจักร Mekanism ระดับสูง&r"]
+	quest.44D8D30BCD48C4C9.quest_subtitle: "พลังสำหรับเครื่องจักรที่จริงจัง"
+	quest.44D8D30BCD48C4C9.title: "Elite Control Circuit"
+	quest.45E16D69D7099581.quest_desc: ["ยินดีต้อนรับสู่ยุคของ &bSteel Casings&r!", "", "จากจุดนี้เป็นต้นไป &bเครื่องจักร Mekanism&r ส่วนใหญ่จะต้องใช้ Steel Casing เพื่อ &6รองรับ&r และบรรจุ &cวงจร&r กับ &7กลไก&r ภายใน", "", "สิ่งเหล่านี้เป็นหัวใจของ &6ความก้าวหน้า&r ของคุณ จึงควรคุ้นเคยกับการคราฟต์ไว้ - คุณจะเจอ Steel Casing บ่อยมากตลอดการเล่น Mekanism", "", "ไม่มี steel casing ก็ไม่มีเครื่องจักร"]
+	quest.45E16D69D7099581.quest_subtitle: "รากฐานของเครื่องจักรทุกเครื่อง"
+	quest.45E16D69D7099581.title: "Steel Casing"
+	quest.462944FD21A92AED.quest_desc: ["&cInfused Alloy&r คือ alloy ชนิดแรกที่คุณจะผลิตให้เครื่องจักร &6Mekanism&r", "", "สร้างจากการ &6ใส่ &credstone&r เข้าไปใน &6Copper&r ได้วัสดุที่นำไฟฟ้าสูง ใช้ทั่วทั้ง &acircuitry&r และชิ้นส่วนเครื่องจักรของ Mekanism", "", "คุณจะคราฟต์ของพวกนี้เยอะมากเมื่อก้าวหน้าขึ้น จึงควรสำรอง &cRedstone&r และ &6Copper&r ไว้ในมือเสมอ", "", "เครื่องจักรของคุณต้องการวงจร วงจรของคุณต้องการ alloy"]
+	quest.462944FD21A92AED.quest_subtitle: "จ่ายพลังให้วงจรด้วย alloy นำไฟฟ้า"
+	quest.462944FD21A92AED.title: "Infused Alloy"
+	quest.478A6A8ADA223AEF.quest_desc: ["&bCanteen&r ใช้เก็บ &dNutritional Paste&r และให้คุณกินระหว่างเดินทางได้", "", "เมื่อกิน &dPaste&r มันจะเติมแถบความหิวตามที่จำเป็น โดยไม่เสียส่วนเกินไปเปล่า ๆ", "", "&bCanteen&r เก็บ &dNutritional Paste&r ได้สูงสุด &b64,000 mb&r ให้คุณมีเสบียงมหาศาลในภาชนะเดียว", "", "ทุกครั้งที่กิน &dPaste&r จะใช้ &b128 mb&r ไม่ว่าคุณต้องการฟื้นความหิวมากเท่าใด"]
+	quest.478A6A8ADA223AEF.quest_subtitle: "โภชนาการพกพา ไปได้ทุกที่"
+	quest.478A6A8ADA223AEF.title: "Canteen"
+	quest.4910472BC0B2C21F.quest_desc: ["&dUU-Matter&r คือวัสดุขั้นสูงจาก &bMekanism: MoreMachine&r สร้างจากการควบคุม &bantimatter&r", "", "เป็นทรัพยากรทรงพลังอย่างเหลือเชื่อ ใช้คราฟต์เครื่องจักรและวัสดุ ที่ล้ำหน้าที่สุดบางอย่างในแพ็ก"]
+	quest.4910472BC0B2C21F.quest_subtitle: "วัสดุที่เหนือกว่าสสาร"
+	quest.5021D7D55A0B3533.quest_desc: ["ยินดีต้อนรับสู่ &bChemistry&r!", "", "&6การแปรรูปเคมี&r ของ Mekanism ให้คุณเปลี่ยนทรัพยากรธรรมดาเป็น &bสารเคมี&r, &eก๊าซ&r และวัสดุอื่นที่มีประโยชน์อันทรงพลัง", "", "คุณจะทำงานกับทุกอย่าง ตั้งแต่ &bปฏิกิริยาเคมี&r ง่าย ๆ ไปจนถึงสายการแปรรูปที่ซับซ้อนขึ้นเรื่อย ๆ เครื่องจักรและสูตรขั้นสูงของ Mekanism จำนวนมากจะพึ่งพาสารเคมีที่คุณผลิตระหว่างทาง", "", "เตรียม &bChemical Tanks&r, &bPressurized Tubes&r และเครื่องแปรรูปให้พร้อม - เรื่องกำลังจะ &6ผันผวน&r", "", "ถึงเวลาผสมของที่คุณไม่ควรผสม"]
+	quest.5021D7D55A0B3533.quest_subtitle: "เปลี่ยนทรัพยากรให้เป็นปฏิกิริยา"
+	quest.5021D7D55A0B3533.title: "ถึงเวลาเคมี (Time for Chemistry!)"
+	quest.508A650402DC24F5.quest_desc: ["&bSPS Casing&r สร้างโครงสร้างหลักของ &bSupercritical Phase Shifter&r ออกแบบมาทนสภาวะสุดขั้วที่ต้องใช้เพื่อสร้าง &bAntimatter&r", "", "แพง แต่คุณจะต้องใช้ถ้าต้องการยกระดับ &bการผลิตพลังงาน&r ไปอีกขั้น"]
+	quest.508A650402DC24F5.quest_subtitle: "ดันพลังงานถึงขีดสุด"
+	quest.508A650402DC24F5.title: "SPS Casing"
+	quest.534B63750942C433.quest_desc: ["ก้าวแรกของคุณสู่วงจรของ &6Mekanism&r คือ &bBasic Control Circuit&r", "", "ชิ้นส่วนกะทัดรัดเหล่านี้ทำจากการ &cใส่ &3Osmium&r เข้ากับ &credstone&r และเป็นรากฐานของเครื่องจักรและชิ้นส่วน Mekanism จำนวนมาก", "", "คุณจะใช้ &bControl Circuits&r ตลอดการเล่น โดยระดับที่ล้ำหน้ากว่าจะปลดล็อกเมื่อคุณเข้าสู่ Mekanism ลึกขึ้น", "", "ทำไว้เยอะ ๆ คุณต้องใช้แน่"]
+	quest.534B63750942C433.quest_subtitle: "สมองเบื้องหลังเครื่องจักรของคุณ"
+	quest.534B63750942C433.title: "Basic Control Circuit"
+	quest.550B874D9F2D0D5A.quest_desc: ["&bDigital Miner&r คือเครื่องขุดอัตโนมัติ ให้คุณรวบรวมทรัพยากรโดยไม่ต้องขุดทีละบล็อกเอง", "", "ใช้ &econfigurable filters&r เพื่อเลือก &9บล็อก&r เฉพาะหรือ tag ทั้งกลุ่ม ควบคุมได้แม่นยำว่าจะขุดอะไร", "", "ด้วยรัศมีสูงสุด &a32 บล็อก&r คุณครอบคลุมพื้นที่กว้างได้ ขณะที่การเก็บทรัพยากรยังเป็นอัตโนมัติเต็มรูปแบบ", "", "ต้องการเช็ก tag ของบล็อกหรือไม่ &bDictionary&r ของคุณช่วยได้"]
+	quest.550B874D9F2D0D5A.quest_subtitle: "ขุดอัตโนมัติ"
+	quest.550B874D9F2D0D5A.title: "Digital Miner"
+	quest.566D039774A4DB9D.quest_desc: ["สร้าง &bPlutonium Pellets&r โดยนำ &aกากนิวเคลียร์&r กลับมาใช้ใหม่แล้วรวมกับ &bfluorite dust&r", "", "pellet เหล่านี้ใช้ผลิต &bFissile Fuel&r ได้ เปลี่ยนกากกัมมันตรังสีของคุณให้เป็นของที่มีประโยชน์กว่ามาก"]
+	quest.566D039774A4DB9D.quest_subtitle: "เปลี่ยนกากเป็นเชื้อเพลิง"
+	quest.566D039774A4DB9D.title: "Plutonium Pellet"
+	quest.56C5ECD3430B6A55.quest_desc: [
+		"The &bHDPE Reinforced Elytra&r is a direct upgrade to the regular &delytra&r, offering &a2x the durability&r for longer flights."
+		""
+		"It can also be repaired using &7HDPE Sheets&r, with each sheet restoring &b25% of its durability&r."
+		""
+		"A little extra reinforcement goes a long way when you're planning on spending a lot of time in the air."
+	]
+	quest.56C5ECD3430B6A55.quest_subtitle: "Built to Last"
+	quest.56C5ECD3430B6A55.title: "HDPE Reinforced Elytra"
+	quest.59451B5DAD78C46F.quest_desc: ["&bAtomic Disassembler&r คือเครื่องมือขั้นสุดยอดสำหรับรื้อบล็อก เครื่องจักร และแทบทุกสิ่งที่ขวางทางคุณ", "", "เป็นเครื่องมืออเนกประสงค์ที่ใช้ได้หลากหลาย และเมื่อจำเป็นต้องสร้างความเสียหาย ก็ให้ &cหมัดหนักสุด ๆ&r ได้เลย"]
+	quest.59451B5DAD78C46F.quest_subtitle: "เครื่องมือขั้นสุดยอด"
+	quest.59451B5DAD78C46F.title: "Atomic Disassembler"
+	quest.5BDE55C11519F7F7.quest_desc: ["&bPurification Chamber&r คือขั้นแรกของการแปรรูปแร่ &a300%&r ใช้ &7ออกซิเจน&r ทำให้ &braw ores&r, &eore shards&r และวัสดุอื่น ๆ บริสุทธิ์ กลายเป็น &cclumps&r", "", "จากตรงนี้ &9สายการแปรรูปแร่&r ของคุณต่อไปยังขั้นถัดไปได้ เพื่อเพิ่มทรัพยากรที่ได้จากแร่ทุกก้อน"]
+	quest.5BDE55C11519F7F7.quest_subtitle: "ก้าวแรกสู่ประสิทธิภาพสูงสุด"
+	quest.5BDE55C11519F7F7.title: "Purification Chamber"
+	quest.5F95D00149FB24FD.quest_desc: ["&bChemical Dissolution Chamber&r รับ &9แร่&r มา &6ละลาย&r ด้วยสารเคมี แยกวัสดุที่มีประโยชน์ออกจากสิ่งสกปรก", "", "ผลลัพธ์คือ &dสลัวร์รีแร่&r ที่ยังไม่ผ่านการแปรรูป พร้อมให้ทำความสะอาดและกลั่นต่อในขั้นถัดไปของสาย &aแปรรูปแร่&r"]
+	quest.5F95D00149FB24FD.quest_subtitle: "สลายแร่"
+	quest.5F95D00149FB24FD.title: "Chemical Dissolution Chamber"
+	quest.5FFDA262D7693860.quest_desc: ["สร้าง &aPolonium Pellets&r โดยนำ &anuclear waste&r มาใช้ใหม่และผสมกับ &bfluorite dust&r", "", "วิธีนี้ทำให้คุณเปลี่ยนกากกัมมันตรังสีเป็นวัสดุมีค่าสำหรับเครื่องจักร &bMekanism&r ระดับ &cสูง&r ได้"]
+	quest.5FFDA262D7693860.quest_subtitle: "นำของเสียกลับมาใช้"
+	quest.5FFDA262D7693860.title: "Polonium Pellet"
+	quest.60F4F5FE0C3748C3.quest_desc: ["&dChemical Washer&r ใช้ &9น้ำ&r ล้าง &dslurries&r และเตรียมให้พร้อมสำหรับ &bการตกผลึก&r", "", "นี่คือขั้นสุดท้ายของ &a500% ore processing&r เปลี่ยน slurry ที่ผ่านการแปรรูปแล้วให้เป็นวัสดุที่จำเป็นสำหรับ &bการผลิตทรัพยากร&r ขั้นสูง"]
+	quest.60F4F5FE0C3748C3.quest_subtitle: "ขั้นสุดท้าย"
+	quest.60F4F5FE0C3748C3.title: "Chemical Washer"
+	quest.632BE5724D2120EB.quest_desc: ["&bReinforced Alloy&r คือวัสดุชั้นสูงที่สร้างโดย &6หลอม&r &bDiamond&r เข้ากับ &cInfused Alloy&r", "", "โลหะผสมทรงพลังนี้จำเป็นต่อการสร้างเครื่องจักร &5Mekanism&r ระดับถัดไป ดังนั้นควรเริ่มผลิตให้มีสำรองไว้มาก ๆ"]
+	quest.632BE5724D2120EB.quest_subtitle: "เสริมความแกร่งให้โลหะผสมสำหรับระดับถัดไป"
+	quest.632BE5724D2120EB.title: "Reinforced Alloy"
+	quest.6387004E98403CCE.quest_desc: ["&bChemical Crystallizer&r รับ &dpurified ore slurry&r มา &9ตกผลึก&r ให้เป็นผลึกแข็ง", "", "นี่คือขั้นถัดไปในสายการแปรรูปแร่ของคุณ เตรียมวัสดุสำหรับ &6การแปรรูป&r และการกลั่นต่อไป"]
+	quest.6387004E98403CCE.quest_subtitle: "ใสกระจ่าง"
+	quest.6387004E98403CCE.title: "Chemical Crystallizer"
+	quest.67D5ED5703F35A2D.quest_desc: ["&bSolar Neutron Activator&r นำ &cรังสีนิวตรอน&r จาก &eดวงอาทิตย์&r เข้าสู่ถังภายใน สร้าง &9ไอโซโทป&r เฉพาะ", "", "ใช้ &6นำ &anuclear waste&r กลับมาใช้ใหม่&r เป็น &3radioactive isotopes&r ที่มีประโยชน์ เปิดประตูสู่สายการแปรรูปขั้นสูงของ Mekanism"]
+	quest.67D5ED5703F35A2D.quest_subtitle: "เปลี่ยนแสงแดดให้กลายเป็นสารกัมมันตรังสี"
+	quest.67D5ED5703F35A2D.title: "Solar Neutron Activator"
+	quest.68C8CDDDD7EA8A48.quest_desc: ["&bSPS Port&r คือช่องทางที่คุณป้อน &bทรัพยากร&r เข้า &bSupercritical Phase Shifter&r และรับผลผลิตออกมา", "", "คุณจะต้องใช้สิ่งเหล่านี้เพื่อต่อ SPS เข้ากับโครงสร้างพื้นฐานของคุณ และให้ทุกอย่างไหลต่อเนื่อง"]
+	quest.68C8CDDDD7EA8A48.quest_subtitle: "การเชื่อมต่อ SPS"
+	quest.68C8CDDDD7EA8A48.title: "SPS Port"
+	quest.693C902E4E926BB4.quest_desc: ["&bChemical Oxidizer&r ใช้แปลง &bของแข็ง&r ให้เป็นรูป &eก๊าซ&r", "", "ป้อนวัสดุของแข็งที่เหมาะสม แล้ว Oxidizer จะ &6ออกซิไดซ์&r ให้เป็นก๊าซเคมีที่ใช้ใน &bการแปรรูป&r และปฏิกิริยาขั้นต่อไปได้", "", "เป็นขั้นตอนที่ง่ายแต่สำคัญสู่ &bการแปรรูปสารเคมี&r ขั้นสูง โดยเฉพาะเมื่อสูตรของคุณเริ่มต้องการก๊าซแทนวัตถุดิบดิบ", "", "บางครั้ง วิธีที่ง่ายที่สุดในการจัดการของแข็งคือเปลี่ยนให้เป็นก๊าซ"]
+	quest.693C902E4E926BB4.quest_subtitle: "เปลี่ยนของแข็งเป็นก๊าซ"
+	quest.693C902E4E926BB4.title: "Chemical Oxidizer"
+	quest.69B079DABB860AEF.quest_desc: ["&dUltimate Control Circuit&r คือจุดสูงสุดของวงจร &bMekanism&r สร้างมาเพื่อรองรับเครื่องจักรและระบบที่ต้องการสูงที่สุด", "", "คราฟต์ด้วย &5refined obsidian&r ให้ความแข็งแกร่งและความน่าเชื่อถือที่จำเป็นเมื่อต้องการ &cประสิทธิภาพสูงสุด&r"]
+	quest.69B079DABB860AEF.quest_subtitle: "สร้างมาเพื่อขีดสุด"
+	quest.69B079DABB860AEF.title: "Ultimate Control Circuit"
+	quest.6A382549A4C55A5E.quest_desc: ["&cAdvanced Control Circuit&r คือ &6วงจร&r ระดับถัดไป ใช้สร้าง &cเครื่องจักรขั้นสูง&r ที่ทรงพลังยิ่งขึ้น", "", "คุณจะต้องใช้จำนวนมากเมื่อก้าวเข้าสู่ส่วนที่ท้าทายกว่าของ &5Mekanism&r"]
+	quest.6A382549A4C55A5E.quest_subtitle: "ก้าวต่อไปสู่เครื่องจักรขั้นสูง"
+	quest.6A382549A4C55A5E.title: "Advanced Control Circuit"
+	quest.703C1F1E9A6F4A9E.quest_desc: ["&bChemical Infuser&r ช่วยให้คุณรวม &eก๊าซ&r เข้าด้วยกันเป็น &bผลิตภัณฑ์ชนิดเดียว&r ใหม่", "", "ป้อนก๊าซที่ต้องการ แล้วมันจะ &6ทำปฏิกิริยา&r กัน ได้สารเคมีที่มีประโยชน์ต่อ &bการแปรรูป&r ขั้นสูงและสูตร &6Mekanism&r", "", "เมื่อก้าวหน้า คุณจะพบสูตรเพิ่มเติมที่ต้องรวมก๊าซด้วยวิธีนี้", "", "ก๊าซสองชนิดเข้า ผลิตภัณฑ์หนึ่งชนิดออก"]
+	quest.703C1F1E9A6F4A9E.quest_subtitle: "รวมก๊าซให้กลายเป็นสิ่งที่ยิ่งใหญ่กว่า"
+	quest.703C1F1E9A6F4A9E.title: "Chemical Infuser"
+	quest.71DD555551705B17.quest_desc: ["การใช้งานแรก ๆ ของ &8Steel&r อย่างหนึ่งคือ &bDynamic Tank&r", "", "เป็นระบบเก็บของแบบ &emultiblock&r ที่ออกแบบมาเก็บ &bของเหลว&r และ &eก๊าซ&r ในปริมาณมหาศาล สร้างถังให้ใหญ่ขึ้นเพื่อเพิ่มความจุอย่างมาก", "", "Dynamic Tanks มีประโยชน์เป็นพิเศษสำหรับป้อนระบบ &bการแปรรูป&r และ &eการผลิตพลังงาน&r ขนาดใหญ่ โดยไม่ต้องพึ่งภาชนะเล็ก ๆ หลายสิบใบ", "", "เมื่อถังไม้ไม่พอ ก็สร้างแทงก์"]
+	quest.71DD555551705B17.quest_subtitle: "เก็บของเหลวในระดับมหึมา"
+	quest.71DD555551705B17.title: "Dynamic Tank"
+	quest.740B34D7D1AF3FF0.quest_desc: ["&bCrusher&r คือเครื่องที่ใช้ &6บด&r ไอเทมและบล็อกให้เป็น &7ผง&r และ &9วัสดุ&r อื่น ๆ", "", "เป็นส่วนที่เรียบง่ายแต่จำเป็นของสายการแปรรูปของ &5Mekanism&r ช่วยให้คุณแยกทรัพยากรเป็นส่วนประกอบที่มีประโยชน์เพื่อ &6แปรรูป&r ต่อ"]
+	quest.740B34D7D1AF3FF0.quest_subtitle: "แยกย่อยทีละบล็อก"
+	quest.740B34D7D1AF3FF0.title: "Crusher"
+	quest.79515634992D02A3.quest_desc: ["ตอนนี้คุณนำ &dAntimatter Gas&r ที่ SPS ผลิตได้ มาทำให้แข็งเป็น &dAntimatter Pellet&r ได้แล้ว", "", "วัสดุทรงพลังสุดขีดนี้ใช้คราฟต์อัปเกรดและเครื่องจักรที่ &6ทรงพลังที่สุด&r บางส่วนที่คุณมี", "", "ยินดีต้อนรับสู่จุดสูงสุดของเทคโนโลยี &bMekanism&r"]
+	quest.79515634992D02A3.quest_subtitle: "ควบคุมพลังแอนติแมทเทอร์"
+	quest.79515634992D02A3.title: "แอนติแมทเทอร์ (Antimatter)"
+	quest.7BB4CE27736F4C08.quest_desc: ["ชิ้นส่วนสุดท้ายของ &bDynamic Tank&r คือ &bDynamic Valve&r", "", "วางที่ใดก็ได้บน &emultiblock&r เพื่อเข้าถึงสิ่งที่อยู่ในถัง ใช้เชื่อมต่อ &6ท่อ&r และ &6สายยาง&r เพื่อ &apump ของเหลวเข้า&r หรือ &cpump ของเหลวออก&r จากถัง", "", "ใส่ valve เท่าที่ต้องการเพื่อให้ระบบของเหลวไหลต่อเนื่อง", "", "เติม ระบาย ทำให้อัตโนมัติ"]
+	quest.7BB4CE27736F4C08.quest_subtitle: "ควบคุมการไหลของถังคุณ"
+	quest.7BB4CE27736F4C08.title: "Dynamic Valve"
+	task.2A344C35DC371D0C.title: "Tier Installers"
+	task.442ACE1521CFC2A5.title: "อัปเกรด (Upgrades)"
+}
