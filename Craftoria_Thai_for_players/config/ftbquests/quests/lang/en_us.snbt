@@ -539,7 +539,7 @@
 	quest.1094111FB9512D75.title: "Diesel Generator"
 	quest.109C9BB979CF8F23.title: "milestones/unlock_overenchanting_with_enchanter"
 	quest.10A77FA1A0155EFC.title: "unlocks/upgrades/upgrade_efficiency"
-	quest.10BD26FC074B3066.quest_desc: ["วิวัฒนาการขั้นสุดยอดของ &bEnchantment Library&r", "", "&zLibrary of Alexandria&r ขยายความสามารถในการเก็บ Enchantment ของคุณอย่างมาก ทำให้สร้างและดูแลคอลเลกชันหนังสือเอ็นชานต์ทรงพลังได้ง่ายขึ้น", "", "เก็บความรู้ด้าน Enchantment ที่สะสมไว้ที่นี่ และเรียกกลับมาเมื่อต้องการ แทนการเก็บหนังสือเอ็นชานต์เป็นกอง ๆ ในคลัง", "", "นี่คือขั้นสุดท้ายในการสร้างห้องสมุด Enchantment โดยเฉพาะ", "", "เคล็ดลับ: ใช้ร่วมกับ &eTome of Extraction&r เพื่อย้าย Enchantment ทรงพลังจากอุปกรณ์เดิมเข้าคอลเลกชันของคุณอย่างปลอดภัย"]
+	quest.10BD26FC074B3066.quest_desc: ["วิวัฒนาการขั้นสุดยอดของ &bEnchantment Library&r", "", "&zLibrary of Alexandria&r ขยายความสามารถในการเก็บ Enchantment ของคุณอย่างมาก ทำให้สร้างและดูแลคอลเลกชันหนังสือเอนชานต์ทรงพลังได้ง่ายขึ้น", "", "เก็บความรู้ด้าน Enchantment ที่สะสมไว้ที่นี่ และเรียกกลับมาเมื่อต้องการ แทนการเก็บหนังสือเอนชานต์เป็นกอง ๆ ในคลัง", "", "นี่คือขั้นสุดท้ายในการสร้างห้องสมุด Enchantment โดยเฉพาะ", "", "เคล็ดลับ: ใช้ร่วมกับ &eTome of Extraction&r เพื่อย้าย Enchantment ทรงพลังจากอุปกรณ์เดิมเข้าคอลเลกชันของคุณอย่างปลอดภัย"]
 	quest.10BD26FC074B3066.quest_subtitle: "เชี่ยวชาญศาสตร์แห่ง Enchanting"
 	quest.10DE06AD0C054F60.title: "milestones/reveal_blood_orchid_petals"
 	quest.1103A1D59725AF3E.title: "unlocks/enchantments/vanilla_luck"
@@ -1810,7 +1810,7 @@
 	quest.3E62028A2B03EEA4.quest_desc: ["The &bElite Thermodynamic Conductor&b has a &4heat capacity&r of &a1.0&r, a conduction of &e5.0&r, but an insulation of &c8000.0&r."]
 	quest.3E62028A2B03EEA4.title: "Elite Thermodynamic Conductor"
 	quest.3E7891FE00914F10.title: "hidden/collect_vanilla/dragon_breath"
-	quest.3E8C6BD8557C6F08.quest_desc: ["หลังจากใช้ Manuscript ปลดล็อก Eldritch Scrolls แล้ว คุณใช้ Echo Shards ใน Scrolls forge เพื่อคราฟต์ Eldritch Spell ได้ Scrolls เหล่านี้คราฟต์ได้ด้วย Legendary Ink เท่านั้น", "", "Abyssal Shroud - เคยอยากหลบการโจมตีไหม Creeper ระเบิดแล้วคุณพูดได้ว่า \"ฮ่า พลาดแล้ว\" สเปลนี้เปลี่ยนคุณเป็น enderman วาร์ปหนีเมื่อถูกโจมตี แทบจะอมตะตลอดเวลาที่สเปลยังคงอยู่", "", "Eldrich Blast - เมื่อเปิดใช้ คุณยิงพลังงานบริสุทธิ์ได้สูงสุด 7 นัด แต่ละนัดยิงไกลได้สูงสุด 30 บล็อก ระวังอย่าให้ระเบิดใส่หัวตัวเองล่ะ", "", "Planar Sight - อันนี้รู้สึกเหมือนโกง... คุณมองเห็นเอนทิตีทุกตัวในระยะเรนเดอร์ที่กำหนด ใช้ได้ทั้งเอนทิตีที่ล่องหนและไม่ล่องหน และทำให้พวกมันเรืองแสงทะลุกำแพง", "", "Skulk Tentacles - สเปลที่น่าขนลุกมาก ปล่อยป่า Skulk Tentacles ขึ้นจากพื้น เหมาะกับการแกล้งเพื่อนที่เพิ่งเล่นเกมใหม่ หรือกวาดล้างม็อบเป็นกลุ่ม และสร้างความเสียหายได้พอสมควร", "", "Sonic Boom - กลายเป็น Warden แล้วปล่อยเสียงระเบิด ที่สร้างความเสียหายมหาศาลแก่เอนทิตีในระยะ 20-30 บล็อก (ขึ้นอยู่กับเลเวล)", "", "Telekinesis - เคยอยากโยนม็อบหรือเพื่อนให้หายไปไหม สเปลนี้ให้คุณยกเอนทิตีขึ้นมาแล้วเหวี่ยงไปมาจนกว่าสเปลจะหมด ระวังด้วย ถ้าทำให้พวกเขาพุ่งชนกำแพง จะได้รับความเสียหายจากแรงกระแทก"]
+	quest.3E8C6BD8557C6F08.quest_desc: ["หลังจากใช้ Manuscript ปลดล็อก Eldritch Scrolls แล้ว คุณใช้ Echo Shards ใน Scrolls forge เพื่อคราฟต์ Eldritch Spell ได้ Scrolls เหล่านี้คราฟต์ได้ด้วย Legendary Ink เท่านั้น", "", "Abyssal Shroud - เคยอยากหลบการโจมตีไหม Creeper ระเบิดแล้วคุณพูดได้ว่า \"ฮ่า พลาดแล้ว\" เวทนี้เปลี่ยนคุณเป็น enderman วาร์ปหนีเมื่อถูกโจมตี แทบจะอมตะตลอดเวลาที่เวทยังคงอยู่", "", "Eldrich Blast - เมื่อเปิดใช้ คุณยิงพลังงานบริสุทธิ์ได้สูงสุด 7 นัด แต่ละนัดยิงไกลได้สูงสุด 30 บล็อก ระวังอย่าให้ระเบิดใส่หัวตัวเองล่ะ", "", "Planar Sight - อันนี้รู้สึกเหมือนโกง... คุณมองเห็นเอนทิตีทุกตัวในระยะเรนเดอร์ที่กำหนด ใช้ได้ทั้งเอนทิตีที่ล่องหนและไม่ล่องหน และทำให้พวกมันเรืองแสงทะลุกำแพง", "", "Skulk Tentacles - เวทที่น่าขนลุกมาก ปล่อยป่า Skulk Tentacles ขึ้นจากพื้น เหมาะกับการแกล้งเพื่อนที่เพิ่งเล่นเกมใหม่ หรือกวาดล้างม็อบเป็นกลุ่ม และสร้างความเสียหายได้พอสมควร", "", "Sonic Boom - กลายเป็น Warden แล้วปล่อยเสียงระเบิด ที่สร้างความเสียหายมหาศาลแก่เอนทิตีในระยะ 20-30 บล็อก (ขึ้นอยู่กับเลเวล)", "", "Telekinesis - เคยอยากโยนม็อบหรือเพื่อนให้หายไปไหม เวทนี้ให้คุณยกเอนทิตีขึ้นมาแล้วเหวี่ยงไปมาจนกว่าเวทจะหมด ระวังด้วย ถ้าทำให้พวกเขาพุ่งชนกำแพง จะได้รับความเสียหายจากแรงกระแทก"]
 	quest.3E903D71F66D3DB4.quest_subtitle: "เติม N2O เร่งกำลังเต็มสูบ"
 	quest.3E903D71F66D3DB4.title: "&6Replicator (MK II)"
 	quest.3E9D2DA07E8617EA.quest_subtitle: "ทำบทเควสนี้ให้สำเร็จ"
@@ -1845,7 +1845,7 @@
 	quest.3F73EC8E087E2920.title: "Burning Spawner Rune"
 	quest.3F7F938A54C50396.title: "triggers/hints/stratine_page0"
 	quest.3F8B9421E85C047D.title: "Water for Chemical Washing"
-	quest.3FB60EC2EE4D0435.quest_desc: ["&bEnchanter's Tools&r ใส่ &dSpells&r ได้ที่ &bScribe's Table&r", "", "- &bEnchanter's Mirror&r:", "&8ใช้สเปลกับผู้ใช้เอง สเปลที่ร่ายด้วยกระจกนี้ &2ลดต้นทุน&r &8และได้ระยะเวลา &6เพิ่มเติม&r &8กับทุก glyph (ไม่ต้องใช้ &5Form&r &8เหมือนเครื่องมือ Enchanter ทั่วไป)"]
+	quest.3FB60EC2EE4D0435.quest_desc: ["&bEnchanter's Tools&r ใส่ &dSpells&r ได้ที่ &bScribe's Table&r", "", "- &bEnchanter's Mirror&r:", "&8ใช้เวทกับผู้ใช้เอง เวทที่ร่ายด้วยกระจกนี้ &2ลดต้นทุน&r &8และได้ระยะเวลา &6เพิ่มเติม&r &8กับทุก glyph (ไม่ต้องใช้ &5Form&r &8เหมือนเครื่องมือ Enchanter ทั่วไป)"]
 	quest.3FB60EC2EE4D0435.title: "Enchanter's Tools"
 	quest.3FD0CB4DDB3EECC6.title: "unlocks/trinkets/cotton_cloud_boots"
 	quest.3FF4126574E3A6BA.title: "unlocks/blocks/ethereal_platform"
@@ -2027,7 +2027,7 @@
 	quest.4554EE3CC1F80F7D.quest_desc: ["ให้ม็อบที่คุณชอบที่สุด &6ขับ&r รถไฟของคุณ!"]
 	quest.4564D6058C50A0FE.title: "unlocks/items/bottle_of_fading_essence"
 	quest.45664AAC3ACCEF36.quest_desc: ["&bObserver&r ที่ &6เก่งกว่า&r มาก"]
-	quest.45692D06641029FD.quest_subtitle: "ตัวอย่างสเปลบางส่วน"
+	quest.45692D06641029FD.quest_subtitle: "ตัวอย่างเวทบางส่วน"
 	quest.45692D06641029FD.title: "การต่อสู้ (Fighting)"
 	quest.45715666D0335133.title: "unlocks/enchantments/vanilla_trial_treasure"
 	quest.4582A2AF5E3DCD0E.title: "unlocks/upgrades/upgrade_efficiency2"
@@ -2085,7 +2085,7 @@
 	quest.47E21B8B90B5908B.title: "hidden/collect_any_crystallized_block"
 	quest.47E6E91E526B6D34.quest_desc: [" &bCelestigems&r &6ดรอป&r จากการทุบ &braw celestigem ore&r", "", " ไม่ต้องหลอมหรือแปรรูปเพิ่ม", "", "{image:justdirethings:item/celestigem width:100 height:100 align:center fit:true}"]
 	quest.47FE63E4E742A880.title: "unlocks/enchantments/resonance_crafting"
-	quest.480F170F7028C337.quest_desc: ["ช่องสเปล Lesser "]
+	quest.480F170F7028C337.quest_desc: ["ช่องเวท Lesser "]
 	quest.48212961977655E7.quest_desc: [
 		"Well i guess you could, But I don't think it would taste that great. "
 		""
@@ -2132,7 +2132,7 @@
 	quest.4980C231ECDB0BF2.title: "Steel Drill"
 	quest.49910F2EFEA1CDF2.quest_desc: ["  &bSimple&r:", "    • &6เก็บ&r &bของเหลว&r", "    • ควบคุม &eความเร็ว&r และ &eทิศทาง&r", "    • ตั้งให้ไวต่อ &4redstone&r ได้ (ไม่บังคับ)", "", "  &bAdvanced&r:", "    • เพิ่ม &6การกรอง&r และ &3offset AOE&r", "    • ต้องใช้ &cพลังงาน&r", "", "{image:justdirethings:block/fluidcollectort2_side width:100 height:100 align:center}"]
 	quest.499C20A6A0D7952F.quest_desc: ["ผมเพิ่มลงในเกราะแต่ละชิ้น:", "&8Self -> Heal -> Amplify ", "", "- เอนชานต์: &6Reactive I&r", "", "", "&4หมายเหตุ&r: ระวังเรื่อง &5source&r (ทริกเกอร์บ่อยเกินไป หรือใช้มากเกินไปต่อครั้ง อาจทำให้ &5แถบ source&r หมด)"]
-	quest.499C20A6A0D7952F.quest_subtitle: "สเปลตัวอย่าง"
+	quest.499C20A6A0D7952F.quest_subtitle: "เวทตัวอย่าง"
 	quest.499C20A6A0D7952F.title: "เกราะ (Armor)"
 	quest.49A2B2B2B23C856E.title: "unlocks/weather/rain"
 	quest.49BDD5CCF648A04D.quest_desc: ["ยกระดับ &bAra Vitae&r ของคุณ แล้วสร้าง &bVeneficus Orb of Vitae&r ขยาย &bAnima&r ของคุณสู่ระดับใหม่", "", "โครงสร้าง &6Tier 3&r ใช้ Bloodstone/Bloodstone Bricks และต้องใช้ Tau Fruit จากพิธี &4Breaching the Edge of Demon Realm&r"]
@@ -2188,8 +2188,8 @@
 	quest.4BA462A27BFE442B.title: "milestones/reveal_colored_saplings_cmy"
 	quest.4BB0A9ECCA5A96E2.title: "unlocks/food/myceylon_pastries"
 	quest.4BD9A727CE930331.title: "unlocks/items/glass_ampoules"
-	quest.4BDF01E28F247553.quest_desc: ["หนึ่งในตัวเลือกการขุดที่ดีที่สุดที่ &5Ars&r มีให้", "", "- ต้องมี &6เอนชานต์ Piercing&r เพื่อให้ &5Projectile&r ทะลุ", "&8(ไม่รู้ว่าทำไมผู้พัฒนาจึงข้าม &5Piercing glyph&r &8ทุกอันที่อยู่ก่อน &5Effect glyph&r&8)", "", "- ที่เก็บของ: &bBackpack&r พร้อม &bPickup Upgrade&r (Bank เก็บไม่ได้เมื่อมี &5Pickup glyph&r)", "- เครื่องมือ: &bEnchanter's Crossbow&r", "- ลูกธนู: &bAugment Arrow: Split&r", "- เอนชานต์ Piercing: สูงที่สุดเท่าที่ทำได้ (แต่ละเลเวลเพิ่ม <level> + 1 เท่า)", "- ระยะ: ลองนับดูเอง ผมได้เกิน &910k บล็อก&r ต่อนัดด้วย &6Piercing VIII&r", "", "- ทำลายไอเทมทิ้ง: &bJar of Voiding&r (ได้ source คืน) หรือ &bVoid Upgrade&r สำหรับ Backpack", "", "- สเปล: ไม่ต้องใช้ &5Form glyph&r เพราะ &bCrossbow&r จะเพิ่มให้อัตโนมัติ", "&8Split -> Burst -> Sensitive -> AoE -> AoE -> AoE -> AoE -> Break -> Extract -> Pickup"]
-	quest.4BDF01E28F247553.quest_subtitle: "สเปลตัวอย่าง"
+	quest.4BDF01E28F247553.quest_desc: ["หนึ่งในตัวเลือกการขุดที่ดีที่สุดที่ &5Ars&r มีให้", "", "- ต้องมี &6เอนชานต์ Piercing&r เพื่อให้ &5Projectile&r ทะลุ", "&8(ไม่รู้ว่าทำไมผู้พัฒนาจึงข้าม &5Piercing glyph&r &8ทุกอันที่อยู่ก่อน &5Effect glyph&r&8)", "", "- ที่เก็บของ: &bBackpack&r พร้อม &bPickup Upgrade&r (Bank เก็บไม่ได้เมื่อมี &5Pickup glyph&r)", "- เครื่องมือ: &bEnchanter's Crossbow&r", "- ลูกธนู: &bAugment Arrow: Split&r", "- เอนชานต์ Piercing: สูงที่สุดเท่าที่ทำได้ (แต่ละเลเวลเพิ่ม <level> + 1 เท่า)", "- ระยะ: ลองนับดูเอง ผมได้เกิน &910k บล็อก&r ต่อนัดด้วย &6Piercing VIII&r", "", "- ทำลายไอเทมทิ้ง: &bJar of Voiding&r (ได้ source คืน) หรือ &bVoid Upgrade&r สำหรับ Backpack", "", "- เวท: ไม่ต้องใช้ &5Form glyph&r เพราะ &bCrossbow&r จะเพิ่มให้อัตโนมัติ", "&8Split -> Burst -> Sensitive -> AoE -> AoE -> AoE -> AoE -> Break -> Extract -> Pickup"]
+	quest.4BDF01E28F247553.quest_subtitle: "เวทตัวอย่าง"
 	quest.4BDF01E28F247553.title: "Enchanter's Crossbow (T3)"
 	quest.4BDFB16DA32214E4.title: "unlocks/items/ink_assortment"
 	quest.4BF483174CC0A0F1.quest_desc: [" เมื่อ &6มีพลังงาน&r จะไม่เสียความทนทาน", "", "  รองรับ &bอัปเกรด&r ใหม่เพิ่มเติม:", "", "• &bPickaxe&r: &cDrops Teleporter&r", "• &bShovel&r: &cDrops Teleporter&r", "• &bAxe&r: &cDrops Teleporter&r", "• &bHoe&r: &cDrops Teleporter&r", "• &bSword&r: &cDrops Teleporter&r", "• &bBow&r: &cLingering&r, &cHoming Arrow&r", "", "{image:justdirethings:item/celestigem_shovel_active width:100 height:100 align:center fit:true}"]
@@ -2233,7 +2233,7 @@
 	quest.4D8F5451D0607DB2.title: "hidden/collect_jadeite"
 	quest.4DAFFFDC31A78665.quest_desc: ["คราฟต์ด้วย &bIron Block &fใน &bCharger &fเพื่อทำ &bEnergy Processor&f"]
 	quest.4DB10666349CCDBD.title: "hidden/unlock_explard_hint"
-	quest.4DBDCEA0761F1D3B.quest_desc: ["&bWarp Scrolls&r ใช้เทเลพอร์ตหรือสร้าง &5พอร์ทัลถาวร&r ", "&8+ เทเลพอร์ตตัวเอง: ใช้ scroll ใน &6มือหลัก", "&8+ เทเลพอร์ตม็อบ: ร่ายสเปลด้วย &5Blink glyph &8ขณะ scroll อยู่ใน &6มือรอง", "", "- &bWarp Scroll&r: เทเลพอร์ตตัวเองไปยังตำแหน่งที่ตั้งไว้", "&8การใช้งาน: 1 ครั้ง", "&8ข้ามมิติ: ไม่ได้", "", "- &bStabilized Warp Scroll&r: สร้าง &5พอร์ทัลชั่วคราว&r ที่จะหายไปหลังจากนั้นไม่นาน", "&8การใช้งาน: ไม่จำกัด", "&8ข้ามมิติ: ได้", "", "", "&8เคล็ดลับ 1: หากต้อง &6ตั้ง &8ตำแหน่ง ให้คลิกขวา (ใช้ได้กับ &bWarp Scroll เปล่า&8 เท่านั้น)", "&8เคล็ดลับ 2: หากต้อง &6รีเซ็ต &8ตำแหน่ง ให้คราฟต์ scroll แบบ shapeless (ใช้ตาราง 2x2 ในช่องเก็บของได้ :P )", "", "", "&4หมายเหตุ&r: หากต้องการสร้างพอร์ทัล &5ถาวร&r ดูที่ &bเควสถัดไป&r"]
+	quest.4DBDCEA0761F1D3B.quest_desc: ["&bWarp Scrolls&r ใช้เทเลพอร์ตหรือสร้าง &5พอร์ทัลถาวร&r ", "&8+ เทเลพอร์ตตัวเอง: ใช้ scroll ใน &6มือหลัก", "&8+ เทเลพอร์ตม็อบ: ร่ายเวทด้วย &5Blink glyph &8ขณะ scroll อยู่ใน &6มือรอง", "", "- &bWarp Scroll&r: เทเลพอร์ตตัวเองไปยังตำแหน่งที่ตั้งไว้", "&8การใช้งาน: 1 ครั้ง", "&8ข้ามมิติ: ไม่ได้", "", "- &bStabilized Warp Scroll&r: สร้าง &5พอร์ทัลชั่วคราว&r ที่จะหายไปหลังจากนั้นไม่นาน", "&8การใช้งาน: ไม่จำกัด", "&8ข้ามมิติ: ได้", "", "", "&8เคล็ดลับ 1: หากต้อง &6ตั้ง &8ตำแหน่ง ให้คลิกขวา (ใช้ได้กับ &bWarp Scroll เปล่า&8 เท่านั้น)", "&8เคล็ดลับ 2: หากต้อง &6รีเซ็ต &8ตำแหน่ง ให้คราฟต์ scroll แบบ shapeless (ใช้ตาราง 2x2 ในช่องเก็บของได้ :P )", "", "", "&4หมายเหตุ&r: หากต้องการสร้างพอร์ทัล &5ถาวร&r ดูที่ &bเควสถัดไป&r"]
 	quest.4DBDCEA0761F1D3B.title: "Warp Scrolls"
 	quest.4DC59BCF8833CC3C.title: "Avocados"
 	quest.4DCA027828C2921C.quest_desc: ["พลังงานสำรองแบบพกพาสำหรับของ Create บางอย่าง"]
@@ -2284,9 +2284,9 @@
 	quest.4EF9C36CED1EDDC4.quest_desc: ["&bFeathers&r, &bBooks&r และ &bBlack Dye&r &6แปลงสภาพ&r ใน &5Spiritfire&r ได้ ให้ได้รุ่นที่รับการทำงานกับวิญญาณได้ดีขึ้น"]
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "พิธีของนักเขียนผู้ถูกต้อง"
 	quest.4EF9C36CED1EDDC4.title: "Occult Writing Materials"
-	quest.4F076E5D6F0BED74.quest_desc: ["&bสเปล&r คือการรวม &bglyph&r เข้าด้วยกัน", "", "&bForm glyph&r: มีได้เพียง 1 form ต่อ &bสเปล&r", "&8(เครื่องมือ enchanter บางชิ้นเพิ่ม form ให้อัตโนมัติ คุณจึงไม่ต้องเพิ่ม form ให้สเปล)&r", "", "&bAugment glyph&r: 1 อันขึ้นไปต่อ Form/Effect", "", "&bEffect glyph&r: 1 อันขึ้นไปต่อสเปล", "", "&bต้นทุนสเปล&r = &4ต้นทุนก่อนส่วนลด&r - &2ส่วนลด&r", "- &4ต้นทุนก่อนส่วนลด&r: &5รวมกัน&r จาก &bglyph&r ทั้งหมด", "- &2ส่วนลด&r: จาก &bRing of Lesser Discount&r / &bRing of Greater Discount&r", "", "", "&8ดู &bหน้า 2 &8หากต้องการตรวจสอบว่าต้นทุนสเปลคือการบวก glyph เข้าด้วยกันเท่านั้น (ไม่มีการคูณ)", "", "{@pagebreak}", "ดูไฟล์เหล่านี้ได้ที่ github ของม็อด :)", "", "&8- SpellResolver.java สำหรับ getResolveCost() ที่เรียก ⬇", "", "&8- SpellContext.java สำหรับ getSpell() ที่เรียก ⬇", "", "&8- Spell.java สำหรับ getCost() ซึ่งเป็นแค่ลูปไล่ดูแต่ละ glyph (AbstractSpellPart) เพื่อรับต้นทุน"]
-	quest.4F076E5D6F0BED74.quest_subtitle: "พื้นฐานสเปล"
-	quest.4F076E5D6F0BED74.title: "สเปลเบื้องต้น (Spell 101 - 1)"
+	quest.4F076E5D6F0BED74.quest_desc: ["&bเวท&r คือการรวม &bglyph&r เข้าด้วยกัน", "", "&bForm glyph&r: มีได้เพียง 1 form ต่อ &bเวท&r", "&8(เครื่องมือ enchanter บางชิ้นเพิ่ม form ให้อัตโนมัติ คุณจึงไม่ต้องเพิ่ม form ให้เวท)&r", "", "&bAugment glyph&r: 1 อันขึ้นไปต่อ Form/Effect", "", "&bEffect glyph&r: 1 อันขึ้นไปต่อเวท", "", "&bต้นทุนเวท&r = &4ต้นทุนก่อนส่วนลด&r - &2ส่วนลด&r", "- &4ต้นทุนก่อนส่วนลด&r: &5รวมกัน&r จาก &bglyph&r ทั้งหมด", "- &2ส่วนลด&r: จาก &bRing of Lesser Discount&r / &bRing of Greater Discount&r", "", "", "&8ดู &bหน้า 2 &8หากต้องการตรวจสอบว่าต้นทุนเวทคือการบวก glyph เข้าด้วยกันเท่านั้น (ไม่มีการคูณ)", "", "{@pagebreak}", "ดูไฟล์เหล่านี้ได้ที่ github ของม็อด :)", "", "&8- SpellResolver.java สำหรับ getResolveCost() ที่เรียก ⬇", "", "&8- SpellContext.java สำหรับ getSpell() ที่เรียก ⬇", "", "&8- Spell.java สำหรับ getCost() ซึ่งเป็นแค่ลูปไล่ดูแต่ละ glyph (AbstractSpellPart) เพื่อรับต้นทุน"]
+	quest.4F076E5D6F0BED74.quest_subtitle: "พื้นฐานเวท"
+	quest.4F076E5D6F0BED74.title: "เวทเบื้องต้น (Spell 101 - 1)"
 	quest.4F0F24F222AA434A.quest_desc: ["ชอล์ก &eYellow&r ทรงพลังกว่า White ธรรมดาเล็กน้อย ใช้หลัก ๆ กับพิธีกรรม Possession"]
 	quest.4F0F24F222AA434A.quest_subtitle: "การเข้าสิง"
 	quest.4F144C6D995FED7E.quest_desc: ["สร้าง &bMagus Orb of Vitae&r แล้วขยาย &bAnima&r ของคุณเพื่อรองรับสิ่งสร้างที่ทรงพลังขึ้นเรื่อย ๆ"]
@@ -2353,7 +2353,7 @@
 	quest.5141CC7D94FFCA48.title: "unlocks/items/phantom_frames"
 	quest.5143D5FD55C819CA.quest_desc: ["ต่างจาก Glass Divination Rod &3Pre-Attuned Rod&r นี้ &6ปรับจูนไว้แล้ว&r กับชนิดบล็อกที่ระบุโดย &bSulfur&r ที่ใช้ทำ", "", "นอกนั้นทำงานเหมือน Glass Divination Rod ทุกประการ อันนี้ถูกปรับจูนให้หาวัสดุ &8Abundant&r"]
 	quest.5143D5FD55C819CA.quest_subtitle: "จับเป้าหมายได้แล้ว"
-	quest.51542DCB5C8E5C3A.quest_desc: ["Spellbook ระดับสองที่เก็บสเปลได้เพียง 6 สเปล"]
+	quest.51542DCB5C8E5C3A.quest_desc: ["Spellbook ระดับสองที่เก็บเวทได้เพียง 6 เวท"]
 	quest.515D648F4BD824FB.title: "unlocks/food/triple_meat_pot_stew"
 	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r และ &bLinear Chassis&r &6ช่วย&r สร้าง contraption โดยไม่ต้องใช้ superglue"]
 	quest.516940CBDA4E04DE.title: "milestones/unlock_hostile_memorizing"
@@ -2416,7 +2416,7 @@
 	quest.5221657F939FE63B.quest_desc: ["ใช้ Scroll Forge กับ Bottle O' Lightning เพื่อคราฟต์ Lightning Scrolls"]
 	quest.5253D3AA5B45369E.quest_desc: ["ตอนนี้เราคุยเรื่อง &bProjectile form glyph&r", "", "พิเศษตรงที่ใช้ &5Spell Effects&r กับโปรเจกไทล์แต่ละลูก", "&4หมายเหตุ&r: &bเครื่องมือ Enchanter&r อาจไม่เป็นไปตามนี้ ... &0(จะว่ายังไงได้ ม็อดเวทมนตร์)&r", "", "&8Projectile -> Pierce -> Pierce -> Pierce -> Break -> Pierce&r", "- &bPierce augment glyph&r: ทำให้โปรเจกไทล์ชนบล็อกเพิ่มอีก 1 บล็อกต่อ glyph", "- &bProjectile glyph&r กับ &bPierce augment glyph&r 3 อัน: จะทะลุ &bบล็อก&r เพิ่มอีก 3 บล็อก", "- &5Spell Effects&r ในกรณีนี้คือ: &8Break -> Pierce&r", "=> โปรเจกไทล์ชน 4 ครั้ง และทุกครั้งใช้ &5Spell Effects&r ข้างต้น", "", "", "คุณคิดว่าจะทำลายได้กี่ &bบล็อก&r (ดูคำตอบที่ &bหน้า 2&r)", "", "{@pagebreak}", "5 บล็อกใช่ไหม &4ผิด&r", "", "8 บล็อก &2ถูกต้อง&r", "&8โปรเจกไทล์ชน 4 ครั้ง และทุกครั้งใช้ &5Spell Effects&r ข้างต้น", "&8<=> โปรเจกไทล์ชน 4 ครั้ง และทุกครั้งทำลาย 1 บล็อก \\& บล็อกด้านหลังมัน&r", "", "", "&4หมายเหตุ&r: &bSpell Tools&r จะไม่เป็นไปตามนี้ &8:(&r"]
 	quest.5253D3AA5B45369E.quest_subtitle: "Projectile Glyph"
-	quest.5253D3AA5B45369E.title: "สเปลเบื้องต้น (Spell 101 - 3)"
+	quest.5253D3AA5B45369E.title: "เวทเบื้องต้น (Spell 101 - 3)"
 	quest.525658A19130AF37.quest_desc: ["ผลิต &7Compressed Air&r โดยใช้ &7ของเหลวเชื้อเพลิง&r ต่าง ๆ ", "", "หากต้องการดู &8เชื้อเพลิง&r ที่ใช้ได้ทั้งหมด ให้เปิดแท็บ ‘&9Available Fuels&r’ ซึ่งเรียงจาก &aมีประสิทธิภาพมากที่สุด&r ไป &cน้อยที่สุด&r "]
 	quest.52575C93CD6DD5D5.quest_desc: ["สำหรับ &6แพ็ก&r และ &6แกะ&r แพ็กเกจ"]
 	quest.525AE9031FB66D21.title: "triggers/hints/preservation_ruins_page0"
@@ -2530,7 +2530,7 @@
 	quest.55DBF04C81688194.quest_subtitle: "สิ่งตรงข้ามของ Spout"
 	quest.55E3FF90F6BEEA13.title: "hidden/collect_pigment/white"
 	quest.55E9002FBFE38A93.title: "unlocks/colored_lamps/blue_lamp"
-	quest.560634C7982F2FDC.quest_desc: ["เปลี่ยนทิศ &bSpell projectile&r", "&8(หากต้องการรู้ว่าสเปลชน prism เมื่อใด ให้ใช้ &bObserver&r&8)"]
+	quest.560634C7982F2FDC.quest_desc: ["เปลี่ยนทิศ &bSpell projectile&r", "&8(หากต้องการรู้ว่าเวทชน prism เมื่อใด ให้ใช้ &bObserver&r&8)"]
 	quest.56079AB13D721BC7.quest_desc: ["&bเกราะ&r ที่ &6อัปเกรด&r ได้ แต่มีค่าเกราะเท่า &eGold&r", "", "- อัปเกรดด้วย &bEnchanting Apparatus&r", "- เพิ่ม/ลบ &bThreads&r ด้วย &bAlteration Table&r"]
 	quest.56079AB13D721BC7.title: "Sorcerer's Cloak"
 	quest.5619683321410B74.quest_desc: ["ช่างบ้านเถอะ แบกรังทั้งหลังไปกับตัวเลย! แต่ขอเตือนว่าไม่ถูกนะ!"]
@@ -2584,7 +2584,7 @@
 	quest.57A8D67858693F4A.title: "Basic Injecting Factory"
 	quest.57BD29386888988A.title: "unlocks/reagents/shimmerstone_gem"
 	quest.57D104FF04B35463.title: "Water Vapor"
-	quest.57D9E9C4AEA9DF63.quest_desc: ["- &bScribe's Table&r ใช้สร้าง &5Glyphs&r ที่ใส่ใน &bSpell Book&r ของคุณได้", "- ยังเป็นที่ที่คุณวาง &bเครื่องมือ Enchanter&r (ดาบ/ธนู/ขวาน ฯลฯ) เพื่อใส่สเปลลงไป", "", "", "&8เคล็ดลับ 1: ดูเควส &bTier 1 Glyphs &8ผมรวบรวมไว้ว่าจะหาส่วนใหญ่ได้ที่ไหนโดยไม่ต้องคราฟต์ :)", "{ \"text\": \"CLICK ME\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"511C07DFE796F377\" } }", "", "&8เคล็ดลับ 2: มัน &6ดึง &8ไอเทมจาก &bที่เก็บของ &8ใกล้ ๆ ได้ (ปิดด้วย &bDominion Wand&r&8)", "&6กดย่อ + คลิกขวา"]
+	quest.57D9E9C4AEA9DF63.quest_desc: ["- &bScribe's Table&r ใช้สร้าง &5Glyphs&r ที่ใส่ใน &bSpell Book&r ของคุณได้", "- ยังเป็นที่ที่คุณวาง &bเครื่องมือ Enchanter&r (ดาบ/ธนู/ขวาน ฯลฯ) เพื่อใส่เวทลงไป", "", "", "&8เคล็ดลับ 1: ดูเควส &bTier 1 Glyphs &8ผมรวบรวมไว้ว่าจะหาส่วนใหญ่ได้ที่ไหนโดยไม่ต้องคราฟต์ :)", "{ \"text\": \"CLICK ME\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"511C07DFE796F377\" } }", "", "&8เคล็ดลับ 2: มัน &6ดึง &8ไอเทมจาก &bที่เก็บของ &8ใกล้ ๆ ได้ (ปิดด้วย &bDominion Wand&r&8)", "&6กดย่อ + คลิกขวา"]
 	quest.581A65CFEEA0C2E4.title: "unlocks/glowblocks/light_blue_glowblock"
 	quest.5820987E7948B631.title: "hidden/collect_jadeite"
 	quest.5830F79B86BDD6B1.title: "unlocks/colored_saplings/magenta_sapling"

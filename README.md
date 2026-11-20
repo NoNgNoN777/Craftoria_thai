@@ -11,7 +11,7 @@
 3. เปิดเกม เลือก **Options → Language → English (US)** จากนั้นไปที่ **Resource Packs** เปิด `ZZ_Craftoria_Thai.zip` ไว้บนสุด
 4. ฟอนต์ไทย: แนะนำให้ลงแพ็กฟอนต์ไทย (เช่น ThaiFontFix) แล้วเปิดไว้ใต้ชุดภาษาไทย ฟอนต์ของเกมแสดงสระและวรรณยุกต์ไม่สวย
 
-ย้อนกลับ: ลบไฟล์ที่คัดลอกลงไปและคืนไฟล์ `config/ftbquests` ที่สำรองไว้
+ย้อนกลับ: ปิดเกม คัดลอกทุกอย่างในโฟลเดอร์ `ย้อนกลับ_ไฟล์อังกฤษเดิม` (ไฟล์เควสภาษาอังกฤษของแพ็ก) ไปวางทับใน instance ลบ `config/ftbquests/quests/lang/th_th.snbt` แล้วปิด `ZZ_Craftoria_Thai.zip` ในหน้า Resource Packs หรือคืน `config/ftbquests` ที่สำรองไว้
 
 ## ข้างในมีอะไร
 
