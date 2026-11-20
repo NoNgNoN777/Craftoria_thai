@@ -11,7 +11,7 @@
 2) ตั้งค่าในเกม (ทำครั้งแรกครั้งเดียว)
    - Options -> Language: เลือก English (US) ข้อความไทยถูกใส่ไว้ใน English แล้ว
    - Options -> Resource Packs: เปิด ZZ_Craftoria_Thai.zip ไว้บนสุด
-   - ลง TLB Itim Font V 1.2 แล้วเปิดไว้ใต้ ZZ_Craftoria_Thai.zip เพื่อให้หนังสือ Patchouli แสดงฟอนต์ไทยได้ถูกต้อง
+   - ลง TLB Itim Font V 1.2 แล้วเปิดไว้ใต้ ZZ_Craftoria_Thai.zip เพื่อให้หนังสือ Patchouli และคู่มือในเกม (กด G) แสดงฟอนต์ไทยได้ถูกต้อง
    - กด Done
 
 ย้อนกลับเป็นภาษาอังกฤษ: ปิดเกม ก๊อปปี้ทุกอย่างในโฟลเดอร์ ย้อนกลับ_ไฟล์อังกฤษเดิม (ยกเว้นไฟล์ .txt) ไปวางทับใน instance เลือก Replace ลบไฟล์ตามรายการใน ย้อนกลับ_ไฟล์อังกฤษเดิม/ไฟล์ใหม่ที่ลบได้ตอนย้อนกลับ.txt และปิด ZZ_Craftoria_Thai.zip ในหน้า Resource Packs
