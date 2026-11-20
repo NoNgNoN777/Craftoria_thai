@@ -22,7 +22,7 @@
 	quest.30FB66E92909D4B9.quest_subtitle: "Niter ทุกชนิด"
 	quest.30FB66E92909D4B9.title: "&bAlchemical Niter"
 	quest.367A013744D689E4.quest_desc: ["เครื่องนี้ให้ &6ความร้อน&r &6กลั่น&r สสารให้เป็น &bAlchemical Mercury&r", "", "ในตอนนี้ คุณต้องวาง &bPyromantic Brazier&r ไว้ใต้ Distiller และ &6เติมเชื้อเพลิง&r แบบที่ใช้กับเตาหลอมเพื่อให้ความร้อน &aเชื้อเพลิงใช้ได้นานเป็นสองเท่าของใน Furnace&r"]
-	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury?"
+	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury งั้นเหรอ?"
 	quest.376DD70A2C14F9A9.quest_desc: ["ทรัพยากร &aCommon&r หายากกว่าคู่ &8Abundant&r เล็กน้อย แต่ยังหาได้ค่อนข้างง่าย"]
 	quest.376DD70A2C14F9A9.title: "Common Sulfurs"
 	quest.392EC503FD52E32A.quest_desc: ["มี &bSulfur&r หลายชนิด แบ่งตาม &6ระดับ&r มากมาย"]

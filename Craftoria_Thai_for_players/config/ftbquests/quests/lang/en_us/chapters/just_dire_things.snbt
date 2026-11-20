@@ -10,7 +10,7 @@
 	quest.08B17C05B2111477.quest_desc: ["  ยินดีด้วย", "", "  ตอนนี้คุณ&6ปลดล็อก&rระดับที่สี่&rและระดับสุดท้าย&rของ&bไอเทม&rและ&bบล็อก&rของ JDT&r แล้ว", "", "  &bเครื่องมือ&r&6ทำงานทันที&r &bเกราะ&rมอบ&6พลังแบบ&rซูเปอร์แมน&r และ &bไม้กายสิทธิ์&r&6เจาะรูชั่วคราว&rในโลกได้", "", "  ใครเห็นคุณในชุด JDT&r ระดับสูงสุดจะรู้ว่าคุณผ่านมาหมดแล้ว... &2Overworld&r, &4The Nether&r, &3The End&r และ &9Deep Dark&r", "", "{image:justdirethings:item/eclipsealloy_ingot width:100 height:100 align:center fit:true}"]
 	quest.08B17C05B2111477.quest_subtitle: "ระดับ 4: ปลดล็อกแล้ว"
 	quest.0E50E568DFA078D5.quest_desc: ["  ความก้าวหน้าของ Just Dire Things&r ผูกอยู่กับ &bgoo&r สี่ชนิด", "", "  การคราฟต์ &bgoo&r แต่ละชนิดต้องไปยังแต่ละภูมิภาค", "", "• &bPrimogel Goo&r—&6Overworld&r", "", "• &bBlazebloom Goo&r—&6The Nether&r", "", "• &bVoidShimmer Goo&r—&6The  End&r", "", "• &bShadowpulse Goo&r—&6Deep Dark&r", "", "", "{image:justdirethings:block/gooblock_tier4 width:32 height:32 align:center fit:true}"]
-	quest.0E50E568DFA078D5.quest_subtitle: "Goo Job!"
+	quest.0E50E568DFA078D5.quest_subtitle: "ทำได้ดีมาก! (Goo Job!)"
 	quest.0E50E568DFA078D5.title: "เริ่มต้น Just Dire Things (Begin Just Dire Things)"
 	quest.0ECDE9598DABBD3A.quest_desc: ["• &cOre Miner&r, &cOre Scanner&r", "• &cLawn Mower&r, &cSky Sweeper&r", "• &cTree Feller&r, &cLeaf Breaker&c", "• &cAuto Smelter&r", "• &cHammer&r", "• &cDrops Teleporter&r", "", "{image:justdirethings:item/celestigem_paxel_active width:100 height:100 align:center fit:true}"]
 	quest.0F121433B94D72D9.quest_desc: ["   &6ชี้&r&bอัปเกรด&r JDT&r ใน EMI แล้ว&6กด shift ค้าง&rเพื่ออ่าน&9คำอธิบาย&r", "", "{image:justdirethings:item/abilityupgrades/jumpboost width:100 height:100 align:center}"]

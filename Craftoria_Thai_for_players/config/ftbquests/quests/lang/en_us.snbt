@@ -473,7 +473,7 @@
 	quest.0E36B0F444159DC6.quest_subtitle: "ที่เก็บของจำนวนมากส่วนตัวของคุณ"
 	quest.0E3A8954B2AAF9F7.quest_desc: ["ใช้ &bRitual Brazier&r เรียก &4Wilden Chimera&r แล้วเอาชนะมัน", "", "ไอเทมนี้ให้คุณคราฟต์ &bSpell Book&r ระดับสูงสุดได้"]
 	quest.0E50E568DFA078D5.quest_desc: ["  ความก้าวหน้าของ Just Dire Things&r ผูกอยู่กับ &bgoo&r สี่ชนิด", "", "  การคราฟต์ &bgoo&r แต่ละชนิดต้องไปยังแต่ละภูมิภาค", "", "• &bPrimogel Goo&r—&6Overworld&r", "", "• &bBlazebloom Goo&r—&6The Nether&r", "", "• &bVoidShimmer Goo&r—&6The  End&r", "", "• &bShadowpulse Goo&r—&6Deep Dark&r", "", "", "{image:justdirethings:block/gooblock_tier4 width:32 height:32 align:center fit:true}"]
-	quest.0E50E568DFA078D5.quest_subtitle: "Goo Job!"
+	quest.0E50E568DFA078D5.quest_subtitle: "ทำได้ดีมาก! (Goo Job!)"
 	quest.0E50E568DFA078D5.title: "เริ่มต้น Just Dire Things (Begin Just Dire Things)"
 	quest.0E616270A77B2B14.title: "triggers/hints/radiating_ender_page1"
 	quest.0E869C4DD398CF19.title: "triggers/hints/malachite_page1"
@@ -1586,7 +1586,7 @@
 	quest.3659C78DA0CB6010.title: "unlocks/reagents/moonstone_powder"
 	quest.3670774AF8DA54A4.title: "triggers/hints/failing_page1"
 	quest.367A013744D689E4.quest_desc: ["เครื่องนี้ให้ &6ความร้อน&r &6กลั่น&r สสารให้เป็น &bAlchemical Mercury&r", "", "ในตอนนี้ คุณต้องวาง &bPyromantic Brazier&r ไว้ใต้ Distiller และ &6เติมเชื้อเพลิง&r แบบที่ใช้กับเตาหลอมเพื่อให้ความร้อน &aเชื้อเพลิงใช้ได้นานเป็นสองเท่าของใน Furnace&r"]
-	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury?"
+	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury งั้นเหรอ?"
 	quest.3689AAE9D0DB96FB.quest_desc: ["&bThermal Evaporation Valve&r คือส่วนเชื่อมระหว่าง &eThermal Evaporation Plant&r ของคุณกับโลกภายนอก", "", "ใช้วาล์ว &9ป้อนเข้า&r และ &9ดึงของเหลวออก&r จากหอ คุณต้องมีวาล์วแยกสำหรับทางเข้าและทางออกของระบบ", "", "วาล์วยังส่ง &cความร้อน&r เข้าหอได้เมื่อเชื่อมกับเครือข่าย &bThermodynamic Conductor&r เป็นอีกวิธีให้ความร้อนแก่โรงระเหยของคุณ", "", "วางวาล์วอย่างระมัดระวัง หอที่เชื่อมต่อดีจะจัดการ &9ของเหลว&r และ &cความร้อน&r ได้ง่ายขึ้นมาก"]
 	quest.3689AAE9D0DB96FB.quest_subtitle: "เชื่อมต่อหอระเหยของคุณ"
 	quest.3689AAE9D0DB96FB.title: "Thermal Evaporation Valve"
