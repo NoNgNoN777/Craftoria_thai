@@ -9,7 +9,7 @@
 1. ปิดเกม แล้วเปิดโฟลเดอร์ instance ของ Craftoria (โฟลเดอร์ที่มี `mods` และ `config`) สำรอง `config/ftbquests` ไว้ก่อน
 2. แตก `Craftoria_Thai_for_players.zip` แล้วคัดลอก **ทั้ง `config` และ `resourcepacks`** ไปวางทับใน instance
 3. เปิดเกม เลือก **Options → Language → English (US)** จากนั้นไปที่ **Resource Packs** เปิด `ZZ_Craftoria_Thai.zip` ไว้บนสุด
-4. ฟอนต์ไทย: ลงแพ็กฟอนต์ **TLB Itim Font V 1.2** แล้วเปิดไว้ **ใต้** `ZZ_Craftoria_Thai.zip` ตัวแก้ฟอนต์หนังสือ Patchouli ในชุดนี้อ้างฟอนต์ของ Itim (ดูหัวข้อ "ฟอนต์หนังสือ Patchouli" ด้านล่าง) ถ้าใช้แพ็กฟอนต์ไทยอื่น หนังสือ Patchouli และคู่มือในเกมอาจแสดงไทยไม่ถูก ชุดนี้มีไฟล์ฟอนต์เชื่อมให้คู่มือ GuideME ใช้ฟอนต์เดียวกับตัวเกม (`assets/minecraft/font/uniform.json`)
+4. ฟอนต์ไทย: ลงแพ็กฟอนต์ **TLB Itim Font V 1.2** แล้วเปิดไว้ **ใต้** `ZZ_Craftoria_Thai.zip` ตัวแก้ฟอนต์หนังสือ Patchouli ในชุดนี้อ้างฟอนต์ของ Itim (ดูหัวข้อ "ฟอนต์หนังสือ Patchouli" ด้านล่าง) ถ้าใช้แพ็กฟอนต์ไทยอื่น หนังสือ Patchouli และคู่มือในเกมอาจแสดงไทยไม่ถูก ไฟล์ `assets/minecraft/font/uniform.json` ในชุดนี้โหลด minecraft:itim.ttf จากแพ็ก Itim โดยตรง (ไฟล์เดียวกับที่ทดสอบกับ Oathbound Codex) คู่มือ GuideME น่าจะใช้ฟอนต์ uniform เดียวกัน แต่ยังไม่ได้ทดสอบในเกม
 
 ย้อนกลับ: ปิดเกม คัดลอกทุกอย่างในโฟลเดอร์ `ย้อนกลับ_ไฟล์อังกฤษเดิม` (ไฟล์เควสภาษาอังกฤษของแพ็ก) ไปวางทับใน instance ลบ `config/ftbquests/quests/lang/th_th.snbt` แล้วปิด `ZZ_Craftoria_Thai.zip` ในหน้า Resource Packs หรือคืน `config/ftbquests` ที่สำรองไว้
 
